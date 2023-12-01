@@ -1,0 +1,5298 @@
+,municipio,pupulacao
+0,Abadia de Goiás,8773.0
+1,Abadia dos Dourados,6989.0
+2,Abadiânia,20042.0
+3,Abaetetuba,157698.0
+4,Abaeté,23237.0
+5,Abaiara,11737.0
+6,Abaré,20086.0
+7,Abatiá,7457.0
+8,Abaíra,8739.0
+9,Abdon Batista,2563.0
+10,Abel Figueiredo,7434.0
+11,Abelardo Luz,17904.0
+12,Abre Campo,13454.0
+13,Abreu e Lima,99990.0
+14,Abreulândia,2579.0
+15,Acaiaca,3994.0
+16,Acajutiba,15159.0
+17,Acarape,14929.0
+18,Acaraú,62641.0
+19,Acari,11136.0
+20,Acará,55591.0
+21,Acauã,7084.0
+22,Aceguá,4901.0
+23,Acopiara,54270.0
+24,Acorizal,5399.0
+25,Acrelândia,15256.0
+26,Acreúna,22366.0
+27,Adamantina,35068.0
+28,Adelândia,2516.0
+29,Adolfo,3562.0
+30,Adrianópolis,5919.0
+31,Adustina,17040.0
+32,Afogados da Ingazeira,37259.0
+33,Afonso Bezerra,11035.0
+34,Afonso Cláudio,30586.0
+35,Afonso Cunha,6524.0
+36,Afrânio,19635.0
+37,Afuá,39218.0
+38,Agrestina,24885.0
+39,Agricolândia,5139.0
+40,Agrolândia,10864.0
+41,Agronômica,5448.0
+42,Aguanil,4486.0
+43,Aguaí,36305.0
+44,Agudo,16461.0
+45,Agudos,37214.0
+46,Agudos do Sul,9371.0
+47,Aguiar,5640.0
+48,Aguiarnópolis,6733.0
+49,Aimorés,25167.0
+50,Aiquara,4446.0
+51,Aiuaba,17399.0
+52,Aiuruoca,6003.0
+53,Ajuricaba,7024.0
+54,Alagoa,2674.0
+55,Alagoa Grande,28496.0
+56,Alagoa Nova,20849.0
+57,Alagoinha,14636.0
+58,Alagoinha do Piauí,7651.0
+59,Alagoinhas,151596.0
+60,Alambari,6025.0
+61,Albertina,3007.0
+62,Alcantil,5492.0
+63,Alcinópolis,5343.0
+64,Alcobaça,22470.0
+65,Alcântara,22097.0
+66,Alcântaras,11714.0
+67,Aldeias Altas,26532.0
+68,Alecrim,5950.0
+69,Alegre,30084.0
+70,Alegrete,73589.0
+71,Alegrete do Piauí,4915.0
+72,Alegria,3464.0
+73,Alenquer,56789.0
+74,Alexandria,13577.0
+75,Alexânia,27653.0
+76,Alfenas,79996.0
+77,Alfredo Chaves,14601.0
+78,Alfredo Marcondes,4166.0
+79,Alfredo Vasconcelos,6907.0
+80,Alfredo Wagner,10036.0
+81,Algodão de Jandaíra,2567.0
+82,Alhandra,19588.0
+83,Aliança,38386.0
+84,Aliança do Tocantins,5390.0
+85,Almadina,5464.0
+86,Almas,7055.0
+87,Almeirim,34109.0
+88,Almenara,41896.0
+89,Almino Afonso,4735.0
+90,Almirante Tamandaré,118623.0
+91,Almirante Tamandaré do Sul,1964.0
+92,Aloândia,1995.0
+93,Alpercata,7424.0
+94,Alpestre,6258.0
+95,Alpinópolis,19853.0
+96,Alta Floresta,51782.0
+97,Alta Floresta D'Oeste,22945.0
+98,Altair,4160.0
+99,Altamira,114594.0
+100,Altamira do Maranhão,8128.0
+101,Altamira do Paraná,1942.0
+102,Altaneira,7586.0
+103,Alterosa,14466.0
+104,Altinho,22972.0
+105,Altinópolis,16184.0
+106,Alto Alegre,15510.0
+107,Alto Alegre do Maranhão,27053.0
+108,Alto Alegre do Pindaré,31919.0
+109,Alto Alegre dos Parecis,13241.0
+110,Alto Araguaia,19044.0
+111,Alto Bela Vista,1937.0
+112,Alto Boa Vista,6822.0
+113,Alto Caparaó,5847.0
+114,Alto Feliz,3028.0
+115,Alto Garças,12030.0
+116,Alto Horizonte,6414.0
+117,Alto Jequitibá,8317.0
+118,Alto Longá,14304.0
+119,Alto Paraguai,11356.0
+120,Alto Paraná,14770.0
+121,Alto Paraíso,21428.0
+122,Alto Paraíso de Goiás,7624.0
+123,Alto Parnaíba,11190.0
+124,Alto Piquiri,9836.0
+125,Alto Rio Doce,11000.0
+126,Alto Rio Novo,7836.0
+127,Alto Santo,17146.0
+128,Alto Taquari,10847.0
+129,Alto do Rodrigues,14529.0
+130,Altos,40524.0
+131,Altônia,22056.0
+132,Alumínio,18628.0
+133,Alvarenga,3907.0
+134,Alvarães,16041.0
+135,Alvinlândia,3222.0
+136,Alvinópolis,15203.0
+137,Alvorada,210305.0
+138,Alvorada D'Oeste,14411.0
+139,Alvorada de Minas,3606.0
+140,Alvorada do Gurguéia,5419.0
+141,Alvorada do Norte,8660.0
+142,Alvorada do Sul,11406.0
+143,Além Paraíba,35362.0
+144,Amajari,12796.0
+145,Amambai,39396.0
+146,Amaporã,6257.0
+147,Amapá,9109.0
+148,Amapá do Maranhão,6962.0
+149,Amaraji,22829.0
+150,Amaral Ferrador,7031.0
+151,Amaralina,3812.0
+152,Amarante,17598.0
+153,Amarante do Maranhão,41435.0
+154,Amargosa,37241.0
+155,Amaturá,11536.0
+156,Americana,239597.0
+157,Americano do Brasil,6111.0
+158,Ametista do Sul,7409.0
+159,Amontada,43452.0
+160,Amorinópolis,3126.0
+161,Amparo,72195.0
+162,Amparo de São Francisco,2374.0
+163,Amparo do Serra,4713.0
+164,Ampére,19152.0
+165,Amélia Rodrigues,25102.0
+166,América Dourada,16094.0
+167,Américo Brasiliense,40504.0
+168,Américo de Campos,5969.0
+169,Anadia,17545.0
+170,Anagé,22005.0
+171,Anahy,2801.0
+172,Anajatuba,26803.0
+173,Anajás,29277.0
+174,Analândia,4995.0
+175,Anamã,13614.0
+176,Ananindeua,530598.0
+177,Ananás,9549.0
+178,Anapu,27890.0
+179,Anapurus,15732.0
+180,Anastácio,25135.0
+181,Anaurilândia,9035.0
+182,Anchieta,29263.0
+183,Andaraí,13143.0
+184,Andirá,20031.0
+185,Andorinha,14595.0
+186,Andradas,41077.0
+187,Andradina,57157.0
+188,Andrelândia,12224.0
+189,André da Rocha,1333.0
+190,Angatuba,25228.0
+191,Angelim,11150.0
+192,Angelina,4801.0
+193,Angelândia,8520.0
+194,Angical,13977.0
+195,Angical do Piauí,6788.0
+196,Angico,3433.0
+197,Angicos,11714.0
+198,Angra dos Reis,203785.0
+199,Anguera,11221.0
+200,Angélica,10780.0
+201,Anhanguera,1149.0
+202,Anhembi,6724.0
+203,Anhumas,4115.0
+204,Anicuns,21850.0
+205,Anita Garibaldi,7133.0
+206,Anitápolis,3232.0
+207,Anori,21010.0
+208,Anta Gorda,5981.0
+209,Antas,19291.0
+210,Antonina,18980.0
+211,Antonina do Norte,7353.0
+212,Antônio Almeida,3164.0
+213,Antônio Cardoso,11683.0
+214,Antônio Carlos,11445.0
+215,Antônio Dias,9318.0
+216,Antônio Gonçalves,11798.0
+217,Antônio João,8956.0
+218,Antônio Martins,7145.0
+219,Antônio Olinto,7434.0
+220,Antônio Prado,13050.0
+221,Antônio Prado de Minas,1598.0
+222,Anápolis,386923.0
+223,Anísio de Abreu,9880.0
+224,Aparecida,36157.0
+225,Aparecida d'Oeste,4196.0
+226,Aparecida de Goiânia,578179.0
+227,Aparecida do Rio Doce,2474.0
+228,Aparecida do Rio Negro,4795.0
+229,Aparecida do Taboado,25745.0
+230,Aperibé,11759.0
+231,Apiacá,7567.0
+232,Apiacás,10133.0
+233,Apiaí,24374.0
+234,Apicum-Açu,17239.0
+235,Apiúna,10743.0
+236,Apodi,35845.0
+237,Aporá,17731.0
+238,Aporé,4198.0
+239,Apuarema,7330.0
+240,Apucarana,134996.0
+241,Apuiarés,14600.0
+242,Apuí,21973.0
+243,Aquidabã,21563.0
+244,Aquidauana,47871.0
+245,Aquiraz,80271.0
+246,Arabutã,4267.0
+247,Aracaju,657013.0
+248,Aracati,74547.0
+249,Aracatu,13135.0
+250,Araci,54379.0
+251,Aracitaba,2063.0
+252,Aracoiaba,26469.0
+253,Aracruz,101220.0
+254,Aragarças,20118.0
+255,Aragoiânia,10308.0
+256,Aragominas,5758.0
+257,Araguacema,7086.0
+258,Araguaiana,3100.0
+259,Araguainha,935.0
+260,Araguanã,15426.0
+261,Araguapaz,7770.0
+262,Araguari,117267.0
+263,Araguatins,35761.0
+264,Araguaçu,8517.0
+265,Araguaína,180470.0
+266,Araioses,46440.0
+267,Aral Moreira,12149.0
+268,Aramari,11397.0
+269,Arambaré,3581.0
+270,Arame,32701.0
+271,Aramina,5620.0
+272,Arandu,6357.0
+273,Arantina,2795.0
+274,Arapeí,2469.0
+275,Arapiraca,231747.0
+276,Arapoema,6643.0
+277,Araponga,8439.0
+278,Arapongas,123027.0
+279,Araporã,6869.0
+280,Arapoti,28115.0
+281,Araputanga,16822.0
+282,Arapuá,2834.0
+283,Arapuã,3068.0
+284,Araquari,38129.0
+285,Arara,13470.0
+286,Araranguá,68228.0
+287,Araraquara,236072.0
+288,Araras,134236.0
+289,Ararendá,10935.0
+290,Arari,29848.0
+291,Araricá,5698.0
+292,Araripe,21600.0
+293,Araripina,84418.0
+294,Araruama,132400.0
+295,Araruna,20312.0
+296,Arataca,11019.0
+297,Aratiba,6235.0
+298,Aratuba,11847.0
+299,Aratuípe,8825.0
+300,Araucária,143843.0
+301,Arauá,10056.0
+302,Araxá,106229.0
+303,Araçagi,16987.0
+304,Araçariguama,22364.0
+305,Araçatuba,197016.0
+306,Araçaí,2347.0
+307,Araçoiaba,20524.0
+308,Araçoiaba da Serra,34146.0
+309,Araçu,3522.0
+310,Araçuaí,36708.0
+311,Araçás,12177.0
+312,Araújos,9273.0
+313,Arceburgo,10772.0
+314,Arco-Íris,1791.0
+315,Arcos,40092.0
+316,Arcoverde,74338.0
+317,Areado,15070.0
+318,Areal,12572.0
+319,Arealva,8560.0
+320,Areia,22819.0
+321,Areia Branca,27774.0
+322,Areia de Baraúnas,2128.0
+323,Areial,6998.0
+324,Areias,3886.0
+325,Areiópolis,11129.0
+326,Arenápolis,9607.0
+327,Arenópolis,2612.0
+328,Argirita,2727.0
+329,Aricanduva,5231.0
+330,Arinos,17875.0
+331,Aripuanã,22354.0
+332,Ariquemes,107863.0
+333,Ariranha,9668.0
+334,Ariranha do Ivaí,2108.0
+335,Armazém,8674.0
+336,Armação dos Búzios,33870.0
+337,Arneiroz,7840.0
+338,Aroazes,5835.0
+339,Aroeiras,19153.0
+340,Aroeiras do Itaim,2551.0
+341,Arraial,4727.0
+342,Arraial do Cabo,30349.0
+343,Arraias,10567.0
+344,Arroio Grande,18293.0
+345,Arroio Trinta,3550.0
+346,Arroio do Meio,20805.0
+347,Arroio do Padre,2937.0
+348,Arroio do Sal,10065.0
+349,Arroio do Tigre,13373.0
+350,Arroio dos Ratos,14151.0
+351,Artur Nogueira,54408.0
+352,Aruanã,9875.0
+353,Arujá,89824.0
+354,Arvoredo,2240.0
+355,Arvorezinha,10424.0
+356,Arês,14306.0
+357,Ascurra,7934.0
+358,Aspásia,1822.0
+359,Assaré,23417.0
+360,Assaí,15119.0
+361,Assis,104386.0
+362,Assis Brasil,7417.0
+363,Assis Chateaubriand,33362.0
+364,Assunção,3990.0
+365,Assunção do Piauí,7846.0
+366,Astolfo Dutra,14179.0
+367,Astorga,26111.0
+368,Atalaia,47185.0
+369,Atalaia do Norte,19921.0
+370,Atalanta,3210.0
+371,Ataléia,12868.0
+372,Atibaia,142761.0
+373,Atílio Vivacqua,11936.0
+374,Augustinópolis,18412.0
+375,Augusto Corrêa,45998.0
+376,Augusto Pestana,6661.0
+377,Augusto de Lima,4869.0
+378,Aurelino Leal,11531.0
+379,Auriflama,15189.0
+380,Aurilândia,3120.0
+381,Aurora,24654.0
+382,Aurora do Pará,31338.0
+383,Aurora do Tocantins,3757.0
+384,Autazes,39565.0
+385,Avanhandava,13649.0
+386,Avaré,90655.0
+387,Avaí,5403.0
+388,Aveiro,16388.0
+389,Avelino Lopes,11289.0
+390,Avelinópolis,2417.0
+391,Axixá,12130.0
+392,Axixá do Tocantins,9756.0
+393,Açailândia,112445.0
+394,Açu,58017.0
+395,Açucena,9470.0
+396,Babaçulândia,10664.0
+397,Bacabal,104949.0
+398,Bacabeira,17055.0
+399,Bacuri,18582.0
+400,Bacurituba,5644.0
+401,Bady Bassitt,17502.0
+402,Baependi,19148.0
+403,Bagre,30673.0
+404,Bagé,121143.0
+405,Baianópolis,13877.0
+406,Baixa Grande,20468.0
+407,Baixa Grande do Ribeiro,11586.0
+408,Baixio,6288.0
+409,Baixo Guandu,30998.0
+410,Baião,47446.0
+411,Balbinos,5735.0
+412,Baldim,7826.0
+413,Baliza,5138.0
+414,Balneário Arroio do Silva,13071.0
+415,Balneário Barra do Sul,10795.0
+416,Balneário Camboriú,142295.0
+417,Balneário Gaivota,10979.0
+418,Balneário Pinhal,14068.0
+419,Balneário Piçarras,23147.0
+420,Balneário Rincão,12760.0
+421,Balsa Nova,12941.0
+422,Balsas,94887.0
+423,Bambuí,23829.0
+424,Banabuiú,18197.0
+425,Bananal,10945.0
+426,Bananeiras,21318.0
+427,Bandeira,4795.0
+428,Bandeira do Sul,5746.0
+429,Bandeirante,2678.0
+430,Bandeirantes,31367.0
+431,Bandeirantes do Tocantins,3553.0
+432,Bannach,3286.0
+433,Banzaê,13229.0
+434,Baraúna,28374.0
+435,Barbacena,137313.0
+436,Barbalha,60781.0
+437,Barbosa,7402.0
+438,Barbosa Ferraz,11568.0
+439,Barcarena,124680.0
+440,Barcelona,3998.0
+441,Barcelos,27502.0
+442,Bariri,35264.0
+443,Barra,53578.0
+444,Barra Bonita,36126.0
+445,Barra D'Alcântara,3951.0
+446,Barra Funda,2539.0
+447,Barra Longa,5131.0
+448,Barra Mansa,184412.0
+449,Barra Velha,29168.0
+450,Barra da Estiva,20598.0
+451,Barra de Guabiraba,14385.0
+452,Barra de Santa Rosa,15384.0
+453,Barra de Santana,8359.0
+454,Barra de Santo Antônio,15932.0
+455,Barra de São Francisco,44650.0
+456,Barra de São Miguel,8322.0
+457,Barra do Bugres,34966.0
+458,Barra do Chapéu,5724.0
+459,Barra do Choça,31603.0
+460,Barra do Corda,88212.0
+461,Barra do Garças,61012.0
+462,Barra do Guarita,3248.0
+463,Barra do Jacaré,2781.0
+464,Barra do Mendes,13865.0
+465,Barra do Ouro,4591.0
+466,Barra do Piraí,100374.0
+467,Barra do Quaraí,4215.0
+468,Barra do Ribeiro,13491.0
+469,Barra do Rio Azul,1690.0
+470,Barra do Rocha,5714.0
+471,Barra do Turvo,7659.0
+472,Barra dos Coqueiros,30407.0
+473,Barracão,10275.0
+474,Barras,47066.0
+475,Barreira,22425.0
+476,Barreiras,155439.0
+477,Barreiras do Piauí,3348.0
+478,Barreirinha,32041.0
+479,Barreirinhas,62528.0
+480,Barreiros,42659.0
+481,Barretos,122098.0
+482,Barrinha,32812.0
+483,Barro,22680.0
+484,Barro Alto,14931.0
+485,Barro Duro,7032.0
+486,Barro Preto,5591.0
+487,Barrocas,15978.0
+488,Barrolândia,5632.0
+489,Barroquinha,15017.0
+490,Barros Cassal,11199.0
+491,Barroso,20810.0
+492,Barueri,274182.0
+493,Barão,6171.0
+494,Barão de Antonina,3469.0
+495,Barão de Cocais,32485.0
+496,Barão de Cotegipe,6623.0
+497,Barão de Grajaú,18820.0
+498,Barão de Melgaço,8564.0
+499,Barão de Monte Alto,5397.0
+500,Barão do Triunfo,7487.0
+501,Bastos,20953.0
+502,Bataguassu,23024.0
+503,Batalha,26857.0
+504,Batatais,62508.0
+505,Batayporã,11329.0
+506,Baturité,35750.0
+507,Bauru,376818.0
+508,Bayeux,96880.0
+509,Baía Formosa,9271.0
+510,Baía da Traição,8993.0
+511,Bebedouro,77496.0
+512,Beberibe,53573.0
+513,Bela Cruz,32591.0
+514,Bela Vista,24629.0
+515,Bela Vista da Caroba,3511.0
+516,Bela Vista de Goiás,29975.0
+517,Bela Vista de Minas,10255.0
+518,Bela Vista do Maranhão,11209.0
+519,Bela Vista do Paraíso,15397.0
+520,Bela Vista do Piauí,4015.0
+521,Bela Vista do Toldo,6337.0
+522,Belford Roxo,510906.0
+523,Belmiro Braga,3429.0
+524,Belmonte,23328.0
+525,Belo Campo,17211.0
+526,Belo Horizonte,2512070.0
+527,Belo Jardim,76439.0
+528,Belo Monte,6704.0
+529,Belo Oriente,26700.0
+530,Belo Vale,7715.0
+531,Belterra,17732.0
+532,Belágua,7469.0
+533,Belém,1492745.0
+534,Belém de Maria,12073.0
+535,Belém do Brejo do Cruz,7342.0
+536,Belém do Piauí,3566.0
+537,Belém do São Francisco,20729.0
+538,Beneditinos,10467.0
+539,Benedito Leite,5632.0
+540,Benedito Novo,11652.0
+541,Benevides,62737.0
+542,Benjamin Constant,42984.0
+543,Benjamin Constant do Sul,1994.0
+544,Bento Fernandes,5497.0
+545,Bento Gonçalves,120454.0
+546,Bento de Abreu,2980.0
+547,Bequimão,21280.0
+548,Berilo,11932.0
+549,Berizal,4735.0
+550,Bernardino Batista,3501.0
+551,Bernardino de Campos,11148.0
+552,Bernardo Sayão,4459.0
+553,Bernardo do Mearim,6043.0
+554,Bertioga,63249.0
+555,Bertolínia,5501.0
+556,Bertópolis,4604.0
+557,Beruri,19679.0
+558,Betim,439340.0
+559,Betânia,12719.0
+560,Betânia do Piauí,6205.0
+561,Bezerros,60798.0
+562,Bias Fortes,3379.0
+563,Bicas,14494.0
+564,Biguaçu,68481.0
+565,Bilac,8034.0
+566,Biquinhas,2515.0
+567,Birigui,123638.0
+568,Biritiba Mirim,32598.0
+569,Biritinga,15979.0
+570,Bituruna,16389.0
+571,Blumenau,357199.0
+572,Boa Esperança,40127.0
+573,Boa Esperança do Iguaçu,2503.0
+574,Boa Esperança do Sul,14923.0
+575,Boa Hora,6781.0
+576,Boa Nova,12633.0
+577,Boa Ventura,5366.0
+578,Boa Ventura de São Roque,6387.0
+579,Boa Viagem,54470.0
+580,Boa Vista,399213.0
+581,Boa Vista da Aparecida,7591.0
+582,Boa Vista das Missões,2098.0
+583,Boa Vista do Buricá,6712.0
+584,Boa Vista do Cadeado,2470.0
+585,Boa Vista do Gurupi,9287.0
+586,Boa Vista do Incra,2603.0
+587,Boa Vista do Ramos,19207.0
+588,Boa Vista do Sul,2783.0
+589,Boa Vista do Tupim,18576.0
+590,Boca da Mata,27281.0
+591,Boca do Acre,34308.0
+592,Bocaina,12329.0
+593,Bocaina de Minas,5090.0
+594,Bocaina do Sul,3474.0
+595,Bocaiúva,49979.0
+596,Bocaiúva do Sul,12944.0
+597,Bodocó,38146.0
+598,Bodoquena,7875.0
+599,Bodó,2223.0
+600,Bofete,11730.0
+601,Boituva,60997.0
+602,Bom Conselho,48554.0
+603,Bom Despacho,50605.0
+604,Bom Jardim,41630.0
+605,Bom Jardim da Serra,4743.0
+606,Bom Jardim de Goiás,8841.0
+607,Bom Jardim de Minas,6474.0
+608,Bom Jesus,25179.0
+609,Bom Jesus da Lapa,69148.0
+610,Bom Jesus da Penha,4217.0
+611,Bom Jesus da Serra,9880.0
+612,Bom Jesus das Selvas,34028.0
+613,Bom Jesus de Goiás,25216.0
+614,Bom Jesus do Amparo,6083.0
+615,Bom Jesus do Araguaia,6580.0
+616,Bom Jesus do Galho,14935.0
+617,Bom Jesus do Itabapoana,37096.0
+618,Bom Jesus do Norte,9936.0
+619,Bom Jesus do Oeste,2142.0
+620,Bom Jesus do Sul,3541.0
+621,Bom Jesus do Tocantins,16981.0
+622,Bom Jesus dos Perdões,25448.0
+623,Bom Lugar,16294.0
+624,Bom Princípio,14055.0
+625,Bom Princípio do Piauí,5630.0
+626,Bom Progresso,1942.0
+627,Bom Repouso,10547.0
+628,Bom Retiro,9966.0
+629,Bom Retiro do Sul,12328.0
+630,Bom Sucesso,17603.0
+631,Bom Sucesso de Itararé,3954.0
+632,Bom Sucesso do Sul,3264.0
+633,Bombinhas,19769.0
+634,Bonfim,12409.0
+635,Bonfim do Piauí,5670.0
+636,Bonfinópolis,9706.0
+637,Bonfinópolis de Minas,5493.0
+638,Boninal,14368.0
+639,Bonito,38134.0
+640,Bonito de Minas,11230.0
+641,Bonito de Santa Fé,11917.0
+642,Bonópolis,4405.0
+643,Boqueirão,17804.0
+644,Boqueirão do Leão,7714.0
+645,Boqueirão do Piauí,6407.0
+646,Boquim,26816.0
+647,Boquira,21508.0
+648,Boracéia,4823.0
+649,Borba,41161.0
+650,Borborema,16046.0
+651,Borda da Mata,19412.0
+652,Borebi,2653.0
+653,Borrazópolis,6592.0
+654,Borá,837.0
+655,Bossoroca,6279.0
+656,Botelhos,14971.0
+657,Botucatu,146497.0
+658,Botumirim,6319.0
+659,Botuporã,10211.0
+660,Botuverá,5246.0
+661,Bozano,2123.0
+662,Braga,3353.0
+663,Braganey,5427.0
+664,Bragança,127686.0
+665,Bragança Paulista,168668.0
+666,Branquinha,10494.0
+667,Brasil Novo,15086.0
+668,Brasileira,8329.0
+669,Brasilândia,11872.0
+670,Brasilândia de Minas,16538.0
+671,Brasilândia do Sul,2651.0
+672,Brasilândia do Tocantins,2201.0
+673,Brasiléia,26278.0
+674,Brasnorte,19695.0
+675,Brasília,3015268.0
+676,Brasília de Minas,32347.0
+677,Brazabrantes,3703.0
+678,Brazópolis,14459.0
+679,Braço do Norte,33450.0
+680,Braço do Trombudo,3743.0
+681,Braúna,5686.0
+682,Braúnas,4801.0
+683,Brejetuba,12404.0
+684,Brejinho,12699.0
+685,Brejinho de Nazaré,5497.0
+686,Brejo,36397.0
+687,Brejo Alegre,2865.0
+688,Brejo Grande,8309.0
+689,Brejo Grande do Araguaia,7380.0
+690,Brejo Santo,49477.0
+691,Brejo da Madre de Deus,50742.0
+692,Brejo de Areia,9188.0
+693,Brejo do Cruz,14122.0
+694,Brejo do Piauí,3875.0
+695,Brejo dos Santos,6449.0
+696,Brejolândia,10557.0
+697,Brejão,8993.0
+698,Brejões,14295.0
+699,Breu Branco,66046.0
+700,Breves,102701.0
+701,Britânia,5779.0
+702,Brochier,5074.0
+703,Brodowski,24939.0
+704,Brotas,24403.0
+705,Brotas de Macaúbas,10231.0
+706,Brumadinho,40103.0
+707,Brumado,67195.0
+708,Brunópolis,2420.0
+709,Brusque,134723.0
+710,Brás Pires,4333.0
+711,Bueno Brandão,11001.0
+712,Buenos Aires,13155.0
+713,Buenópolis,10365.0
+714,Buerarema,18349.0
+715,Bugre,3982.0
+716,Bujari,10266.0
+717,Bujaru,29132.0
+718,Buri,19878.0
+719,Buritama,17144.0
+720,Buriti,28678.0
+721,Buriti Alegre,9459.0
+722,Buriti Bravo,23884.0
+723,Buriti de Goiás,2488.0
+724,Buriti do Tocantins,11348.0
+725,Buriti dos Lopes,19781.0
+726,Buriti dos Montes,8244.0
+727,Buriticupu,72358.0
+728,Buritinópolis,3292.0
+729,Buritirama,21174.0
+730,Buritirana,15430.0
+731,Buritis,39654.0
+732,Buritizal,4481.0
+733,Buritizeiro,28056.0
+734,Butiá,20941.0
+735,Buíque,58378.0
+736,Bálsamo,9068.0
+737,Caapiranga,13081.0
+738,Caaporã,21828.0
+739,Caarapó,30174.0
+740,Caatiba,6758.0
+741,Cabaceiras,5611.0
+742,Cabaceiras do Paraguaçu,18807.0
+743,Cabeceira Grande,6949.0
+744,Cabeceiras,7993.0
+745,Cabeceiras do Piauí,10586.0
+746,Cabedelo,67736.0
+747,Cabixi,5312.0
+748,Cabo Frio,226525.0
+749,Cabo Verde,14075.0
+750,Cabo de Santo Agostinho,207048.0
+751,Cabreúva,49707.0
+752,Cabrobó,34221.0
+753,Cabrália Paulista,4264.0
+754,Cacaulândia,6230.0
+755,Cacequi,12561.0
+756,Cachoeira,33470.0
+757,Cachoeira Alta,12484.0
+758,Cachoeira Dourada,8067.0
+759,Cachoeira Grande,9431.0
+760,Cachoeira Paulista,33327.0
+761,Cachoeira da Prata,3603.0
+762,Cachoeira de Goiás,1351.0
+763,Cachoeira de Minas,11547.0
+764,Cachoeira de Pajeú,9412.0
+765,Cachoeira do Arari,23767.0
+766,Cachoeira do Piriá,33900.0
+767,Cachoeira do Sul,82201.0
+768,Cachoeira dos Índios,10244.0
+769,Cachoeiras de Macacu,58937.0
+770,Cachoeirinha,130293.0
+771,Cachoeiro de Itapemirim,208972.0
+772,Cacimba de Areia,3682.0
+773,Cacimba de Dentro,17187.0
+774,Cacimbas,7173.0
+775,Cacimbinhas,10858.0
+776,Cacique Doble,5065.0
+777,Cacoal,85359.0
+778,Caconde,18985.0
+779,Caculé,23170.0
+780,Caetanos,14542.0
+781,Caetanópolis,11624.0
+782,Caetité,50975.0
+783,Caeté,44718.0
+784,Caetés,28739.0
+785,Cafarnaum,18437.0
+786,Cafeara,2934.0
+787,Cafelândia,18120.0
+788,Cafezal do Sul,4044.0
+789,Caiabu,4191.0
+790,Caiana,5496.0
+791,Caiapônia,18913.0
+792,Caibaté,4846.0
+793,Caibi,6148.0
+794,Caicó,67952.0
+795,Caieiras,101470.0
+796,Cairu,18176.0
+797,Caiuá,5874.0
+798,Caiçara,7201.0
+799,Caiçara do Norte,6549.0
+800,Caiçara do Rio do Vento,3684.0
+801,Cajamar,76801.0
+802,Cajapió,11177.0
+803,Cajari,19379.0
+804,Cajati,28549.0
+805,Cajazeiras,61993.0
+806,Cajazeiras do Piauí,3559.0
+807,Cajazeirinhas,3193.0
+808,Cajobi,10542.0
+809,Cajueiro,21264.0
+810,Cajueiro da Praia,7642.0
+811,Cajuri,3987.0
+812,Cajuru,26167.0
+813,Caldas,14480.0
+814,Caldas Brandão,6014.0
+815,Caldas Novas,91162.0
+816,Caldazinha,3804.0
+817,Caldeirão Grande,13327.0
+818,Caldeirão Grande do Piauí,5776.0
+819,Califórnia,8570.0
+820,Calmon,3346.0
+821,Calumbi,5750.0
+822,Calçado,11053.0
+823,Calçoene,11117.0
+824,Camacan,31988.0
+825,Camacho,2901.0
+826,Camalaú,6013.0
+827,Camamu,35316.0
+828,Camanducaia,21770.0
+829,Camapuã,13711.0
+830,Camaquã,66261.0
+831,Camaragibe,157828.0
+832,Camargo,2733.0
+833,Camaçari,299132.0
+834,Cambará,25360.0
+835,Cambará do Sul,6431.0
+836,Cambira,7865.0
+837,Camboriú,82989.0
+838,Cambuci,15505.0
+839,Cambuquira,12814.0
+840,Cambuí,29551.0
+841,Cambé,106533.0
+842,Cametá,137890.0
+843,Camocim,63661.0
+844,Camocim de São Félix,18765.0
+845,Campanha,16665.0
+846,Campanário,3721.0
+847,Campestre,21055.0
+848,Campestre da Serra,3388.0
+849,Campestre de Goiás,3630.0
+850,Campestre do Maranhão,14374.0
+851,Campina Grande,409731.0
+852,Campina Grande do Sul,43288.0
+853,Campina Verde,19745.0
+854,Campina da Lagoa,14202.0
+855,Campina das Missões,5474.0
+856,Campina do Monte Alegre,6024.0
+857,Campina do Simão,3887.0
+858,Campinas,1204073.0
+859,Campinas do Piauí,5613.0
+860,Campinas do Sul,5454.0
+861,Campinaçu,3640.0
+862,Campinorte,12626.0
+863,Campinápolis,15980.0
+864,Campo Alegre,57063.0
+865,Campo Alegre de Goiás,7589.0
+866,Campo Alegre de Lourdes,28798.0
+867,Campo Alegre do Fidalgo,5045.0
+868,Campo Azul,3817.0
+869,Campo Belo,54029.0
+870,Campo Belo do Sul,7016.0
+871,Campo Bom,66712.0
+872,Campo Bonito,3833.0
+873,Campo Erê,8526.0
+874,Campo Florido,8151.0
+875,Campo Formoso,71206.0
+876,Campo Grande,895982.0
+877,Campo Grande do Piauí,5943.0
+878,Campo Largo,132002.0
+879,Campo Largo do Piauí,7279.0
+880,Campo Limpo Paulista,84650.0
+881,Campo Limpo de Goiás,7789.0
+882,Campo Magro,29318.0
+883,Campo Maior,46833.0
+884,Campo Mourão,94859.0
+885,Campo Novo,4484.0
+886,Campo Novo de Rondônia,14139.0
+887,Campo Novo do Parecis,35360.0
+888,Campo Redondo,11217.0
+889,Campo Verde,44041.0
+890,Campo do Brito,18109.0
+891,Campo do Meio,11655.0
+892,Campo do Tenente,7971.0
+893,Campos Altos,15461.0
+894,Campos Belos,19887.0
+895,Campos Borges,3320.0
+896,Campos Gerais,28774.0
+897,Campos Lindos,10116.0
+898,Campos Novos,36244.0
+899,Campos Novos Paulista,4965.0
+900,Campos Sales,27426.0
+901,Campos Verdes,2141.0
+902,Campos de Júlio,6891.0
+903,Campos do Jordão,52088.0
+904,Campos dos Goytacazes,507548.0
+905,Camutanga,8551.0
+906,Cana Verde,5603.0
+907,Canabrava do Norte,4743.0
+908,Cananéia,12540.0
+909,Canapi,17722.0
+910,Canarana,26176.0
+911,Canas,5138.0
+912,Canavieira,3950.0
+913,Canavieiras,31099.0
+914,Canaã,4563.0
+915,Canaã dos Carajás,37085.0
+916,Candeal,8258.0
+917,Candeias,87076.0
+918,Candeias do Jamari,26693.0
+919,Candelária,31365.0
+920,Candiba,14319.0
+921,Candiota,9584.0
+922,Candói,15979.0
+923,Canela,44998.0
+924,Canelinha,12240.0
+925,Canguaretama,34276.0
+926,Canguçu,56045.0
+927,Canhoba,4008.0
+928,Canhotinho,24804.0
+929,Canindé,76997.0
+930,Canindé de São Francisco,29900.0
+931,Canitar,5216.0
+932,Canoas,346616.0
+933,Canoinhas,54401.0
+934,Cansanção,34834.0
+935,Cantagalo,20172.0
+936,Cantanhede,21995.0
+937,Canto do Buriti,21187.0
+938,Cantá,18335.0
+939,Canudos,16668.0
+940,Canudos do Vale,1716.0
+941,Canutama,15629.0
+942,Canápolis,12150.0
+943,Capanema,69027.0
+944,Caparaó,5438.0
+945,Capela,34213.0
+946,Capela Nova,4653.0
+947,Capela de Santana,11940.0
+948,Capela do Alto,20706.0
+949,Capela do Alto Alegre,11637.0
+950,Capelinha,37784.0
+951,Capetinga,6920.0
+952,Capim,6523.0
+953,Capim Branco,9754.0
+954,Capim Grosso,30662.0
+955,Capinzal,22848.0
+956,Capinzal do Norte,10934.0
+957,Capinópolis,16173.0
+958,Capistrano,17738.0
+959,Capitão,2757.0
+960,Capitão Andrade,5468.0
+961,Capitão Enéas,15234.0
+962,Capitão Gervásio Oliveira,4100.0
+963,Capitão Leônidas Marques,15780.0
+964,Capitão Poço,54303.0
+965,Capitão de Campos,11417.0
+966,Capitólio,8632.0
+967,Capivari,55768.0
+968,Capivari de Baixo,24871.0
+969,Capivari do Sul,4660.0
+970,Capixaba,11733.0
+971,Capoeiras,20048.0
+972,Caputira,9298.0
+973,Capão Alto,2525.0
+974,Capão Bonito,47138.0
+975,Capão Bonito do Sul,1654.0
+976,Capão da Canoa,53049.0
+977,Capão do Cipó,3651.0
+978,Capão do Leão,25354.0
+979,Caracaraí,21926.0
+980,Caracol,10916.0
+981,Caraguatatuba,121532.0
+982,Carambeí,23415.0
+983,Caranaíba,3183.0
+984,Carandaí,25501.0
+985,Carangola,33000.0
+986,Carapebus,16301.0
+987,Carapicuíba,400927.0
+988,Caratinga,92062.0
+989,Carauari,28294.0
+990,Caravelas,22016.0
+991,Carazinho,62110.0
+992,Caraá,8270.0
+993,Caraí,23685.0
+994,Caraíbas,8951.0
+995,Caraúbas,20493.0
+996,Caraúbas do Piauí,5868.0
+997,Carbonita,9405.0
+998,Cardeal da Silva,9295.0
+999,Cardoso,12326.0
+1000,Cardoso Moreira,12823.0
+1001,Careaçu,6757.0
+1002,Careiro,37869.0
+1003,Careiro da Várzea,30225.0
+1004,Cariacica,381285.0
+1005,Caridade,22547.0
+1006,Caridade do Piauí,5067.0
+1007,Carinhanha,29018.0
+1008,Carira,22082.0
+1009,Cariri do Tocantins,4382.0
+1010,Caririaçu,26965.0
+1011,Cariré,18448.0
+1012,Cariús,18699.0
+1013,Carlinda,10305.0
+1014,Carlos Barbosa,29833.0
+1015,Carlos Chagas,18837.0
+1016,Carlos Gomes,1377.0
+1017,Carlópolis,14320.0
+1018,Carmo,18895.0
+1019,Carmo da Cachoeira,12170.0
+1020,Carmo da Mata,11476.0
+1021,Carmo de Minas,14859.0
+1022,Carmo do Cajuru,22478.0
+1023,Carmo do Paranaíba,30329.0
+1024,Carmo do Rio Claro,21225.0
+1025,Carmo do Rio Verde,10082.0
+1026,Carmolândia,2580.0
+1027,Carmésia,2632.0
+1028,Carmópolis,16634.0
+1029,Carmópolis de Minas,19355.0
+1030,Carnaubais,10759.0
+1031,Carnaubal,17606.0
+1032,Carnaubeira da Penha,12932.0
+1033,Carnaíba,19551.0
+1034,Carnaúba dos Dantas,8180.0
+1035,Carneirinho,10027.0
+1036,Carneiros,9081.0
+1037,Caroebe,10169.0
+1038,Carolina,24322.0
+1039,Carpina,83641.0
+1040,Carrancas,4047.0
+1041,Carrapateira,2659.0
+1042,Carrasco Bonito,4095.0
+1043,Caruaru,361118.0
+1044,Carutapera,23807.0
+1045,Carvalhos,4478.0
+1046,Carvalhópolis,3579.0
+1047,Casa Branca,30380.0
+1048,Casa Grande,2257.0
+1049,Casa Nova,71969.0
+1050,Casca,9031.0
+1051,Cascalho Rico,3075.0
+1052,Cascavel,328454.0
+1053,Caseara,5369.0
+1054,Caseiros,3202.0
+1055,Casimiro de Abreu,44184.0
+1056,Casinhas,14341.0
+1057,Casserengue,7468.0
+1058,Cassilândia,21939.0
+1059,Castanhal,200793.0
+1060,Castanheira,8729.0
+1061,Castanheiras,3052.0
+1062,Castelo,37534.0
+1063,Castelo do Piauí,19716.0
+1064,Castelândia,3435.0
+1065,Castilho,21006.0
+1066,Castro,71484.0
+1067,Castro Alves,26264.0
+1068,Cataguases,75123.0
+1069,Catalão,108823.0
+1070,Catanduva,121862.0
+1071,Catanduvas,10861.0
+1072,Catarina,20698.0
+1073,Catas Altas,5376.0
+1074,Catas Altas da Noruega,3641.0
+1075,Catende,42892.0
+1076,Catiguá,7804.0
+1077,Catingueira,4932.0
+1078,Catolândia,3577.0
+1079,Catolé do Rocha,30546.0
+1080,Catu,54704.0
+1081,Catuji,6311.0
+1082,Catunda,10342.0
+1083,Caturama,9329.0
+1084,Caturaí,5070.0
+1085,Caturité,4852.0
+1086,Catuti,4986.0
+1087,Catuípe,8774.0
+1088,Caucaia,361400.0
+1089,Cavalcante,9709.0
+1090,Caxambu,21656.0
+1091,Caxambu do Sul,3642.0
+1092,Caxias,164880.0
+1093,Caxias do Sul,510906.0
+1094,Caxingó,5424.0
+1095,Caçador,78595.0
+1096,Caçapava,94263.0
+1097,Caçapava do Sul,33624.0
+1098,Caçu,16009.0
+1099,Caém,9213.0
+1100,Ceará-Mirim,73497.0
+1101,Cedral,10675.0
+1102,Cedro,25557.0
+1103,Cedro de São João,5897.0
+1104,Cedro do Abaeté,1164.0
+1105,Celso Ramos,2728.0
+1106,Centenário,2905.0
+1107,Centenário do Sul,10827.0
+1108,Central,17266.0
+1109,Central de Minas,7032.0
+1110,Central do Maranhão,8673.0
+1111,Centralina,10350.0
+1112,Centro Novo do Maranhão,21622.0
+1113,Centro do Guilherme,13458.0
+1114,Cerejeiras,16323.0
+1115,Ceres,22191.0
+1116,Cerqueira César,19985.0
+1117,Cerquilho,48949.0
+1118,Cerrito,6091.0
+1119,Cerro Azul,17779.0
+1120,Cerro Branco,4691.0
+1121,Cerro Corá,11179.0
+1122,Cerro Grande,2311.0
+1123,Cerro Grande do Sul,12239.0
+1124,Cerro Largo,14133.0
+1125,Cerro Negro,3124.0
+1126,Cesário Lange,18148.0
+1127,Cezarina,8606.0
+1128,Chalé,5704.0
+1129,Chapada,9269.0
+1130,Chapada Gaúcha,13680.0
+1131,Chapada da Natividade,3333.0
+1132,Chapada de Areia,1406.0
+1133,Chapada do Norte,15356.0
+1134,Chapada dos Guimarães,19752.0
+1135,Chapadinha,79675.0
+1136,Chapadão do Céu,10167.0
+1137,Chapadão do Lageado,2988.0
+1138,Chapadão do Sul,25218.0
+1139,Chapecó,220367.0
+1140,Charqueada,17190.0
+1141,Charqueadas,40789.0
+1142,Charrua,3279.0
+1143,Chaval,13069.0
+1144,Chavantes,12418.0
+1145,Chaves,23717.0
+1146,Chiador,2687.0
+1147,Chiapetta,3756.0
+1148,Chopinzinho,19254.0
+1149,Chorozinho,20264.0
+1150,Chorrochó,11177.0
+1151,Choró,13521.0
+1152,Chupinguaia,11182.0
+1153,Chuvisca,5441.0
+1154,Chuí,6704.0
+1155,Chácara,3154.0
+1156,Chã Grande,21698.0
+1157,Chã Preta,7311.0
+1158,Chã de Alegria,13518.0
+1159,Cianorte,82620.0
+1160,Cidade Gaúcha,12652.0
+1161,Cidade Ocidental,71376.0
+1162,Cidelândia,14697.0
+1163,Cidreira,16254.0
+1164,Cipotânea,6787.0
+1165,Cipó,17300.0
+1166,Ciríaco,4747.0
+1167,Claraval,4843.0
+1168,Claro dos Poções,7551.0
+1169,Clementina,8617.0
+1170,Clevelândia,16559.0
+1171,Cláudia,12149.0
+1172,Cláudio,28617.0
+1173,Coaraci,16993.0
+1174,Coari,85097.0
+1175,Cocal,27787.0
+1176,Cocal de Telha,4891.0
+1177,Cocal do Sul,16684.0
+1178,Cocal dos Alves,6153.0
+1179,Cocalinho,5700.0
+1180,Cocalzinho de Goiás,20240.0
+1181,Cocos,18777.0
+1182,Codajás,28637.0
+1183,Codó,122859.0
+1184,Coelho Neto,49435.0
+1185,Coimbra,7556.0
+1186,Coité do Nóia,10693.0
+1187,Coivaras,4020.0
+1188,Colares,12085.0
+1189,Colatina,122499.0
+1190,Colina,18468.0
+1191,Colinas,41178.0
+1192,Colinas do Sul,3382.0
+1193,Colinas do Tocantins,35424.0
+1194,Colméia,8205.0
+1195,Colniza,38582.0
+1196,Colombo,243726.0
+1197,Colorado,24012.0
+1198,Colorado do Oeste,15882.0
+1199,Coluna,8873.0
+1200,Colíder,33438.0
+1201,Colômbia,6210.0
+1202,Colônia Leopoldina,21698.0
+1203,Colônia do Gurguéia,6484.0
+1204,Colônia do Piauí,7656.0
+1205,Combinado,4852.0
+1206,Comendador Gomes,3111.0
+1207,Comendador Levy Gasparian,8561.0
+1208,Comercinho,6929.0
+1209,Comodoro,20763.0
+1210,Conceição,18982.0
+1211,Conceição da Aparecida,10292.0
+1212,Conceição da Barra,31063.0
+1213,Conceição da Barra de Minas,3954.0
+1214,Conceição da Feira,22581.0
+1215,Conceição das Alagoas,27893.0
+1216,Conceição das Pedras,2812.0
+1217,Conceição de Ipanema,4574.0
+1218,Conceição de Macabu,23228.0
+1219,Conceição do Almeida,17247.0
+1220,Conceição do Araguaia,47864.0
+1221,Conceição do Canindé,4803.0
+1222,Conceição do Castelo,12723.0
+1223,Conceição do Coité,66612.0
+1224,Conceição do Jacuípe,33153.0
+1225,Conceição do Lago-Açu,16237.0
+1226,Conceição do Mato Dentro,17842.0
+1227,Conceição do Pará,5507.0
+1228,Conceição do Rio Verde,13638.0
+1229,Conceição do Tocantins,4105.0
+1230,Conceição dos Ouros,11638.0
+1231,Conchal,28050.0
+1232,Conchas,17896.0
+1233,Concórdia,74641.0
+1234,Concórdia do Pará,33318.0
+1235,Condado,26421.0
+1236,Conde,25837.0
+1237,Condeúba,17247.0
+1238,Condor,6753.0
+1239,Confins,6730.0
+1240,Confresa,30933.0
+1241,Congo,4786.0
+1242,Congonhal,11950.0
+1243,Congonhas,54762.0
+1244,Congonhas do Norte,5045.0
+1245,Congonhinhas,8818.0
+1246,Conquista,6939.0
+1247,Conquista D'Oeste,4038.0
+1248,Conselheiro Lafaiete,128589.0
+1249,Conselheiro Mairinck,3860.0
+1250,Conselheiro Pena,22921.0
+1251,Consolação,1783.0
+1252,Constantina,9911.0
+1253,Contagem,663855.0
+1254,Contenda,18584.0
+1255,Contendas do Sincorá,4066.0
+1256,Coqueiral,9159.0
+1257,Coqueiro Baixo,1501.0
+1258,Coqueiro Seco,5845.0
+1259,Coqueiros do Sul,2306.0
+1260,Coração de Jesus,26602.0
+1261,Coração de Maria,22605.0
+1262,Corbélia,17071.0
+1263,Cordeiro,21926.0
+1264,Cordeiros,8614.0
+1265,Cordeirópolis,24528.0
+1266,Cordilheira Alta,4453.0
+1267,Cordisburgo,8890.0
+1268,Cordislândia,3538.0
+1269,Coreaú,23136.0
+1270,Coremas,15445.0
+1271,Corguinho,5947.0
+1272,Coribe,14194.0
+1273,Corinto,23731.0
+1274,Cornélio Procópio,47845.0
+1275,Coroaci,9991.0
+1276,Coroados,6058.0
+1277,Coroatá,65296.0
+1278,Coromandel,27974.0
+1279,Coronel Barros,2519.0
+1280,Coronel Bicaco,7325.0
+1281,Coronel Domingos Soares,7497.0
+1282,Coronel Ezequiel,5506.0
+1283,Coronel Fabriciano,109855.0
+1284,Coronel Freitas,9981.0
+1285,Coronel José Dias,4682.0
+1286,Coronel João Pessoa,4912.0
+1287,Coronel João Sá,15895.0
+1288,Coronel Macedo,4681.0
+1289,Coronel Martins,2549.0
+1290,Coronel Murta,9222.0
+1291,Coronel Pacheco,3086.0
+1292,Coronel Pilar,1628.0
+1293,Coronel Sapucaia,15253.0
+1294,Coronel Vivida,20734.0
+1295,Coronel Xavier Chaves,3434.0
+1296,Correia Pinto,12795.0
+1297,Corrente,26644.0
+1298,Correntes,18207.0
+1299,Correntina,32137.0
+1300,Cortês,12578.0
+1301,Corumbataí,4055.0
+1302,Corumbataí do Sul,3219.0
+1303,Corumbaíba,9723.0
+1304,Corumbiara,7391.0
+1305,Corumbá,111435.0
+1306,Corumbá de Goiás,11110.0
+1307,Corupá,15909.0
+1308,Coruripe,56933.0
+1309,Cosmorama,7307.0
+1310,Cosmópolis,72252.0
+1311,Costa Marques,18331.0
+1312,Costa Rica,20823.0
+1313,Cotegipe,13782.0
+1314,Cotia,249210.0
+1315,Cotiporã,3853.0
+1316,Cotriguaçu,19750.0
+1317,Couto Magalhães,5588.0
+1318,Couto de Magalhães de Minas,4410.0
+1319,Coxilha,2756.0
+1320,Coxim,33543.0
+1321,Coxixola,1921.0
+1322,Crateús,75074.0
+1323,Crato,132123.0
+1324,Cravinhos,35292.0
+1325,Cravolândia,5349.0
+1326,Craíbas,24219.0
+1327,Criciúma,215186.0
+1328,Crissiumal,13448.0
+1329,Cristais,12798.0
+1330,Cristais Paulista,8631.0
+1331,Cristal,8009.0
+1332,Cristal do Sul,2847.0
+1333,Cristalina,58997.0
+1334,Cristalândia,7289.0
+1335,Cristalândia do Piauí,8294.0
+1336,Cristiano Otoni,5150.0
+1337,Cristianópolis,2966.0
+1338,Cristina,10242.0
+1339,Cristino Castro,10423.0
+1340,Cristinápolis,17874.0
+1341,Cristália,5971.0
+1342,Cristópolis,13910.0
+1343,Crisólita,6704.0
+1344,Crisópolis,21103.0
+1345,Crixás,16949.0
+1346,Crixás do Tocantins,1722.0
+1347,Croatá,18063.0
+1348,Cromínia,3486.0
+1349,Crucilândia,5034.0
+1350,Cruz,24827.0
+1351,Cruz Alta,60299.0
+1352,Cruz Machado,18708.0
+1353,Cruz das Almas,63239.0
+1354,Cruz do Espírito Santo,17319.0
+1355,Cruzaltense,1833.0
+1356,Cruzeiro,82238.0
+1357,Cruzeiro da Fortaleza,3626.0
+1358,Cruzeiro do Iguaçu,4252.0
+1359,Cruzeiro do Oeste,20932.0
+1360,Cruzeiro do Sul,88376.0
+1361,Cruzeta,7998.0
+1362,Cruzmaltina,2950.0
+1363,Cruzália,2073.0
+1364,Cruzília,15417.0
+1365,Cubati,7797.0
+1366,Cubatão,130705.0
+1367,Cuiabá,612547.0
+1368,Cuitegi,6803.0
+1369,Cuité,20338.0
+1370,Cuité de Mamanguape,6353.0
+1371,Cujubim,25215.0
+1372,Cumari,2854.0
+1373,Cumaru,10906.0
+1374,Cumaru do Norte,13473.0
+1375,Cumbe,3987.0
+1376,Cunha,21547.0
+1377,Cunha Porã,11086.0
+1378,Cunhataí,1962.0
+1379,Cuparaque,4982.0
+1380,Cupira,24107.0
+1381,Curaçá,34700.0
+1382,Curimatá,11388.0
+1383,Curionópolis,17929.0
+1384,Curitiba,1933105.0
+1385,Curitibanos,39745.0
+1386,Curiúva,15101.0
+1387,Currais,4954.0
+1388,Currais Novos,44786.0
+1389,Curral Novo do Piauí,5343.0
+1390,Curral Velho,2516.0
+1391,Curral de Cima,5227.0
+1392,Curral de Dentro,7729.0
+1393,Curralinho,34448.0
+1394,Curralinhos,4443.0
+1395,Cururupu,32695.0
+1396,Curuá,14393.0
+1397,Curuçá,40066.0
+1398,Curvelo,80129.0
+1399,Curvelândia,5219.0
+1400,Custódia,37111.0
+1401,Cutias,5983.0
+1402,Cáceres,94376.0
+1403,Cássia,17740.0
+1404,Cássia dos Coqueiros,2523.0
+1405,Cândido Godói,6198.0
+1406,Cândido Mendes,20178.0
+1407,Cândido Mota,31280.0
+1408,Cândido Rodrigues,2793.0
+1409,Cândido Sales,25189.0
+1410,Cândido de Abreu,15018.0
+1411,Céu Azul,11765.0
+1412,Cícero Dantas,32515.0
+1413,Córrego Danta,3215.0
+1414,Córrego Fundo,6337.0
+1415,Córrego Novo,2771.0
+1416,Córrego do Bom Jesus,3704.0
+1417,Córrego do Ouro,2327.0
+1418,Cônego Marinho,7642.0
+1419,Damianópolis,3311.0
+1420,Damião,5330.0
+1421,Damolândia,2938.0
+1422,Darcinópolis,6097.0
+1423,Datas,5410.0
+1424,David Canabarro,4740.0
+1425,Davinópolis,12908.0
+1426,Delfim Moreira,8025.0
+1427,Delfinópolis,7114.0
+1428,Delmiro Gouveia,52016.0
+1429,Delta,10533.0
+1430,Demerval Lobão,13817.0
+1431,Denise,9462.0
+1432,Deodápolis,12924.0
+1433,Deputado Irapuan Pinheiro,9625.0
+1434,Derrubadas,2805.0
+1435,Descalvado,33718.0
+1436,Descanso,8250.0
+1437,Descoberto,5013.0
+1438,Desterro,8297.0
+1439,Desterro de Entre Rios,7243.0
+1440,Desterro do Melo,2901.0
+1441,Dezesseis de Novembro,2427.0
+1442,Diadema,423884.0
+1443,Diamante,6552.0
+1444,Diamante D'Oeste,5253.0
+1445,Diamante do Norte,5087.0
+1446,Diamante do Sul,3439.0
+1447,Diamantina,47723.0
+1448,Diamantino,22041.0
+1449,Dianópolis,22139.0
+1450,Dias d'Ávila,81089.0
+1451,Dilermando de Aguiar,3014.0
+1452,Diogo de Vasconcelos,3802.0
+1453,Dionísio,7729.0
+1454,Dionísio Cerqueira,15498.0
+1455,Diorama,2484.0
+1456,Dirce Reis,1793.0
+1457,Dirceu Arcoverde,7011.0
+1458,Divina Pastora,5138.0
+1459,Divino,19931.0
+1460,Divino das Laranjeiras,4979.0
+1461,Divino de São Lourenço,4304.0
+1462,Divinolândia,11146.0
+1463,Divinolândia de Minas,7571.0
+1464,Divinésia,3417.0
+1465,Divinópolis,238230.0
+1466,Divinópolis de Goiás,4804.0
+1467,Divinópolis do Tocantins,6900.0
+1468,Divisa Alegre,6786.0
+1469,Divisa Nova,6011.0
+1470,Divisópolis,11019.0
+1471,Dobrada,8929.0
+1472,Dois Córregos,27315.0
+1473,Dois Irmãos,32671.0
+1474,Dois Irmãos das Missões,2026.0
+1475,Dois Irmãos do Buriti,11385.0
+1476,Dois Irmãos do Tocantins,7198.0
+1477,Dois Lajeados,3400.0
+1478,Dois Riachos,11075.0
+1479,Dois Vizinhos,40641.0
+1480,Dolcinópolis,2115.0
+1481,Dom Aquino,8178.0
+1482,Dom Basílio,12199.0
+1483,Dom Bosco,3677.0
+1484,Dom Cavati,5072.0
+1485,Dom Eliseu,59719.0
+1486,Dom Expedito Lopes,6904.0
+1487,Dom Feliciano,15414.0
+1488,Dom Inocêncio,9556.0
+1489,Dom Joaquim,4195.0
+1490,Dom Macedo Costa,4058.0
+1491,Dom Pedrito,38461.0
+1492,Dom Pedro,23350.0
+1493,Dom Pedro de Alcântara,2534.0
+1494,Dom Silvério,5237.0
+1495,Dom Viçoso,3001.0
+1496,Domingos Martins,33850.0
+1497,Domingos Mourão,4355.0
+1498,Dona Emma,4146.0
+1499,Dona Euzébia,6572.0
+1500,Dona Francisca,3041.0
+1501,Dona Inês,10453.0
+1502,Dores de Campos,10153.0
+1503,Dores de Guanhães,5169.0
+1504,Dores do Indaiá,13483.0
+1505,Dores do Rio Preto,6749.0
+1506,Dores do Turvo,4259.0
+1507,Doresópolis,1527.0
+1508,Dormentes,18908.0
+1509,Douradina,8747.0
+1510,Dourado,8873.0
+1511,Douradoquara,1908.0
+1512,Dourados,222949.0
+1513,Doutor Camargo,5979.0
+1514,Doutor Maurício Cardoso,4549.0
+1515,Doutor Pedrinho,4064.0
+1516,Doutor Ricardo,1983.0
+1517,Doutor Severiano,7076.0
+1518,Doutor Ulysses,5580.0
+1519,Doverlândia,7322.0
+1520,Dracena,46793.0
+1521,Duartina,12445.0
+1522,Duas Barras,11492.0
+1523,Duas Estradas,3596.0
+1524,Dueré,4686.0
+1525,Dumont,9868.0
+1526,Duque Bacelar,11349.0
+1527,Duque de Caxias,919596.0
+1528,Durandé,7841.0
+1529,Dário Meira,10710.0
+1530,Echaporã,6102.0
+1531,Ecoporanga,22923.0
+1532,Edealina,3699.0
+1533,Edéia,12372.0
+1534,Eirunepé,35273.0
+1535,Eldorado,15494.0
+1536,Eldorado do Carajás,33808.0
+1537,Eldorado do Sul,41285.0
+1538,Elesbão Veloso,14602.0
+1539,Elias Fausto,17772.0
+1540,Eliseu Martins,4915.0
+1541,Elisiário,3651.0
+1542,Elísio Medrado,8122.0
+1543,Elói Mendes,28076.0
+1544,Emas,3522.0
+1545,Embaúba,2452.0
+1546,Embu das Artes,273726.0
+1547,Embu-Guaçu,69385.0
+1548,Emilianópolis,3214.0
+1549,Encantado,22706.0
+1550,Encanto,5638.0
+1551,Encruzilhada,17006.0
+1552,Encruzilhada do Sul,25877.0
+1553,Engenheiro Beltrão,14000.0
+1554,Engenheiro Caldas,11134.0
+1555,Engenheiro Coelho,20773.0
+1556,Engenheiro Navarro,7242.0
+1557,Engenheiro Paulo de Frontin,14002.0
+1558,Engenho Velho,1034.0
+1559,Entre Folhas,5370.0
+1560,Entre Rios,41780.0
+1561,Entre Rios de Minas,15298.0
+1562,Entre Rios do Oeste,4539.0
+1563,Entre Rios do Sul,2792.0
+1564,Entre-Ijuís,8475.0
+1565,Envira,20033.0
+1566,Enéas Marques,5961.0
+1567,Epitaciolândia,18411.0
+1568,Equador,6045.0
+1569,Erebango,2991.0
+1570,Erechim,105862.0
+1571,Ereré,7198.0
+1572,Ermo,2063.0
+1573,Ernestina,3168.0
+1574,Erval Grande,4859.0
+1575,Erval Seco,6912.0
+1576,Erval Velho,4412.0
+1577,Ervália,18895.0
+1578,Escada,68875.0
+1579,Esmeralda,3282.0
+1580,Esmeraldas,70552.0
+1581,Espera Feliz,24951.0
+1582,Esperantina,39737.0
+1583,Esperantinópolis,17241.0
+1584,Esperança,33007.0
+1585,Esperança Nova,1698.0
+1586,Esperança do Sul,2926.0
+1587,Espigão Alto do Iguaçu,4117.0
+1588,Espigão D'Oeste,32374.0
+1589,Espinosa,31617.0
+1590,Esplanada,37237.0
+1591,Espumoso,15588.0
+1592,Espírito Santo,10505.0
+1593,Espírito Santo do Dourado,4692.0
+1594,Espírito Santo do Pinhal,44330.0
+1595,Espírito Santo do Turvo,4829.0
+1596,Estação,5958.0
+1597,Esteio,83202.0
+1598,Estiva,11354.0
+1599,Estiva Gerbi,11304.0
+1600,Estreito,41946.0
+1601,Estrela,34116.0
+1602,Estrela Dalva,2343.0
+1603,Estrela Velha,3655.0
+1604,Estrela d'Oeste,8419.0
+1605,Estrela de Alagoas,18205.0
+1606,Estrela do Indaiá,3500.0
+1607,Estrela do Norte,3275.0
+1608,Estrela do Sul,7978.0
+1609,Estância,69184.0
+1610,Estância Velha,50022.0
+1611,Euclides da Cunha,60585.0
+1612,Euclides da Cunha Paulista,9371.0
+1613,Eugenópolis,11275.0
+1614,Eugênio de Castro,2396.0
+1615,Eunápolis,113380.0
+1616,Eusébio,53618.0
+1617,Ewbank da Câmara,3913.0
+1618,Extrema,36225.0
+1619,Extremoz,28583.0
+1620,Exu,31825.0
+1621,Fagundes,11253.0
+1622,Fagundes Varela,2731.0
+1623,Faina,6627.0
+1624,Fama,2377.0
+1625,Faria Lemos,3241.0
+1626,Farias Brito,19450.0
+1627,Faro,7194.0
+1628,Farol,3089.0
+1629,Farroupilha,72331.0
+1630,Fartura,16036.0
+1631,Fartura do Piauí,5307.0
+1632,Faxinal,17251.0
+1633,Faxinal do Soturno,6677.0
+1634,Faxinal dos Guedes,10667.0
+1635,Faxinalzinho,2315.0
+1636,Fazenda Nova,5637.0
+1637,Fazenda Rio Grande,100209.0
+1638,Fazenda Vilanova,4533.0
+1639,Feijó,34780.0
+1640,Feira Grande,22166.0
+1641,Feira Nova,22131.0
+1642,Feira Nova do Maranhão,8504.0
+1643,Feira da Mata,5665.0
+1644,Feira de Santana,614872.0
+1645,Felipe Guerra,5985.0
+1646,Felisburgo,7457.0
+1647,Felixlândia,15336.0
+1648,Feliz,13547.0
+1649,Feliz Deserto,4754.0
+1650,Feliz Natal,14192.0
+1651,Felício dos Santos,4753.0
+1652,Fernandes Pinheiro,5646.0
+1653,Fernandes Tourinho,3431.0
+1654,Fernando Falcão,10360.0
+1655,Fernando Pedroza,3054.0
+1656,Fernando Prestes,5783.0
+1657,Fernando de Noronha,3061.0
+1658,Fernandópolis,69116.0
+1659,Fernão,1716.0
+1660,Ferraz de Vasconcelos,194276.0
+1661,Ferreira Gomes,7780.0
+1662,Ferreiros,12123.0
+1663,Ferros,9820.0
+1664,Fervedouro,11006.0
+1665,Figueira,7770.0
+1666,Figueirão,3051.0
+1667,Figueirópolis,5263.0
+1668,Figueirópolis D'Oeste,3494.0
+1669,Filadélfia,16377.0
+1670,Firmino Alves,5617.0
+1671,Firminópolis,13292.0
+1672,Flexeiras,12790.0
+1673,Flor da Serra do Sul,4624.0
+1674,Flor do Sertão,1582.0
+1675,Flora Rica,1464.0
+1676,Floraí,4929.0
+1677,Floreal,2917.0
+1678,Flores,22624.0
+1679,Flores da Cunha,30745.0
+1680,Flores de Goiás,16557.0
+1681,Flores do Piauí,4463.0
+1682,Floresta,32873.0
+1683,Floresta Azul,10629.0
+1684,Floresta do Araguaia,20304.0
+1685,Floresta do Piauí,2558.0
+1686,Florestal,7461.0
+1687,Florestópolis,10548.0
+1688,Floriano,59935.0
+1689,Floriano Peixoto,1766.0
+1690,Florianópolis,500973.0
+1691,Florânia,9116.0
+1692,Florínea,2676.0
+1693,Flórida,2689.0
+1694,Flórida Paulista,14640.0
+1695,Fonte Boa,17609.0
+1696,Fontoura Xavier,10304.0
+1697,Formiga,67683.0
+1698,Formigueiro,6664.0
+1699,Formosa,121617.0
+1700,Formosa da Serra Negra,19089.0
+1701,Formosa do Oeste,6578.0
+1702,Formosa do Rio Preto,25591.0
+1703,Formosa do Sul,2510.0
+1704,Formoso,9562.0
+1705,Formoso do Araguaia,18440.0
+1706,Forquetinha,2412.0
+1707,Forquilha,24218.0
+1708,Forquilhinha,26793.0
+1709,Fortaleza,2669342.0
+1710,Fortaleza de Minas,4412.0
+1711,Fortaleza dos Nogueiras,12631.0
+1712,Fortaleza dos Valos,4320.0
+1713,Fortim,16480.0
+1714,Fortuna,15552.0
+1715,Fortuna de Minas,2947.0
+1716,Foz do Iguaçu,258532.0
+1717,Foz do Jordão,4650.0
+1718,Fraiburgo,36443.0
+1719,Franca,353187.0
+1720,Francinópolis,5348.0
+1721,Francisco Alves,6046.0
+1722,Francisco Ayres,4348.0
+1723,Francisco Badaró,10332.0
+1724,Francisco Beltrão,91093.0
+1725,Francisco Dantas,2824.0
+1726,Francisco Dumont,5215.0
+1727,Francisco Macedo,3184.0
+1728,Francisco Morato,175844.0
+1729,Francisco Santos,9319.0
+1730,Francisco Sá,26277.0
+1731,Franciscópolis,5391.0
+1732,Franco da Rocha,154489.0
+1733,Frecheirinha,14072.0
+1734,Frederico Westphalen,31313.0
+1735,Frei Gaspar,5880.0
+1736,Frei Inocêncio,9611.0
+1737,Frei Lagonegro,3478.0
+1738,Frei Martinho,2989.0
+1739,Frei Miguelinho,15457.0
+1740,Frei Paulo,15421.0
+1741,Frei Rogério,2023.0
+1742,Fronteira,18103.0
+1743,Fronteira dos Vales,4581.0
+1744,Fronteiras,11625.0
+1745,Fruta de Leite,5369.0
+1746,Frutal,59496.0
+1747,Frutuoso Gomes,4068.0
+1748,Fundão,21509.0
+1749,Funilândia,4349.0
+1750,Fátima,17890.0
+1751,Fátima do Sul,19189.0
+1752,Fênix,4762.0
+1753,Gabriel Monteiro,2776.0
+1754,Gado Bravo,8316.0
+1755,Galiléia,6817.0
+1756,Galinhos,2786.0
+1757,Galvão,2873.0
+1758,Gameleira,31052.0
+1759,Gameleira de Goiás,3818.0
+1760,Gameleiras,5109.0
+1761,Gandu,32403.0
+1762,Garanhuns,139788.0
+1763,Gararu,11604.0
+1764,Garibaldi,35070.0
+1765,Garopaba,23078.0
+1766,Garrafão do Norte,26066.0
+1767,Garruchos,2924.0
+1768,Garuva,18145.0
+1769,Garça,44390.0
+1770,Gaspar,69639.0
+1771,Gastão Vidigal,4808.0
+1772,Gaurama,5534.0
+1773,Gavião,4463.0
+1774,Gavião Peixoto,4789.0
+1775,Gaúcha do Norte,7648.0
+1776,Geminiano,5442.0
+1777,General Carneiro,13710.0
+1778,General Câmara,8385.0
+1779,General Maynard,3346.0
+1780,General Salgado,10869.0
+1781,General Sampaio,7618.0
+1782,Gentil,1634.0
+1783,Gentio do Ouro,11233.0
+1784,Getulina,11409.0
+1785,Getúlio Vargas,16212.0
+1786,Gilbués,10690.0
+1787,Girau do Ponciano,40917.0
+1788,Giruá,16004.0
+1789,Glaucilândia,3150.0
+1790,Glicério,4815.0
+1791,Glorinha,8098.0
+1792,Glória,15221.0
+1793,Glória D'Oeste,3026.0
+1794,Glória de Dourados,9965.0
+1795,Glória do Goitá,30604.0
+1796,Godofredo Viana,11819.0
+1797,Godoy Moreira,2946.0
+1798,Goiabeira,3353.0
+1799,Goiana,79758.0
+1800,Goiandira,5600.0
+1801,Goianinha,26328.0
+1802,Goianira,44289.0
+1803,Goianorte,5123.0
+1804,Goianá,3966.0
+1805,Goianápolis,11231.0
+1806,Goianésia,70084.0
+1807,Goianésia do Pará,40475.0
+1808,Goiatins,13019.0
+1809,Goiatuba,34095.0
+1810,Goioerê,28884.0
+1811,Goioxim,7111.0
+1812,Goiás,22645.0
+1813,Goiânia,1516113.0
+1814,Gongogi,7128.0
+1815,Gonzaga,6158.0
+1816,Gonçalves,4350.0
+1817,Gonçalves Dias,17934.0
+1818,Gouveia,11825.0
+1819,Gouvelândia,5898.0
+1820,Governador Archer,10840.0
+1821,Governador Celso Ramos,14471.0
+1822,Governador Dix-Sept Rosado,13037.0
+1823,Governador Edison Lobão,18296.0
+1824,Governador Eugênio Barros,16828.0
+1825,Governador Jorge Teixeira,7767.0
+1826,Governador Lindenberg,12709.0
+1827,Governador Luiz Rocha,7807.0
+1828,Governador Mangabeira,20722.0
+1829,Governador Newton Bello,10180.0
+1830,Governador Nunes Freire,25577.0
+1831,Governador Valadares,279885.0
+1832,Gracho Cardoso,5818.0
+1833,Grajaú,69527.0
+1834,Gramado,36232.0
+1835,Gramado Xavier,4325.0
+1836,Gramado dos Loureiros,2082.0
+1837,Grandes Rios,5618.0
+1838,Granito,7486.0
+1839,Granja,54748.0
+1840,Granjeiro,4844.0
+1841,Gravatal,11501.0
+1842,Gravataí,281519.0
+1843,Gravatá,84074.0
+1844,Graça,14399.0
+1845,Graça Aranha,6262.0
+1846,Groaíras,11068.0
+1847,Grossos,10383.0
+1848,Grupiara,1388.0
+1849,Grão Mogol,15836.0
+1850,Grão Pará,6569.0
+1851,Guabiju,1503.0
+1852,Guabiruba,23832.0
+1853,Guadalupe,10499.0
+1854,Guaimbê,5765.0
+1855,Guairaçá,6581.0
+1856,Guaiçara,12168.0
+1857,Guaiúba,26064.0
+1858,Guajará,16678.0
+1859,Guajará-Mirim,46174.0
+1860,Guajeru,6937.0
+1861,Guamaré,15659.0
+1862,Guamiranga,8739.0
+1863,Guanambi,84481.0
+1864,Guanhães,34319.0
+1865,Guapiara,17157.0
+1866,Guapiaçu,21454.0
+1867,Guapimirim,60517.0
+1868,Guapirama,3802.0
+1869,Guaporema,2243.0
+1870,Guaporé,25727.0
+1871,Guapé,14245.0
+1872,Guapó,14209.0
+1873,Guarabira,58833.0
+1874,Guaraci,11188.0
+1875,Guaraciaba,10324.0
+1876,Guaraciaba do Norte,40642.0
+1877,Guaraciama,4972.0
+1878,Guaramiranga,5193.0
+1879,Guaramirim,44819.0
+1880,Guarani,8911.0
+1881,Guarani d'Oeste,2000.0
+1882,Guarani das Missões,7537.0
+1883,Guarani de Goiás,3893.0
+1884,Guaraniaçu,12472.0
+1885,Guarantã,6664.0
+1886,Guarantã do Norte,35816.0
+1887,Guaranésia,19021.0
+1888,Guarapari,124859.0
+1889,Guarapuava,181504.0
+1890,Guaraqueçaba,7636.0
+1891,Guararapes,32939.0
+1892,Guararema,29798.0
+1893,Guarará,3796.0
+1894,Guaratinga,20843.0
+1895,Guaratinguetá,121798.0
+1896,Guaratuba,37067.0
+1897,Guaraçaí,8323.0
+1898,Guaraí,25923.0
+1899,Guaraíta,1996.0
+1900,Guarda-Mor,6580.0
+1901,Guareí,18520.0
+1902,Guariba,40105.0
+1903,Guaribas,4562.0
+1904,Guarinos,1794.0
+1905,Guarujá,320459.0
+1906,Guarujá do Sul,5160.0
+1907,Guarulhos,1379182.0
+1908,Guará,21220.0
+1909,Guatambú,4704.0
+1910,Guatapará,7656.0
+1911,Guaxupé,51917.0
+1912,Guaçuí,30867.0
+1913,Guaíba,98143.0
+1914,Guaíra,40790.0
+1915,Guia Lopes da Laguna,9895.0
+1916,Guidoval,7078.0
+1917,Guimarânia,8039.0
+1918,Guimarães,12030.0
+1919,Guiratinga,15141.0
+1920,Guiricema,8392.0
+1921,Gurinhatã,5639.0
+1922,Gurinhém,14129.0
+1923,Gurjão,3428.0
+1924,Gurupi,86647.0
+1925,Gurupá,33376.0
+1926,Guzolândia,5267.0
+1927,Gália,6548.0
+1928,Harmonia,4866.0
+1929,Heitoraí,3724.0
+1930,Heliodora,6558.0
+1931,Heliópolis,13031.0
+1932,Herculândia,9526.0
+1933,Herval,6821.0
+1934,Herval d'Oeste,22606.0
+1935,Herveiras,3018.0
+1936,Hidrolina,3564.0
+1937,Hidrolândia,21706.0
+1938,Holambra,14930.0
+1939,Honório Serpa,5211.0
+1940,Horizonte,67337.0
+1941,Horizontina,19329.0
+1942,Hortolândia,230851.0
+1943,Hugo Napoleão,3877.0
+1944,Hulha Negra,6776.0
+1945,Humaitá,55080.0
+1946,Humberto de Campos,28717.0
+1947,Iacanga,11710.0
+1948,Iaciara,13947.0
+1949,Iacri,6321.0
+1950,Iapu,11004.0
+1951,Iaras,9240.0
+1952,Iati,19197.0
+1953,Iaçu,24305.0
+1954,Ibaiti,31364.0
+1955,Ibarama,4406.0
+1956,Ibaretama,13353.0
+1957,Ibateguara,15616.0
+1958,Ibatiba,26082.0
+1959,Ibaté,35104.0
+1960,Ibema,6352.0
+1961,Ibertioga,5021.0
+1962,Ibiam,1957.0
+1963,Ibiapina,24997.0
+1964,Ibiara,5929.0
+1965,Ibiassucê,9224.0
+1966,Ibiaçá,4709.0
+1967,Ibiaí,8395.0
+1968,Ibicaraí,21689.0
+1969,Ibicaré,3202.0
+1970,Ibicoara,19571.0
+1971,Ibicuitinga,12525.0
+1972,Ibicuí,16198.0
+1973,Ibimirim,29235.0
+1974,Ibipeba,18211.0
+1975,Ibipitanga,14902.0
+1976,Ibiporã,54558.0
+1977,Ibiquera,4044.0
+1978,Ibiracatu,5400.0
+1979,Ibiraci,13828.0
+1980,Ibiraiaras,7262.0
+1981,Ibirajuba,7762.0
+1982,Ibirama,18950.0
+1983,Ibirapitanga,23375.0
+1984,Ibirapuitã,4013.0
+1985,Ibirapuã,8637.0
+1986,Ibirarema,7753.0
+1987,Ibirataia,15312.0
+1988,Ibiraçu,12479.0
+1989,Ibirité,180204.0
+1990,Ibirubá,20350.0
+1991,Ibirá,12393.0
+1992,Ibitiara,16339.0
+1993,Ibitinga,60033.0
+1994,Ibitirama,8889.0
+1995,Ibititá,17113.0
+1996,Ibitiúra de Minas,3488.0
+1997,Ibituruna,2989.0
+1998,Ibiá,25199.0
+1999,Ibiúna,78878.0
+2000,Ibotirama,26927.0
+2001,Icapuí,19934.0
+2002,Icaraí de Minas,11990.0
+2003,Icaraíma,7904.0
+2004,Icatu,27113.0
+2005,Ichu,6206.0
+2006,Iconha,13860.0
+2007,Icém,8243.0
+2008,Icó,68018.0
+2009,Ielmo Marinho,13766.0
+2010,Iepê,8159.0
+2011,Igaci,25631.0
+2012,Igaporã,15640.0
+2013,Igaracy,6117.0
+2014,Igarapava,30432.0
+2015,Igarapé,43045.0
+2016,Igarapé Grande,11320.0
+2017,Igarapé do Meio,14177.0
+2018,Igarapé-Açu,38807.0
+2019,Igarapé-Miri,62698.0
+2020,Igarassu,117019.0
+2021,Igaratinga,10860.0
+2022,Igaratá,9534.0
+2023,Igaraçu do Tietê,24674.0
+2024,Igrapiúna,13226.0
+2025,Igreja Nova,24499.0
+2026,Igrejinha,36899.0
+2027,Iguaba Grande,28310.0
+2028,Iguape,30857.0
+2029,Iguaracy,12228.0
+2030,Iguaraçu,4404.0
+2031,Iguatama,7947.0
+2032,Iguatemi,16078.0
+2033,Iguatu,102498.0
+2034,Iguaí,26916.0
+2035,Ijaci,6550.0
+2036,Ijuí,83475.0
+2037,Ilha Comprida,11166.0
+2038,Ilha Grande,9426.0
+2039,Ilha Solteira,26686.0
+2040,Ilha das Flores,8520.0
+2041,Ilha de Itamaracá,26258.0
+2042,Ilhabela,34970.0
+2043,Ilhota,14184.0
+2044,Ilhéus,162327.0
+2045,Ilicínea,12375.0
+2046,Ilópolis,4078.0
+2047,Imaculada,11819.0
+2048,Imaruí,10135.0
+2049,Imbaú,13111.0
+2050,Imbituba,44853.0
+2051,Imbituva,32564.0
+2052,Imbuia,6197.0
+2053,Imbé,22800.0
+2054,Imbé de Minas,6903.0
+2055,Imigrante,3120.0
+2056,Imperatriz,258682.0
+2057,Inaciolândia,6194.0
+2058,Inajá,23247.0
+2059,Inconfidentes,7328.0
+2060,Indaiabira,7351.0
+2061,Indaial,69425.0
+2062,Indaiatuba,251627.0
+2063,Independência,26178.0
+2064,Indiana,4885.0
+2065,Indianópolis,6891.0
+2066,Indiaporã,3897.0
+2067,Indiara,15611.0
+2068,Indiaroba,17957.0
+2069,Indiavaí,2752.0
+2070,Ingazeira,4548.0
+2071,Ingaí,2767.0
+2072,Ingá,18103.0
+2073,Inhacorá,2226.0
+2074,Inhambupe,39926.0
+2075,Inhangapi,11711.0
+2076,Inhapi,18385.0
+2077,Inhapim,24140.0
+2078,Inhaúma,6271.0
+2079,Inhuma,15308.0
+2080,Inhumas,52866.0
+2081,Inimutaba,7515.0
+2082,Inocência,7610.0
+2083,Inácio Martins,11125.0
+2084,Inúbia Paulista,3991.0
+2085,Iomerê,2945.0
+2086,Ipaba,18607.0
+2087,Ipameri,26985.0
+2088,Ipanema,19861.0
+2089,Ipanguaçu,15491.0
+2090,Ipaporanga,11593.0
+2091,Ipatinga,263410.0
+2092,Ipaumirim,12463.0
+2093,Ipaussu,14971.0
+2094,Ipecaetá,14487.0
+2095,Iperó,37133.0
+2096,Ipeúna,7546.0
+2097,Ipiaçu,4221.0
+2098,Ipiaú,45873.0
+2099,Ipiguá,5392.0
+2100,Ipira,4446.0
+2101,Ipiranga,15172.0
+2102,Ipiranga de Goiás,2893.0
+2103,Ipiranga do Norte,7667.0
+2104,Ipiranga do Piauí,9811.0
+2105,Ipiranga do Sul,1889.0
+2106,Ipirá,59595.0
+2107,Ipixuna,29689.0
+2108,Ipixuna do Pará,64053.0
+2109,Ipojuca,96204.0
+2110,Iporanga,4218.0
+2111,Iporá,31531.0
+2112,Iporã,13926.0
+2113,Iporã do Oeste,8996.0
+2114,Ipu,41964.0
+2115,Ipuaçu,7514.0
+2116,Ipubi,30854.0
+2117,Ipueira,2241.0
+2118,Ipueiras,38166.0
+2119,Ipuiúna,10079.0
+2120,Ipumirim,7593.0
+2121,Ipupiara,9865.0
+2122,Ipuã,16409.0
+2123,Ipê,6640.0
+2124,Iracema,14297.0
+2125,Iracema do Oeste,2288.0
+2126,Iraceminha,3976.0
+2127,Iracemápolis,24235.0
+2128,Irajuba,7260.0
+2129,Iramaia,8537.0
+2130,Iranduba,48296.0
+2131,Irani,10419.0
+2132,Irapuru,8294.0
+2133,Irapuã,7993.0
+2134,Iraquara,25216.0
+2135,Irará,29034.0
+2136,Irati,60727.0
+2137,Irauçuba,24156.0
+2138,Iraí,7241.0
+2139,Iraí de Minas,6987.0
+2140,Irecê,72967.0
+2141,Iretama,10169.0
+2142,Irineópolis,11222.0
+2143,Irituia,32550.0
+2144,Irupi,13377.0
+2145,Isaías Coelho,8549.0
+2146,Israelândia,2800.0
+2147,Itaara,5499.0
+2148,Itabaiana,95427.0
+2149,Itabaianinha,41928.0
+2150,Itabela,30584.0
+2151,Itaberaba,64489.0
+2152,Itaberaí,42900.0
+2153,Itaberá,17556.0
+2154,Itabi,4903.0
+2155,Itabira,120060.0
+2156,Itabirinha,11512.0
+2157,Itabirito,51875.0
+2158,Itaboraí,240592.0
+2159,Itabuna,213223.0
+2160,Itacajá,7433.0
+2161,Itacambira,5385.0
+2162,Itacarambi,18153.0
+2163,Itacaré,28296.0
+2164,Itacoatiara,101337.0
+2165,Itacuruba,4918.0
+2166,Itacurubi,3465.0
+2167,Itaeté,16056.0
+2168,Itagi,12351.0
+2169,Itagibá,14579.0
+2170,Itagimirim,6869.0
+2171,Itaguajé,4466.0
+2172,Itaguara,13358.0
+2173,Itaguari,4676.0
+2174,Itaguaru,5237.0
+2175,Itaguatins,5864.0
+2176,Itaguaçu,14066.0
+2177,Itaguaçu da Bahia,14429.0
+2178,Itaguaí,133019.0
+2179,Itainópolis,11530.0
+2180,Itaipava do Grajaú,16057.0
+2181,Itaipulândia,11176.0
+2182,Itaipé,12760.0
+2183,Itaitinga,37980.0
+2184,Itaituba,101247.0
+2185,Itaiçaba,7827.0
+2186,Itaiópolis,21669.0
+2187,Itajaí,219536.0
+2188,Itajobi,15262.0
+2189,Itaju,3835.0
+2190,Itaju do Colônia,6682.0
+2191,Itajubá,96869.0
+2192,Itajuípe,20491.0
+2193,Itajá,7548.0
+2194,Italva,15207.0
+2195,Itamaraju,64486.0
+2196,Itamarandiba,34735.0
+2197,Itamarati,7851.0
+2198,Itamarati de Minas,4355.0
+2199,Itamari,8035.0
+2200,Itambacuri,23211.0
+2201,Itambaracá,6582.0
+2202,Itambé,36447.0
+2203,Itambé do Mato Dentro,2081.0
+2204,Itamogi,10192.0
+2205,Itamonte,15579.0
+2206,Itanagra,6441.0
+2207,Itanhandu,15331.0
+2208,Itanhangá,6737.0
+2209,Itanhaém,101816.0
+2210,Itanhomi,12228.0
+2211,Itanhém,19405.0
+2212,Itaobim,21062.0
+2213,Itaoca,3328.0
+2214,Itaocara,23234.0
+2215,Itapaci,22981.0
+2216,Itapagipe,15243.0
+2217,Itapajé,52675.0
+2218,Itaparica,22228.0
+2219,Itapebi,10259.0
+2220,Itapecerica,21762.0
+2221,Itapecerica da Serra,175693.0
+2222,Itapecuru Mirim,68203.0
+2223,Itapejara d'Oeste,11964.0
+2224,Itapema,65312.0
+2225,Itapemirim,34348.0
+2226,Itaperuna,103224.0
+2227,Itaperuçu,28634.0
+2228,Itapetim,13616.0
+2229,Itapetinga,76147.0
+2230,Itapetininga,163901.0
+2231,Itapeva,94354.0
+2232,Itapevi,237700.0
+2233,Itapicuru,35576.0
+2234,Itapipoca,129358.0
+2235,Itapira,74773.0
+2236,Itapiranga,16872.0
+2237,Itapirapuã,4997.0
+2238,Itapirapuã Paulista,4241.0
+2239,Itapiratins,3777.0
+2240,Itapissuma,26651.0
+2241,Itapitanga,10313.0
+2242,Itapiúna,20382.0
+2243,Itaporanga,24692.0
+2244,Itaporanga d'Ajuda,34356.0
+2245,Itapororoca,18664.0
+2246,Itaporã,24839.0
+2247,Itaporã do Tocantins,2427.0
+2248,Itapoá,20576.0
+2249,Itapuca,2094.0
+2250,Itapura,4906.0
+2251,Itapuranga,25768.0
+2252,Itapuã do Oeste,10458.0
+2253,Itapuí,13992.0
+2254,Itapé,8761.0
+2255,Itaquaquecetuba,370821.0
+2256,Itaquara,8319.0
+2257,Itaqui,37620.0
+2258,Itaquiraí,21142.0
+2259,Itaquitinga,16955.0
+2260,Itarana,10555.0
+2261,Itarantim,19747.0
+2262,Itararé,50503.0
+2263,Itarema,41826.0
+2264,Itariri,17436.0
+2265,Itarumã,7178.0
+2266,Itati,2419.0
+2267,Itatiaia,31805.0
+2268,Itatiaiuçu,11146.0
+2269,Itatiba,120858.0
+2270,Itatiba do Sul,3324.0
+2271,Itatim,14487.0
+2272,Itatinga,20697.0
+2273,Itatira,21647.0
+2274,Itatuba,10962.0
+2275,Itaubal,5503.0
+2276,Itaueira,11019.0
+2277,Itauçu,8938.0
+2278,Itaverava,5419.0
+2279,Itaí,27125.0
+2280,Itaíba,26349.0
+2281,Itaú,5878.0
+2282,Itaú de Minas,16108.0
+2283,Itaúba,3802.0
+2284,Itaúna,93214.0
+2285,Itaúna do Sul,2865.0
+2286,Itinga,14990.0
+2287,Itinga do Maranhão,26000.0
+2288,Itiquira,13345.0
+2289,Itirapina,18157.0
+2290,Itirapuã,6499.0
+2291,Itiruçu,12576.0
+2292,Itiúba,36089.0
+2293,Itobi,7841.0
+2294,Itororó,20382.0
+2295,Itu,173939.0
+2296,Ituaçu,18962.0
+2297,Ituberá,28602.0
+2298,Itueta,6051.0
+2299,Ituiutaba,104671.0
+2300,Itumbiara,104742.0
+2301,Itumirim,6023.0
+2302,Itupeva,61252.0
+2303,Itupiranga,53269.0
+2304,Ituporanga,25086.0
+2305,Iturama,39263.0
+2306,Itutinga,3788.0
+2307,Ituverava,41824.0
+2308,Itá,6169.0
+2309,Itápolis,43120.0
+2310,Iuiu,10994.0
+2311,Ivaiporã,31984.0
+2312,Ivatuba,3259.0
+2313,Ivaté,8185.0
+2314,Ivaí,13879.0
+2315,Ivinhema,23187.0
+2316,Ivolândia,2370.0
+2317,Ivorá,1910.0
+2318,Ivoti,24293.0
+2319,Içara,56421.0
+2320,Iúna,29161.0
+2321,Jaboatão dos Guararapes,702298.0
+2322,Jaborandi,8385.0
+2323,Jaborá,3936.0
+2324,Jaboti,5274.0
+2325,Jaboticaba,3810.0
+2326,Jaboticabal,77263.0
+2327,Jaboticatubas,20143.0
+2328,Jacaraci,14842.0
+2329,Jacaraú,14431.0
+2330,Jacareacanga,8239.0
+2331,Jacarezinho,39378.0
+2332,Jacareí,233662.0
+2333,Jacaré dos Homens,5253.0
+2334,Jaci,7067.0
+2335,Jaciara,27776.0
+2336,Jacinto,12326.0
+2337,Jacinto Machado,10416.0
+2338,Jacobina,80518.0
+2339,Jacobina do Piauí,5741.0
+2340,Jacuizinho,2692.0
+2341,Jacundá,59155.0
+2342,Jacupiranga,17866.0
+2343,Jacutinga,25979.0
+2344,Jacuí,7686.0
+2345,Jacuípe,7021.0
+2346,Jaguapitã,13620.0
+2347,Jaguaquara,54423.0
+2348,Jaguarari,33570.0
+2349,Jaguaraçu,3133.0
+2350,Jaguaretama,18162.0
+2351,Jaguari,10848.0
+2352,Jaguariaíva,34857.0
+2353,Jaguaribara,11401.0
+2354,Jaguaribe,34682.0
+2355,Jaguaripe,18788.0
+2356,Jaguariúna,57488.0
+2357,Jaguaruana,33705.0
+2358,Jaguaruna,20024.0
+2359,Jaguarão,26680.0
+2360,Jaguaré,30477.0
+2361,Jaicós,19104.0
+2362,Jales,49107.0
+2363,Jambeiro,6602.0
+2364,Jampruca,5404.0
+2365,Janaúba,71648.0
+2366,Jandaia,6048.0
+2367,Jandaia do Sul,21176.0
+2368,Jandaíra,10709.0
+2369,Jandira,124937.0
+2370,Janduís,5268.0
+2371,Jangada,8409.0
+2372,Janiópolis,5245.0
+2373,Januária,67742.0
+2374,Januário Cicco,10181.0
+2375,Japaratinga,8361.0
+2376,Japaratuba,18743.0
+2377,Japaraíba,4350.0
+2378,Japeri,104768.0
+2379,Japi,5055.0
+2380,Japira,4994.0
+2381,Japoatã,13434.0
+2382,Japonvar,7969.0
+2383,Japorã,9110.0
+2384,Japurá,9425.0
+2385,Jaqueira,11656.0
+2386,Jaquirana,3716.0
+2387,Jaraguari,7187.0
+2388,Jaraguá,50511.0
+2389,Jaraguá do Sul,177697.0
+2390,Jaramataia,5770.0
+2391,Jardim,27174.0
+2392,Jardim Alegre,11328.0
+2393,Jardim Olinda,1331.0
+2394,Jardim de Angicos,2612.0
+2395,Jardim de Piranhas,14837.0
+2396,Jardim do Mulato,4504.0
+2397,Jardim do Seridó,12396.0
+2398,Jardinópolis,44380.0
+2399,Jari,3503.0
+2400,Jarinu,30044.0
+2401,Jaru,51775.0
+2402,Jataizinho,12588.0
+2403,Jataí,100882.0
+2404,Jataúba,17150.0
+2405,Jateí,4027.0
+2406,Jati,8111.0
+2407,Jatobá,14796.0
+2408,Jatobá do Piauí,4865.0
+2409,Jaupaci,2879.0
+2410,Jauru,8793.0
+2411,Jaçanã,9133.0
+2412,Jaíba,38909.0
+2413,Jaú,150252.0
+2414,Jaú do Tocantins,3849.0
+2415,Jeceaba,4912.0
+2416,Jenipapo de Minas,7692.0
+2417,Jenipapo dos Vieiras,16515.0
+2418,Jequeri,12386.0
+2419,Jequitaí,7531.0
+2420,Jequitibá,5211.0
+2421,Jequitinhonha,25391.0
+2422,Jequiá da Praia,11580.0
+2423,Jequié,155966.0
+2424,Jeremoabo,40463.0
+2425,Jericó,7739.0
+2426,Jeriquara,3159.0
+2427,Jerumenha,4452.0
+2428,Jerônimo Monteiro,12192.0
+2429,Jesuânia,4787.0
+2430,Jesuítas,8412.0
+2431,Jesúpolis,2490.0
+2432,Ji-Paraná,128969.0
+2433,Jijoca de Jericoacoara,19816.0
+2434,Jiquiriçá,14537.0
+2435,Jitaúna,11166.0
+2436,Joanésia,4573.0
+2437,Joanópolis,13220.0
+2438,Joaquim Felício,4695.0
+2439,Joaquim Gomes,23993.0
+2440,Joaquim Nabuco,16023.0
+2441,Joaquim Pires,14354.0
+2442,Joaquim Távora,11908.0
+2443,Joaçaba,30118.0
+2444,Joaíma,15432.0
+2445,Joca Claudino,2636.0
+2446,Joca Marques,5443.0
+2447,Joinville,590466.0
+2448,Jordânia,10812.0
+2449,Jordão,8317.0
+2450,Joselândia,16168.0
+2451,Josenópolis,4867.0
+2452,José Boiteux,4997.0
+2453,José Bonifácio,37015.0
+2454,José Gonçalves de Minas,4501.0
+2455,José Raydan,4995.0
+2456,José da Penha,5951.0
+2457,José de Freitas,39208.0
+2458,Joviânia,7387.0
+2459,João Alfredo,33822.0
+2460,João Costa,3008.0
+2461,João Câmara,34955.0
+2462,João Dias,2654.0
+2463,João Dourado,25188.0
+2464,João Lisboa,23632.0
+2465,João Monlevade,79910.0
+2466,João Neiva,16668.0
+2467,João Pessoa,809015.0
+2468,João Pinheiro,47452.0
+2469,João Ramalho,4523.0
+2470,Juara,34974.0
+2471,Juarez Távora,7936.0
+2472,Juarina,2193.0
+2473,Juatuba,26946.0
+2474,Juazeirinho,18171.0
+2475,Juazeiro,216707.0
+2476,Juazeiro do Norte,274207.0
+2477,Juazeiro do Piauí,5478.0
+2478,Jucati,11424.0
+2479,Jucurutu,18295.0
+2480,Jucuruçu,9126.0
+2481,Jucás,24833.0
+2482,Juiz de Fora,568873.0
+2483,Jumirim,3367.0
+2484,Junco do Maranhão,3432.0
+2485,Junco do Seridó,7150.0
+2486,Jundiaí,418962.0
+2487,Jundiaí do Sul,3292.0
+2488,Jundiá,4155.0
+2489,Junqueiro,24727.0
+2490,Junqueirópolis,20679.0
+2491,Jupi,14836.0
+2492,Jupiá,2101.0
+2493,Juquitiba,31444.0
+2494,Juquiá,18812.0
+2495,Juramento,4331.0
+2496,Juranda,7340.0
+2497,Jurema,15378.0
+2498,Juripiranga,10756.0
+2499,Juru,9867.0
+2500,Juruaia,10563.0
+2501,Juruena,15865.0
+2502,Juruti,57943.0
+2503,Juruá,14712.0
+2504,Juscimeira,11221.0
+2505,Jussara,18478.0
+2506,Jussari,5833.0
+2507,Jussiape,6186.0
+2508,Jutaí,14317.0
+2509,Juti,6712.0
+2510,Juvenília,5724.0
+2511,Juína,40997.0
+2512,Jóia,8560.0
+2513,Júlio Borges,5627.0
+2514,Júlio Mesquita,4776.0
+2515,Júlio de Castilhos,19293.0
+2516,Kaloré,4100.0
+2517,Lacerdópolis,2246.0
+2518,Ladainha,18111.0
+2519,Ladário,23331.0
+2520,Lafaiete Coutinho,3724.0
+2521,Lagamar,7613.0
+2522,Lagarto,104408.0
+2523,Lages,157544.0
+2524,Lago Verde,16257.0
+2525,Lago da Pedra,50266.0
+2526,Lago do Junco,10840.0
+2527,Lago dos Rodrigues,8873.0
+2528,Lagoa,4666.0
+2529,Lagoa Alegre,8542.0
+2530,Lagoa Bonita do Sul,2903.0
+2531,Lagoa Dourada,13009.0
+2532,Lagoa Formosa,18052.0
+2533,Lagoa Grande,25601.0
+2534,Lagoa Grande do Maranhão,11394.0
+2535,Lagoa Nova,15614.0
+2536,Lagoa Real,15665.0
+2537,Lagoa Salgada,8245.0
+2538,Lagoa Santa,64527.0
+2539,Lagoa Seca,27503.0
+2540,Lagoa Vermelha,27807.0
+2541,Lagoa d'Anta,6769.0
+2542,Lagoa da Canoa,17852.0
+2543,Lagoa da Confusão,13357.0
+2544,Lagoa da Prata,52165.0
+2545,Lagoa de Dentro,7719.0
+2546,Lagoa de Itaenga,21429.0
+2547,Lagoa de Pedras,7544.0
+2548,Lagoa de São Francisco,6758.0
+2549,Lagoa de Velhos,2732.0
+2550,Lagoa do Barro do Piauí,4655.0
+2551,Lagoa do Carro,18071.0
+2552,Lagoa do Mato,11250.0
+2553,Lagoa do Ouro,13145.0
+2554,Lagoa do Piauí,4064.0
+2555,Lagoa do Sítio,5177.0
+2556,Lagoa do Tocantins,4316.0
+2557,Lagoa dos Gatos,16290.0
+2558,Lagoa dos Patos,4102.0
+2559,Lagoa dos Três Cantos,1609.0
+2560,Lagoinha,4896.0
+2561,Lagoinha do Piauí,2845.0
+2562,Lagoão,6452.0
+2563,Laguna,45814.0
+2564,Laguna Carapã,7341.0
+2565,Laje,23840.0
+2566,Laje do Muriaé,7355.0
+2567,Lajeado,84014.0
+2568,Lajeado Grande,1427.0
+2569,Lajeado Novo,7550.0
+2570,Lajeado do Bugre,2564.0
+2571,Lajedinho,3783.0
+2572,Lajedo,40288.0
+2573,Lajedo do Tabocal,8562.0
+2574,Lajedão,3955.0
+2575,Lajes,11277.0
+2576,Lajes Pintadas,4759.0
+2577,Lajinha,19923.0
+2578,Lamarão,8307.0
+2579,Lambari,20814.0
+2580,Lambari D'Oeste,6121.0
+2581,Lamim,3391.0
+2582,Landri Sales,5295.0
+2583,Lapa,48163.0
+2584,Lapão,27223.0
+2585,Laranja da Terra,10947.0
+2586,Laranjal,6810.0
+2587,Laranjal Paulista,28516.0
+2588,Laranjal do Jari,50410.0
+2589,Laranjeiras,29826.0
+2590,Laranjeiras do Sul,32073.0
+2591,Lassance,6512.0
+2592,Lastro,2737.0
+2593,Laurentino,6970.0
+2594,Lauro Müller,15244.0
+2595,Lauro de Freitas,198440.0
+2596,Lavandeira,1923.0
+2597,Lavras,103773.0
+2598,Lavras da Mangabeira,31508.0
+2599,Lavras do Sul,7480.0
+2600,Lavrinhas,7260.0
+2601,Lavínia,11980.0
+2602,Leandro Ferreira,3229.0
+2603,Lebon Régis,12107.0
+2604,Leme,103391.0
+2605,Leme do Prado,4918.0
+2606,Lençóis,11409.0
+2607,Lençóis Paulista,68432.0
+2608,Leoberto Leal,3041.0
+2609,Leopoldina,52587.0
+2610,Leopoldo de Bulhões,7647.0
+2611,Leópolis,3954.0
+2612,Liberato Salzano,5219.0
+2613,Liberdade,5069.0
+2614,Licínio de Almeida,12388.0
+2615,Lidianópolis,3310.0
+2616,Lima Campos,11893.0
+2617,Lima Duarte,16698.0
+2618,Limeira,306114.0
+2619,Limeira do Oeste,7536.0
+2620,Limoeiro,56250.0
+2621,Limoeiro de Anadia,28635.0
+2622,Limoeiro do Ajuru,28935.0
+2623,Limoeiro do Norte,59540.0
+2624,Lindoeste,4676.0
+2625,Lindolfo Collor,6054.0
+2626,Lindóia,7980.0
+2627,Lindóia do Sul,4563.0
+2628,Linha Nova,1714.0
+2629,Linhares,173555.0
+2630,Lins,78013.0
+2631,Livramento,7256.0
+2632,Livramento de Nossa Senhora,45732.0
+2633,Lizarda,3740.0
+2634,Loanda,23086.0
+2635,Lobato,4787.0
+2636,Logradouro,4332.0
+2637,Londrina,569733.0
+2638,Lontra,9661.0
+2639,Lontras,12130.0
+2640,Lorena,88706.0
+2641,Loreto,12157.0
+2642,Lourdes,2289.0
+2643,Louveira,48885.0
+2644,Lucas do Rio Verde,65534.0
+2645,Lucena,13080.0
+2646,Lucianópolis,2394.0
+2647,Luciara,2077.0
+2648,Lucrécia,3996.0
+2649,Lucélia,21747.0
+2650,Luisburgo,6266.0
+2651,Luislândia,6699.0
+2652,Luiz Alves,12859.0
+2653,Luiziana,7262.0
+2654,Luiziânia,5790.0
+2655,Luminárias,5446.0
+2656,Lunardelli,4794.0
+2657,Lupionópolis,4920.0
+2658,Lupércio,4584.0
+2659,Lutécia,2649.0
+2660,Luz,18215.0
+2661,Luzerna,5685.0
+2662,Luzilândia,25486.0
+2663,Luzinópolis,3108.0
+2664,Luziânia,208299.0
+2665,Luís Antônio,14947.0
+2666,Luís Correia,30311.0
+2667,Luís Domingues,6951.0
+2668,Luís Eduardo Magalhães,87519.0
+2669,Luís Gomes,10116.0
+2670,Lábrea,46069.0
+2671,Macajuba,11348.0
+2672,Macambira,6919.0
+2673,Macaparana,25376.0
+2674,Macapá,503327.0
+2675,Macarani,18755.0
+2676,Macatuba,17163.0
+2677,Macau,31814.0
+2678,Macaubal,8120.0
+2679,Macaé,256672.0
+2680,Macaíba,80792.0
+2681,Macaúbas,49826.0
+2682,Macedônia,3698.0
+2683,Maceió,1018948.0
+2684,Machacalis,7111.0
+2685,Machadinho,5445.0
+2686,Machadinho D'Oeste,39991.0
+2687,Machado,42133.0
+2688,Machados,16088.0
+2689,Macieira,1775.0
+2690,Macuco,5599.0
+2691,Macururé,7824.0
+2692,Madalena,19691.0
+2693,Madeiro,8310.0
+2694,Madre de Deus,21093.0
+2695,Madre de Deus de Minas,5098.0
+2696,Maetinga,3161.0
+2697,Mafra,56292.0
+2698,Magalhães Barata,8548.0
+2699,Magalhães de Almeida,19826.0
+2700,Magda,3119.0
+2701,Magé,245071.0
+2702,Maiquinique,10112.0
+2703,Mairi,18676.0
+2704,Mairinque,47150.0
+2705,Mairiporã,100179.0
+2706,Mairipotaba,2368.0
+2707,Major Gercino,3442.0
+2708,Major Isidoro,19804.0
+2709,Major Sales,4020.0
+2710,Major Vieira,8103.0
+2711,Malacacheta,18650.0
+2712,Malhada,16845.0
+2713,Malhada de Pedras,8393.0
+2714,Malhada dos Bois,3682.0
+2715,Malhador,12618.0
+2716,Mallet,13630.0
+2717,Malta,5759.0
+2718,Mamanguape,44882.0
+2719,Mambaí,8882.0
+2720,Mamborê,13132.0
+2721,Mamonas,6543.0
+2722,Mampituba,2981.0
+2723,Manacapuru,97377.0
+2724,Manaquiri,32105.0
+2725,Manari,21434.0
+2726,Manaus,2182763.0
+2727,Manaíra,10955.0
+2728,Mandaguari,34400.0
+2729,Mandaguaçu,22819.0
+2730,Mandirituba,26869.0
+2731,Manduri,9846.0
+2732,Manfrinópolis,2571.0
+2733,Manga,18407.0
+2734,Mangaratiba,44468.0
+2735,Mangueirinha,16714.0
+2736,Manhuaçu,90229.0
+2737,Manhumirim,22707.0
+2738,Manicoré,55751.0
+2739,Manoel Emídio,5349.0
+2740,Manoel Ribas,13502.0
+2741,Manoel Urbano,9459.0
+2742,Manoel Viana,7299.0
+2743,Manoel Vitorino,13240.0
+2744,Mansidão,13643.0
+2745,Mantena,27644.0
+2746,Mantenópolis,15350.0
+2747,Maquiné,6714.0
+2748,Mar Vermelho,3514.0
+2749,Mar de Espanha,12814.0
+2750,Mara Rosa,9503.0
+2751,Marabá,279349.0
+2752,Marabá Paulista,5853.0
+2753,Maracaju,47083.0
+2754,Maracajá,7293.0
+2755,Maracanaú,227886.0
+2756,Maracanã,29473.0
+2757,Maracaçumé,21395.0
+2758,Maracaí,14002.0
+2759,Maracás,20834.0
+2760,Maragogi,32704.0
+2761,Maragogipe,44677.0
+2762,Maraial,11345.0
+2763,Marajá do Sena,7792.0
+2764,Maranguape,128978.0
+2765,Maranhãozinho,16265.0
+2766,Marapanim,28336.0
+2767,Marapoama,3031.0
+2768,Marataízes,38499.0
+2769,Maratá,2691.0
+2770,Marau,44161.0
+2771,Maravilha,25762.0
+2772,Maravilhas,7976.0
+2773,Maraã,18224.0
+2774,Maraú,20570.0
+2775,Marcação,8558.0
+2776,Marcelino Ramos,4402.0
+2777,Marcelino Vieira,8347.0
+2778,Marcelândia,10499.0
+2779,Marcionílio Souza,10406.0
+2780,Marco,27361.0
+2781,Marcolândia,8492.0
+2782,Marcos Parente,4549.0
+2783,Marechal Cândido Rondon,52944.0
+2784,Marechal Deodoro,51901.0
+2785,Marechal Floriano,16694.0
+2786,Marechal Thaumaturgo,18867.0
+2787,Marema,1797.0
+2788,Mari,21837.0
+2789,Maria Helena,5677.0
+2790,Maria da Fé,14095.0
+2791,Marialva,35496.0
+2792,Mariana,60724.0
+2793,Mariana Pimentel,3885.0
+2794,Mariano Moro,2031.0
+2795,Marianópolis do Tocantins,5175.0
+2796,Maribondo,13264.0
+2797,Maricá,161207.0
+2798,Marilac,4115.0
+2799,Marilena,7076.0
+2800,Mariluz,10345.0
+2801,Marilândia,12833.0
+2802,Marilândia do Sul,8836.0
+2803,Maringá,423666.0
+2804,Marinópolis,2112.0
+2805,Maripá,5603.0
+2806,Maripá de Minas,2973.0
+2807,Marituba,131521.0
+2808,Marizópolis,6617.0
+2809,Mariápolis,4084.0
+2810,Mariópolis,6610.0
+2811,Marliéria,4039.0
+2812,Marmeleiro,14367.0
+2813,Marmelópolis,2755.0
+2814,Marques de Souza,4009.0
+2815,Marquinho,4405.0
+2816,Martinho Campos,13388.0
+2817,Martins,8725.0
+2818,Martins Soares,8417.0
+2819,Martinópole,11233.0
+2820,Martinópolis,26461.0
+2821,Maruim,17213.0
+2822,Marumbi,4679.0
+2823,Marzagão,2236.0
+2824,Marília,238882.0
+2825,Mascote,13822.0
+2826,Massapê,38737.0
+2827,Massapê do Piauí,6441.0
+2828,Massaranduba,16916.0
+2829,Mata,4823.0
+2830,Mata Grande,25216.0
+2831,Mata Roma,16829.0
+2832,Mata Verde,8586.0
+2833,Mata de São João,46583.0
+2834,Mataraca,8434.0
+2835,Mateiros,2684.0
+2836,Matelândia,17943.0
+2837,Materlândia,4459.0
+2838,Mateus Leme,31086.0
+2839,Mathias Lobato,3203.0
+2840,Matias Barbosa,14468.0
+2841,Matias Cardoso,11157.0
+2842,Matias Olímpio,10936.0
+2843,Matina,12201.0
+2844,Matinha,23370.0
+2845,Matinhas,4500.0
+2846,Matinhos,34720.0
+2847,Matipó,18908.0
+2848,Mato Castelhano,2540.0
+2849,Mato Grosso,2908.0
+2850,Mato Leitão,4515.0
+2851,Mato Queimado,1648.0
+2852,Mato Rico,3272.0
+2853,Mato Verde,12459.0
+2854,Matos Costa,2520.0
+2855,Matozinhos,37820.0
+2856,Matrinchã,4351.0
+2857,Matriz de Camaragibe,24642.0
+2858,Matupá,16566.0
+2859,Maturéia,6569.0
+2860,Matutina,3749.0
+2861,Matão,83170.0
+2862,Matões,33782.0
+2863,Matões do Norte,16745.0
+2864,Maurilândia,14080.0
+2865,Maurilândia do Tocantins,3426.0
+2866,Mauriti,47962.0
+2867,Mauá,472912.0
+2868,Mauá da Serra,10601.0
+2869,Maués,63905.0
+2870,Maxaranguape,12371.0
+2871,Maximiliano de Almeida,4377.0
+2872,Mazagão,21632.0
+2873,Maçambará,4587.0
+2874,Medeiros,3802.0
+2875,Medeiros Neto,22688.0
+2876,Medianeira,46198.0
+2877,Medicilândia,31597.0
+2878,Medina,20820.0
+2879,Meleiro,7015.0
+2880,Melgaço,27654.0
+2881,Mendes,18614.0
+2882,Mendes Pimentel,6446.0
+2883,Mendonça,5490.0
+2884,Mercedes,5536.0
+2885,Mercês,10739.0
+2886,Meridiano,3836.0
+2887,Meruoca,15057.0
+2888,Mesquita,176103.0
+2889,Messias,17856.0
+2890,Messias Targino,4601.0
+2891,Mesópolis,1908.0
+2892,Miguel Alves,33760.0
+2893,Miguel Calmon,26023.0
+2894,Miguel Leão,1246.0
+2895,Miguel Pereira,25538.0
+2896,Miguelópolis,22226.0
+2897,Milagres,27512.0
+2898,Milagres do Maranhão,8464.0
+2899,Milhã,13155.0
+2900,Milton Brandão,6613.0
+2901,Mimoso de Goiás,2597.0
+2902,Mimoso do Sul,26153.0
+2903,Minador do Negrão,5329.0
+2904,Minas Novas,31484.0
+2905,Minas do Leão,8075.0
+2906,Minaçu,29070.0
+2907,Minduri,3894.0
+2908,Mineiros,66801.0
+2909,Mineiros do Tietê,12908.0
+2910,Ministro Andreazza,9660.0
+2911,Mira Estrela,3086.0
+2912,Mirabela,13589.0
+2913,Miracatu,19779.0
+2914,Miracema,27174.0
+2915,Miracema do Tocantins,18248.0
+2916,Mirador,21015.0
+2917,Miradouro,10754.0
+2918,Miraguaí,4925.0
+2919,Miranda,28013.0
+2920,Miranda do Norte,28381.0
+2921,Mirandiba,15390.0
+2922,Mirandópolis,29564.0
+2923,Mirangaba,18338.0
+2924,Miranorte,13434.0
+2925,Mirante,8641.0
+2926,Mirante da Serra,10947.0
+2927,Mirante do Paranapanema,18259.0
+2928,Miraselva,1806.0
+2929,Mirassol,59824.0
+2930,Mirassol d'Oeste,27739.0
+2931,Mirassolândia,4871.0
+2932,Miravânia,4888.0
+2933,Miraí,15014.0
+2934,Miraíma,13818.0
+2935,Mirim Doce,2309.0
+2936,Mirinzal,14962.0
+2937,Missal,10702.0
+2938,Missão Velha,35393.0
+2939,Mocajuba,31136.0
+2940,Mococa,68885.0
+2941,Modelo,4209.0
+2942,Moeda,4919.0
+2943,Moema,7517.0
+2944,Mogeiro,13284.0
+2945,Mogi Guaçu,151888.0
+2946,Mogi Mirim,93189.0
+2947,Mogi das Cruzes,445842.0
+2948,Moiporá,1529.0
+2949,Moita Bonita,11335.0
+2950,Moju,82094.0
+2951,Mojuí dos Campos,16084.0
+2952,Mombaça,43797.0
+2953,Mombuca,3493.0
+2954,Mondaí,11742.0
+2955,Mongaguá,56702.0
+2956,Monjolos,2220.0
+2957,Monsenhor Gil,10564.0
+2958,Monsenhor Hipólito,7749.0
+2959,Monsenhor Paulo,8688.0
+2960,Monsenhor Tabosa,17234.0
+2961,Montadas,5669.0
+2962,Montalvânia,14877.0
+2963,Montanha,18833.0
+2964,Montanhas,11251.0
+2965,Montauri,1453.0
+2966,Monte Alegre,58032.0
+2967,Monte Alegre de Goiás,8606.0
+2968,Monte Alegre de Minas,21120.0
+2969,Monte Alegre de Sergipe,15031.0
+2970,Monte Alegre do Piauí,10613.0
+2971,Monte Alegre do Sul,8038.0
+2972,Monte Alegre dos Campos,3226.0
+2973,Monte Alto,50498.0
+2974,Monte Aprazível,25087.0
+2975,Monte Azul,20854.0
+2976,Monte Azul Paulista,19008.0
+2977,Monte Belo,13166.0
+2978,Monte Belo do Sul,2548.0
+2979,Monte Carlo,9866.0
+2980,Monte Carmelo,47809.0
+2981,Monte Castelo,8275.0
+2982,Monte Formoso,4906.0
+2983,Monte Horebe,4816.0
+2984,Monte Mor,59772.0
+2985,Monte Negro,15852.0
+2986,Monte Santo,49418.0
+2987,Monte Santo de Minas,21524.0
+2988,Monte Santo do Tocantins,2279.0
+2989,Monte Sião,23803.0
+2990,Monte das Gameleiras,2105.0
+2991,Monte do Carmo,7947.0
+2992,Monteiro,33222.0
+2993,Monteiro Lobato,4653.0
+2994,Monteirópolis,7159.0
+2995,Montenegro,65264.0
+2996,Montes Altos,9160.0
+2997,Montes Claros,409341.0
+2998,Montes Claros de Goiás,8055.0
+2999,Montezuma,8249.0
+3000,Montividiu,13396.0
+3001,Montividiu do Norte,4479.0
+3002,Monção,33434.0
+3003,Monções,2259.0
+3004,Morada Nova,61890.0
+3005,Morada Nova de Minas,8863.0
+3006,Moraújo,8724.0
+3007,Moreilândia,11270.0
+3008,Moreira Sales,12121.0
+3009,Moreno,62784.0
+3010,Mormaço,3085.0
+3011,Morpará,8519.0
+3012,Morretes,16406.0
+3013,Morrinhos,46136.0
+3014,Morrinhos do Sul,2949.0
+3015,Morro Agudo,32968.0
+3016,Morro Agudo de Goiás,2248.0
+3017,Morro Cabeça no Tempo,4532.0
+3018,Morro Grande,2893.0
+3019,Morro Redondo,6568.0
+3020,Morro Reuter,6407.0
+3021,Morro da Fumaça,17796.0
+3022,Morro da Garça,2462.0
+3023,Morro do Chapéu,35413.0
+3024,Morro do Chapéu do Piauí,6796.0
+3025,Morro do Pilar,3182.0
+3026,Morros,19433.0
+3027,Mortugaba,12042.0
+3028,Morungaba,13622.0
+3029,Mossoró,297378.0
+3030,Mossâmedes,4290.0
+3031,Mostardas,12804.0
+3032,Motuca,4758.0
+3033,Mozarlândia,15659.0
+3034,Muaná,40349.0
+3035,Mucajaí,17853.0
+3036,Mucambo,14537.0
+3037,Mucugê,9062.0
+3038,Mucuri,41748.0
+3039,Mucurici,5524.0
+3040,Muitos Capões,3162.0
+3041,Muliterno,1893.0
+3042,Mulungu,10823.0
+3043,Mulungu do Morro,10889.0
+3044,Mundo Novo,26776.0
+3045,Munhoz,6029.0
+3046,Munhoz de Melo,3984.0
+3047,Muniz Ferreira,7422.0
+3048,Muniz Freire,17465.0
+3049,Muqui,15449.0
+3050,Muquém do São Francisco,11348.0
+3051,Muriaé,108763.0
+3052,Muribeca,7625.0
+3053,Murici,28236.0
+3054,Murici dos Portelas,9159.0
+3055,Muricilândia,3551.0
+3056,Muritiba,29399.0
+3057,Murutinga do Sul,4486.0
+3058,Mutum,26979.0
+3059,Mutunópolis,3778.0
+3060,Mutuípe,22221.0
+3061,Muzambinho,20569.0
+3062,Muçum,4954.0
+3063,Mário Campos,15416.0
+3064,Mâncio Lima,18977.0
+3065,Mãe d'Água,4009.0
+3066,Mãe do Rio,30077.0
+3067,Nacip Raydan,3220.0
+3068,Nantes,3141.0
+3069,Nanuque,40750.0
+3070,Naque,6996.0
+3071,Narandiba,4857.0
+3072,Natal,884122.0
+3073,Natalândia,3311.0
+3074,Natividade,15317.0
+3075,Natividade da Serra,6661.0
+3076,Natuba,10454.0
+3077,Natércia,4730.0
+3078,Navegantes,81475.0
+3079,Naviraí,54878.0
+3080,Nazareno,8608.0
+3081,Nazarezinho,7301.0
+3082,Nazaré,28525.0
+3083,Nazaré Paulista,18524.0
+3084,Nazaré da Mata,32471.0
+3085,Nazaré do Piauí,7339.0
+3086,Nazária,8570.0
+3087,Nazário,9142.0
+3088,Nepomuceno,26769.0
+3089,Nerópolis,29850.0
+3090,Neves Paulista,8930.0
+3091,Neópolis,18719.0
+3092,Nhamundá,21173.0
+3093,Nhandeara,11478.0
+3094,Nicolau Vergueiro,1682.0
+3095,Nilo Peçanha,13997.0
+3096,Nilópolis,162485.0
+3097,Nina Rodrigues,14454.0
+3098,Ninheira,10295.0
+3099,Nioaque,13930.0
+3100,Nipoã,5213.0
+3101,Niquelândia,46388.0
+3102,Niterói,513584.0
+3103,Nobres,15336.0
+3104,Nonoai,11695.0
+3105,Nordestina,13130.0
+3106,Normandia,11290.0
+3107,Nortelândia,5989.0
+3108,Nossa Senhora Aparecida,8796.0
+3109,Nossa Senhora da Glória,36924.0
+3110,Nossa Senhora das Dores,26629.0
+3111,Nossa Senhora das Graças,4008.0
+3112,Nossa Senhora de Lourdes,6483.0
+3113,Nossa Senhora de Nazaré,4870.0
+3114,Nossa Senhora do Livramento,13216.0
+3115,Nossa Senhora do Socorro,183628.0
+3116,Nossa Senhora dos Remédios,8692.0
+3117,Nova Aliança,6973.0
+3118,Nova Aliança do Ivaí,1543.0
+3119,Nova Alvorada,3625.0
+3120,Nova Alvorada do Sul,21882.0
+3121,Nova América,2352.0
+3122,Nova América da Colina,3445.0
+3123,Nova Andradina,54374.0
+3124,Nova Araçá,4759.0
+3125,Nova Aurora,10472.0
+3126,Nova Bandeirantes,15288.0
+3127,Nova Bassano,9916.0
+3128,Nova Belém,3190.0
+3129,Nova Boa Vista,1775.0
+3130,Nova Brasilândia,3829.0
+3131,Nova Brasilândia D'Oeste,20474.0
+3132,Nova Bréscia,3330.0
+3133,Nova Campina,9755.0
+3134,Nova Canaã,16462.0
+3135,Nova Canaã Paulista,1881.0
+3136,Nova Canaã do Norte,12787.0
+3137,Nova Candelária,2698.0
+3138,Nova Cantu,5302.0
+3139,Nova Castilho,1267.0
+3140,Nova Colinas,5384.0
+3141,Nova Crixás,12869.0
+3142,Nova Cruz,37343.0
+3143,Nova Era,17578.0
+3144,Nova Erechim,5019.0
+3145,Nova Esperança,27904.0
+3146,Nova Esperança do Piriá,21368.0
+3147,Nova Esperança do Sudoeste,5046.0
+3148,Nova Esperança do Sul,5352.0
+3149,Nova Europa,11186.0
+3150,Nova Floresta,10638.0
+3151,Nova Friburgo,190631.0
+3152,Nova Fátima,8153.0
+3153,Nova Glória,8164.0
+3154,Nova Granada,21500.0
+3155,Nova Guarita,4519.0
+3156,Nova Guataporanga,2316.0
+3157,Nova Hartz,21615.0
+3158,Nova Ibiá,6591.0
+3159,Nova Iguaçu,821128.0
+3160,Nova Iguaçu de Goiás,2929.0
+3161,Nova Independência,3969.0
+3162,Nova Iorque,4683.0
+3163,Nova Ipixuna,16678.0
+3164,Nova Itaberaba,4331.0
+3165,Nova Itarana,8226.0
+3166,Nova Lacerda,6640.0
+3167,Nova Laranjeiras,11554.0
+3168,Nova Lima,94889.0
+3169,Nova Londrina,13213.0
+3170,Nova Luzitânia,4101.0
+3171,Nova Mamoré,30583.0
+3172,Nova Marilândia,3278.0
+3173,Nova Maringá,8641.0
+3174,Nova Monte Verde,9178.0
+3175,Nova Mutum,45378.0
+3176,Nova Módica,3600.0
+3177,Nova Nazaré,3849.0
+3178,Nova Odessa,60174.0
+3179,Nova Olinda,15565.0
+3180,Nova Olinda do Maranhão,20928.0
+3181,Nova Olinda do Norte,37378.0
+3182,Nova Olímpia,20301.0
+3183,Nova Palma,6512.0
+3184,Nova Palmeira,4906.0
+3185,Nova Petrópolis,21353.0
+3186,Nova Ponte,15545.0
+3187,Nova Porteirinha,7500.0
+3188,Nova Prata,27257.0
+3189,Nova Prata do Iguaçu,10548.0
+3190,Nova Pádua,2553.0
+3191,Nova Ramada,2242.0
+3192,Nova Redenção,9118.0
+3193,Nova Resende,16723.0
+3194,Nova Roma,3264.0
+3195,Nova Roma do Sul,3689.0
+3196,Nova Rosalândia,4260.0
+3197,Nova Russas,32328.0
+3198,Nova Santa Bárbara,4249.0
+3199,Nova Santa Helena,3718.0
+3200,Nova Santa Rita,29300.0
+3201,Nova Santa Rosa,8219.0
+3202,Nova Serrana,102693.0
+3203,Nova Soure,26947.0
+3204,Nova Tebas,5649.0
+3205,Nova Timboteua,15363.0
+3206,Nova Trento,14549.0
+3207,Nova Ubiratã,11982.0
+3208,Nova União,6970.0
+3209,Nova Veneza,15166.0
+3210,Nova Venécia,50110.0
+3211,Nova Viçosa,43376.0
+3212,Nova Xavantina,21374.0
+3213,Novais,5830.0
+3214,Novo Acordo,4342.0
+3215,Novo Airão,19454.0
+3216,Novo Alegre,2332.0
+3217,Novo Aripuanã,25644.0
+3218,Novo Barreiro,4164.0
+3219,Novo Brasil,2913.0
+3220,Novo Cabrais,4196.0
+3221,Novo Cruzeiro,31331.0
+3222,Novo Gama,115711.0
+3223,Novo Hamburgo,246748.0
+3224,Novo Horizonte,41052.0
+3225,Novo Horizonte do Norte,4004.0
+3226,Novo Horizonte do Oeste,8538.0
+3227,Novo Horizonte do Sul,3814.0
+3228,Novo Itacolomi,2844.0
+3229,Novo Jardim,2722.0
+3230,Novo Lino,12690.0
+3231,Novo Machado,3323.0
+3232,Novo Mundo,9178.0
+3233,Novo Oriente,28607.0
+3234,Novo Oriente de Minas,10755.0
+3235,Novo Oriente do Piauí,6565.0
+3236,Novo Planalto,4495.0
+3237,Novo Progresso,25762.0
+3238,Novo Repartimento,75919.0
+3239,Novo Santo Antônio,2991.0
+3240,Novo São Joaquim,5074.0
+3241,Novo Tiradentes,2211.0
+3242,Novo Triunfo,15440.0
+3243,Novo Xingu,1719.0
+3244,Novorizonte,5299.0
+3245,Nuporanga,7432.0
+3246,Não-Me-Toque,17624.0
+3247,Nísia Floresta,27602.0
+3248,Ocara,25703.0
+3249,Ocauçu,4289.0
+3250,Oeiras,37029.0
+3251,Oeiras do Pará,32512.0
+3252,Oiapoque,27270.0
+3253,Olaria,1747.0
+3254,Olho D'Água do Piauí,2459.0
+3255,Olho d'Água,6526.0
+3256,Olho d'Água Grande,5123.0
+3257,Olho d'Água das Cunhãs,19505.0
+3258,Olho d'Água das Flores,21688.0
+3259,Olho d'Água do Borges,4258.0
+3260,Olho d'Água do Casado,9373.0
+3261,Olhos-d'Água,6096.0
+3262,Olinda,392482.0
+3263,Olinda Nova do Maranhão,14701.0
+3264,Olindina,28229.0
+3265,Olivedos,3932.0
+3266,Oliveira,41687.0
+3267,Oliveira Fortes,2133.0
+3268,Oliveira de Fátima,1112.0
+3269,Oliveira dos Brejinhos,21825.0
+3270,Olivença,11624.0
+3271,Olímpia,54772.0
+3272,Olímpio Noronha,2787.0
+3273,Onda Verde,4381.0
+3274,Onça de Pitangui,3148.0
+3275,Oratórios,4655.0
+3276,Oriente,6515.0
+3277,Orindiúva,7066.0
+3278,Oriximiná,73096.0
+3279,Orizona,15615.0
+3280,Orizânia,8018.0
+3281,Orleans,22912.0
+3282,Orlândia,44028.0
+3283,Orobó,23884.0
+3284,Orocó,14991.0
+3285,Ortigueira,22141.0
+3286,Orós,21427.0
+3287,Osasco,698418.0
+3288,Oscar Bressane,2603.0
+3289,Osvaldo Cruz,32879.0
+3290,Osório,45994.0
+3291,Otacílio Costa,18744.0
+3292,Ouricuri,69459.0
+3293,Ourilândia do Norte,32832.0
+3294,Ourinhos,113542.0
+3295,Ourizona,3428.0
+3296,Ouriçangas,8564.0
+3297,Ouro,7295.0
+3298,Ouro Branco,39500.0
+3299,Ouro Fino,33639.0
+3300,Ouro Preto,74281.0
+3301,Ouro Preto do Oeste,36035.0
+3302,Ouro Velho,3039.0
+3303,Ouro Verde,8562.0
+3304,Ouro Verde de Goiás,3759.0
+3305,Ouro Verde de Minas,5934.0
+3306,Ouro Verde do Oeste,5996.0
+3307,Ouroeste,10361.0
+3308,Ourolândia,17451.0
+3309,Ourém,17842.0
+3310,Ouvidor,6667.0
+3311,Pacaembu,14197.0
+3312,Pacajus,72203.0
+3313,Pacajá,47706.0
+3314,Pacaraima,17401.0
+3315,Pacatuba,83432.0
+3316,Pacoti,12261.0
+3317,Pacujá,6533.0
+3318,Padre Bernardo,33835.0
+3319,Padre Carvalho,6378.0
+3320,Padre Marcos,6868.0
+3321,Padre Paraíso,20154.0
+3322,Paes Landim,4129.0
+3323,Pai Pedro,6089.0
+3324,Paial,1505.0
+3325,Paim Filho,3828.0
+3326,Paineiras,4486.0
+3327,Painel,2359.0
+3328,Pains,8283.0
+3329,Paiva,1529.0
+3330,Paiçandu,41281.0
+3331,Pajeú do Piauí,3389.0
+3332,Palestina,12957.0
+3333,Palestina de Goiás,3464.0
+3334,Palestina do Pará,7589.0
+3335,Palhano,9386.0
+3336,Palhoça,171797.0
+3337,Palma,6616.0
+3338,Palma Sola,7423.0
+3339,Palmares,63250.0
+3340,Palmares Paulista,13275.0
+3341,Palmares do Sul,11318.0
+3342,Palmas,299127.0
+3343,Palmas de Monte Alto,21750.0
+3344,Palmeira,33877.0
+3345,Palmeira d'Oeste,9283.0
+3346,Palmeira das Missões,33303.0
+3347,Palmeira do Piauí,5043.0
+3348,Palmeira dos Índios,73218.0
+3349,Palmeirais,14539.0
+3350,Palmeirante,6026.0
+3351,Palmeiras,9019.0
+3352,Palmeiras de Goiás,28858.0
+3353,Palmeiras do Tocantins,6658.0
+3354,Palmeirina,7693.0
+3355,Palmeirândia,19722.0
+3356,Palmeirópolis,7659.0
+3357,Palmelo,2381.0
+3358,Palminópolis,3585.0
+3359,Palmital,22221.0
+3360,Palmitinho,7057.0
+3361,Palmitos,16169.0
+3362,Palmácia,13322.0
+3363,Palmópolis,5507.0
+3364,Palotina,31846.0
+3365,Panambi,43667.0
+3366,Panamá,2615.0
+3367,Pancas,23184.0
+3368,Panelas,26474.0
+3369,Panorama,15777.0
+3370,Pantano Grande,9174.0
+3371,Papagaios,15674.0
+3372,Papanduva,19320.0
+3373,Paquetá,3945.0
+3374,Paracambi,52257.0
+3375,Paracatu,93158.0
+3376,Paracuru,35076.0
+3377,Paragominas,113145.0
+3378,Paraguaçu,21513.0
+3379,Paraguaçu Paulista,45703.0
+3380,Paraibano,21386.0
+3381,Paraibuna,18222.0
+3382,Paraipaba,32744.0
+3383,Paraisópolis,21083.0
+3384,Parambu,31521.0
+3385,Paramirim,21607.0
+3386,Paramoti,12226.0
+3387,Paranacity,11472.0
+3388,Paranaguá,154936.0
+3389,Paranaiguara,10057.0
+3390,Paranapanema,20197.0
+3391,Paranapoema,3203.0
+3392,Paranapuã,4078.0
+3393,Paranatama,11523.0
+3394,Paranatinga,22563.0
+3395,Paranavaí,88374.0
+3396,Paranaíba,42148.0
+3397,Paranaíta,11225.0
+3398,Paranhos,14228.0
+3399,Paraná,4254.0
+3400,Paranã,10449.0
+3401,Paraopeba,24540.0
+3402,Parapuã,10964.0
+3403,Parari,1771.0
+3404,Paratinga,32000.0
+3405,Paraty,43165.0
+3406,Parauapebas,208273.0
+3407,Parazinho,5237.0
+3408,Paraí,7657.0
+3409,Paraíba do Sul,44285.0
+3410,Paraíso,6454.0
+3411,Paraíso das Águas,5555.0
+3412,Paraíso do Norte,13830.0
+3413,Paraíso do Sul,7611.0
+3414,Paraíso do Tocantins,51252.0
+3415,Paraú,3768.0
+3416,Paraúna,10988.0
+3417,Pardinho,6435.0
+3418,Pareci Novo,3837.0
+3419,Parecis,6074.0
+3420,Parelhas,21477.0
+3421,Pariconha,10533.0
+3422,Parintins,114273.0
+3423,Paripiranga,28989.0
+3424,Paripueira,13176.0
+3425,Pariquera-Açu,19648.0
+3426,Parisi,2161.0
+3427,Parnaguá,10791.0
+3428,Parnamirim,261469.0
+3429,Parnarama,34907.0
+3430,Parnaíba,153078.0
+3431,Parobé,58272.0
+3432,Pará de Minas,93969.0
+3433,Passa Quatro,16344.0
+3434,Passa Sete,5702.0
+3435,Passa Tempo,8084.0
+3436,Passa Vinte,2039.0
+3437,Passa e Fica,13277.0
+3438,Passabém,1649.0
+3439,Passagem,3089.0
+3440,Passagem Franca,19019.0
+3441,Passagem Franca do Piauí,4313.0
+3442,Passira,28933.0
+3443,Passo Fundo,203275.0
+3444,Passo de Camaragibe,15245.0
+3445,Passo de Torres,8823.0
+3446,Passo do Sobrado,6535.0
+3447,Passos,114679.0
+3448,Passos Maia,4147.0
+3449,Pastos Bons,19472.0
+3450,Patis,5972.0
+3451,Pato Bragado,5610.0
+3452,Pato Branco,82881.0
+3453,Patos,107605.0
+3454,Patos de Minas,152488.0
+3455,Patos do Piauí,6392.0
+3456,Patrocínio,90757.0
+3457,Patrocínio Paulista,14670.0
+3458,Patrocínio do Muriaé,5684.0
+3459,Patu,12755.0
+3460,Paty do Alferes,27769.0
+3461,Pau Brasil,9831.0
+3462,Pau D'Arco,5483.0
+3463,Pau D'Arco do Piauí,4045.0
+3464,Pau dos Ferros,30394.0
+3465,Paudalho,56506.0
+3466,Pauini,19426.0
+3467,Paula Cândido,9571.0
+3468,Paula Freitas,5873.0
+3469,Paulicéia,7366.0
+3470,Paulino Neves,16035.0
+3471,Paulista,331774.0
+3472,Paulistana,20523.0
+3473,Paulistas,4830.0
+3474,Paulistânia,1833.0
+3475,Paulo Afonso,117782.0
+3476,Paulo Bento,2293.0
+3477,Paulo Frontin,7354.0
+3478,Paulo Jacinto,7564.0
+3479,Paulo Lopes,7494.0
+3480,Paulo Ramos,21040.0
+3481,Paulo de Faria,8945.0
+3482,Paulínia,109424.0
+3483,Paverama,8487.0
+3484,Pavussu,3677.0
+3485,Pavão,8450.0
+3486,Paço do Lumiar,122197.0
+3487,Peabiru,13996.0
+3488,Pederneiras,46687.0
+3489,Pedra,22617.0
+3490,Pedra Azul,24324.0
+3491,Pedra Bela,6093.0
+3492,Pedra Bonita,7097.0
+3493,Pedra Branca,43258.0
+3494,Pedra Branca do Amapari,16502.0
+3495,Pedra Dourada,2504.0
+3496,Pedra Grande,3237.0
+3497,Pedra Lavrada,7843.0
+3498,Pedra Mole,3261.0
+3499,Pedra Preta,17626.0
+3500,Pedra do Anta,3052.0
+3501,Pedra do Indaiá,3972.0
+3502,Pedralva,11195.0
+3503,Pedranópolis,2494.0
+3504,Pedras Altas,1982.0
+3505,Pedras Grandes,3976.0
+3506,Pedras de Fogo,28458.0
+3507,Pedras de Maria da Cruz,12107.0
+3508,Pedregulho,16744.0
+3509,Pedreira,47919.0
+3510,Pedreiras,39229.0
+3511,Pedrinhas,9602.0
+3512,Pedrinhas Paulista,3093.0
+3513,Pedrinópolis,3635.0
+3514,Pedro Afonso,13578.0
+3515,Pedro Alexandre,16667.0
+3516,Pedro Avelino,6716.0
+3517,Pedro Canário,26184.0
+3518,Pedro Gomes,7674.0
+3519,Pedro II,38742.0
+3520,Pedro Laurentino,2536.0
+3521,Pedro Leopoldo,64258.0
+3522,Pedro Osório,7730.0
+3523,Pedro Régis,6089.0
+3524,Pedro Teixeira,1807.0
+3525,Pedro Velho,14806.0
+3526,Pedro de Toledo,11331.0
+3527,Pedro do Rosário,25144.0
+3528,Pedrão,7347.0
+3529,Peixe,11749.0
+3530,Peixe-Boi,8077.0
+3531,Peixoto de Azevedo,34976.0
+3532,Pejuçara,3874.0
+3533,Pelotas,342405.0
+3534,Penaforte,9077.0
+3535,Penalva,38470.0
+3536,Pendências,15129.0
+3537,Penedo,63683.0
+3538,Penha,32531.0
+3539,Pentecoste,37751.0
+3540,Penápolis,63407.0
+3541,Pequeri,3320.0
+3542,Pequi,4406.0
+3543,Pequizeiro,5477.0
+3544,Perdigão,11506.0
+3545,Perdizes,16168.0
+3546,Perdões,21390.0
+3547,Pereira Barreto,25669.0
+3548,Pereiras,8668.0
+3549,Pereiro,16307.0
+3550,Peri Mirim,14318.0
+3551,Periquito,6810.0
+3552,Peritiba,2787.0
+3553,Peritoró,23196.0
+3554,Perobal,6127.0
+3555,Perolândia,3129.0
+3556,Peruíbe,68284.0
+3557,Pescador,4252.0
+3558,Pescaria Brava,10091.0
+3559,Pesqueira,67395.0
+3560,Petrolina,349145.0
+3561,Petrolina de Goiás,10281.0
+3562,Petrolândia,36548.0
+3563,Petrópolis,306191.0
+3564,Peçanha,17541.0
+3565,Piacatu,5980.0
+3566,Piancó,16075.0
+3567,Piatã,17123.0
+3568,Piau,2748.0
+3569,Piaçabuçu,17827.0
+3570,Picada Café,5742.0
+3571,Picos,78222.0
+3572,Picuí,18703.0
+3573,Piedade,55348.0
+3574,Piedade de Caratinga,8566.0
+3575,Piedade de Ponte Nova,4140.0
+3576,Piedade do Rio Grande,4497.0
+3577,Piedade dos Gerais,4982.0
+3578,Pilar,35111.0
+3579,Pilar de Goiás,2253.0
+3580,Pilar do Sul,29185.0
+3581,Pilão Arcado,35048.0
+3582,Pilões,6635.0
+3583,Pilõezinhos,4976.0
+3584,Pimenta,8660.0
+3585,Pimenta Bueno,36660.0
+3586,Pimenteiras,12127.0
+3587,Pimenteiras do Oeste,2169.0
+3588,Pindamonhangaba,168328.0
+3589,Pindaré-Mirim,32941.0
+3590,Pindaí,16260.0
+3591,Pindoba,2908.0
+3592,Pindobaçu,20150.0
+3593,Pindorama,17049.0
+3594,Pindorama do Tocantins,4447.0
+3595,Pindoretama,20567.0
+3596,Pingo d'Água,4941.0
+3597,Pinhais,132157.0
+3598,Pinhal,2579.0
+3599,Pinhal Grande,4350.0
+3600,Pinhal da Serra,1941.0
+3601,Pinhal de São Bento,2731.0
+3602,Pinhalzinho,20313.0
+3603,Pinhalão,6326.0
+3604,Pinheiral,25156.0
+3605,Pinheirinho do Vale,4871.0
+3606,Pinheiro,83387.0
+3607,Pinheiro Machado,12271.0
+3608,Pinheiro Preto,3555.0
+3609,Pinheiros,27047.0
+3610,Pinhão,32391.0
+3611,Pintadas,10437.0
+3612,Pinto Bandeira,3003.0
+3613,Pintópolis,7507.0
+3614,Pio IX,18425.0
+3615,Pio XII,21485.0
+3616,Piquerobi,3692.0
+3617,Piquet Carneiro,16959.0
+3618,Piquete,13657.0
+3619,Piracaia,27303.0
+3620,Piracanjuba,24524.0
+3621,Piracema,6409.0
+3622,Piracicaba,404142.0
+3623,Piracuruca,28791.0
+3624,Piraju,29806.0
+3625,Pirajuba,6199.0
+3626,Pirajuí,25492.0
+3627,Pirambu,9280.0
+3628,Piranga,17626.0
+3629,Pirangi,11417.0
+3630,Piranguinho,8596.0
+3631,Piranguçu,5472.0
+3632,Piranhas,25039.0
+3633,Pirapemas,18625.0
+3634,Pirapetinga,10752.0
+3635,Pirapora,56428.0
+3636,Pirapora do Bom Jesus,18895.0
+3637,Pirapozinho,27527.0
+3638,Pirapó,2304.0
+3639,Piraquara,113036.0
+3640,Piraquê,3028.0
+3641,Pirassununga,76409.0
+3642,Piratini,20663.0
+3643,Piratininga,13636.0
+3644,Piratuba,3854.0
+3645,Piraí,29277.0
+3646,Piraí do Norte,10023.0
+3647,Piraí do Sul,25463.0
+3648,Piraúba,10787.0
+3649,Pirenópolis,24908.0
+3650,Pires Ferreira,10951.0
+3651,Pires do Rio,31458.0
+3652,Piripiri,63742.0
+3653,Piripá,10707.0
+3654,Piritiba,24755.0
+3655,Pirpirituba,10579.0
+3656,Pitanga,30310.0
+3657,Pitangueiras,39719.0
+3658,Pitangui,27989.0
+3659,Pitimbu,19065.0
+3660,Pium,7654.0
+3661,Piumhi,34691.0
+3662,Piçarra,12981.0
+3663,Piên,12746.0
+3664,Piúma,21711.0
+3665,Placas,30982.0
+3666,Planaltina,89918.0
+3667,Planaltina do Paraná,4263.0
+3668,Planaltino,9322.0
+3669,Planalto,26265.0
+3670,Planalto Alegre,2870.0
+3671,Planalto da Serra,2662.0
+3672,Planura,12133.0
+3673,Platina,3550.0
+3674,Plácido de Castro,19761.0
+3675,Pocinhos,18564.0
+3676,Poconé,32843.0
+3677,Pocrane,8432.0
+3678,Pojuca,39519.0
+3679,Poloni,6059.0
+3680,Pombal,32801.0
+3681,Pombos,27091.0
+3682,Pomerode,33447.0
+3683,Pompéia,22014.0
+3684,Pompéu,31812.0
+3685,Pongaí,3416.0
+3686,Ponta Grossa,351736.0
+3687,Ponta Porã,92526.0
+3688,Ponta de Pedras,31082.0
+3689,Pontal,49961.0
+3690,Pontal do Araguaia,6711.0
+3691,Pontal do Paraná,27284.0
+3692,Pontalina,17819.0
+3693,Pontalinda,4628.0
+3694,Ponte Alta,4682.0
+3695,Ponte Alta do Bom Jesus,4596.0
+3696,Ponte Alta do Norte,3414.0
+3697,Ponte Alta do Tocantins,8039.0
+3698,Ponte Branca,1576.0
+3699,Ponte Nova,59742.0
+3700,Ponte Preta,1547.0
+3701,Ponte Serrada,11593.0
+3702,Pontes Gestal,2577.0
+3703,Pontes e Lacerda,45436.0
+3704,Ponto Belo,7863.0
+3705,Ponto Chique,4261.0
+3706,Ponto Novo,14914.0
+3707,Ponto dos Volantes,12121.0
+3708,Pontão,3904.0
+3709,Populina,4169.0
+3710,Poranga,12336.0
+3711,Porangaba,9925.0
+3712,Porangatu,45394.0
+3713,Porciúncula,18847.0
+3714,Porecatu,12914.0
+3715,Portalegre,7867.0
+3716,Porteiras,14996.0
+3717,Porteirinha,37906.0
+3718,Porteirão,3881.0
+3719,Portel,62043.0
+3720,Portelândia,4011.0
+3721,Porto,12568.0
+3722,Porto Acre,18504.0
+3723,Porto Alegre,1483771.0
+3724,Porto Alegre do Norte,12517.0
+3725,Porto Alegre do Piauí,2710.0
+3726,Porto Alegre do Tocantins,3139.0
+3727,Porto Amazonas,4848.0
+3728,Porto Barreiro,3237.0
+3729,Porto Belo,21388.0
+3730,Porto Calvo,27165.0
+3731,Porto Esperidião,12017.0
+3732,Porto Estrela,2963.0
+3733,Porto Feliz,53098.0
+3734,Porto Ferreira,56150.0
+3735,Porto Firme,11279.0
+3736,Porto Franco,23885.0
+3737,Porto Grande,21971.0
+3738,Porto Lucena,4678.0
+3739,Porto Mauá,2374.0
+3740,Porto Murtinho,17131.0
+3741,Porto Nacional,53010.0
+3742,Porto Real,19683.0
+3743,Porto Real do Colégio,20066.0
+3744,Porto Rico,2559.0
+3745,Porto Rico do Maranhão,5975.0
+3746,Porto Seguro,148686.0
+3747,Porto União,35398.0
+3748,Porto Velho,529544.0
+3749,Porto Vera Cruz,1360.0
+3750,Porto Vitória,4065.0
+3751,Porto Walter,11982.0
+3752,Porto Xavier,10246.0
+3753,Porto da Folha,28596.0
+3754,Porto de Moz,41135.0
+3755,Porto de Pedras,7786.0
+3756,Porto do Mangue,6437.0
+3757,Porto dos Gaúchos,5410.0
+3758,Portão,37079.0
+3759,Posse,36900.0
+3760,Potengi,11045.0
+3761,Potim,24643.0
+3762,Potiraguá,7224.0
+3763,Potirendaba,17361.0
+3764,Potiretama,6419.0
+3765,Poté,16555.0
+3766,Pouso Alegre,150737.0
+3767,Pouso Alto,5940.0
+3768,Pouso Novo,1639.0
+3769,Pouso Redondo,17453.0
+3770,Poxoréu,16219.0
+3771,Poá,117452.0
+3772,Poço Branco,15413.0
+3773,Poço Dantas,3888.0
+3774,Poço Fundo,16791.0
+3775,Poço Redondo,34775.0
+3776,Poço Verde,23728.0
+3777,Poço das Antas,2098.0
+3778,Poço das Trincheiras,14386.0
+3779,Poço de José de Moura,4307.0
+3780,Poços de Caldas,167397.0
+3781,Poção,11302.0
+3782,Poção de Pedras,17873.0
+3783,Poções,46871.0
+3784,Pracinha,4093.0
+3785,Pracuúba,5120.0
+3786,Prado,28174.0
+3787,Prado Ferreira,3753.0
+3788,Prados,9031.0
+3789,Pradópolis,21496.0
+3790,Praia Grande,325073.0
+3791,Praia Norte,8432.0
+3792,Prainha,29866.0
+3793,Pranchita,5157.0
+3794,Prata,27856.0
+3795,Prata do Piauí,3151.0
+3796,Pratinha,3603.0
+3797,Pratápolis,8603.0
+3798,Pratânia,5261.0
+3799,Presidente Alves,4094.0
+3800,Presidente Bernardes,13106.0
+3801,Presidente Castello Branco,1568.0
+3802,Presidente Castelo Branco,5306.0
+3803,Presidente Dutra,47804.0
+3804,Presidente Epitácio,44200.0
+3805,Presidente Figueiredo,36279.0
+3806,Presidente Getúlio,17471.0
+3807,Presidente Juscelino,12734.0
+3808,Presidente Jânio Quadros,12338.0
+3809,Presidente Kennedy,11574.0
+3810,Presidente Kubitschek,3002.0
+3811,Presidente Lucena,2901.0
+3812,Presidente Médici,18986.0
+3813,Presidente Nereu,2287.0
+3814,Presidente Olegário,19573.0
+3815,Presidente Prudente,228743.0
+3816,Presidente Sarney,18918.0
+3817,Presidente Tancredo Neves,27719.0
+3818,Presidente Vargas,11193.0
+3819,Presidente Venceslau,39516.0
+3820,Primavera,14966.0
+3821,Primavera de Rondônia,2856.0
+3822,Primavera do Leste,62019.0
+3823,Primeira Cruz,15315.0
+3824,Primeiro de Maio,11123.0
+3825,Princesa,2924.0
+3826,Princesa Isabel,23345.0
+3827,Professor Jamil,3223.0
+3828,Progresso,6244.0
+3829,Promissão,40432.0
+3830,Propriá,29626.0
+3831,Protásio Alves,1947.0
+3832,Prudente de Morais,10733.0
+3833,Prudentópolis,52241.0
+3834,Pugmil,2688.0
+3835,Pureza,9621.0
+3836,Putinga,3919.0
+3837,Puxinanã,13680.0
+3838,Pão de Açúcar,24399.0
+3839,Pé de Serra,13578.0
+3840,Pérola,11234.0
+3841,Pérola d'Oeste,6347.0
+3842,Quadra,3804.0
+3843,Quaraí,22687.0
+3844,Quartel Geral,3563.0
+3845,Quarto Centenário,4512.0
+3846,Quatiguá,7449.0
+3847,Quatipuru,13608.0
+3848,Quatis,14302.0
+3849,Quatro Barras,23559.0
+3850,Quatro Irmãos,1849.0
+3851,Quatro Pontes,4015.0
+3852,Quatá,14109.0
+3853,Quebrangulo,11294.0
+3854,Quedas do Iguaçu,34103.0
+3855,Queimada Nova,8992.0
+3856,Queimadas,43967.0
+3857,Queimados,150319.0
+3858,Queiroz,3406.0
+3859,Queluz,13420.0
+3860,Queluzito,1939.0
+3861,Querência,17479.0
+3862,Querência do Norte,12206.0
+3863,Quevedos,2788.0
+3864,Quijingue,27580.0
+3865,Quilombo,9887.0
+3866,Quinta do Sol,4573.0
+3867,Quintana,6638.0
+3868,Quinze de Novembro,3796.0
+3869,Quipapá,26037.0
+3870,Quirinópolis,50065.0
+3871,Quissamã,24700.0
+3872,Quitandinha,19049.0
+3873,Quiterianópolis,21084.0
+3874,Quixaba,6813.0
+3875,Quixabeira,8972.0
+3876,Quixadá,87728.0
+3877,Quixelô,16178.0
+3878,Quixeramobim,81082.0
+3879,Quixeré,22149.0
+3880,Rafael Fernandes,5098.0
+3881,Rafael Godeiro,3201.0
+3882,Rafael Jambeiro,22621.0
+3883,Rafard,9076.0
+3884,Ramilândia,4451.0
+3885,Rancharia,29707.0
+3886,Rancho Alegre,3808.0
+3887,Rancho Alegre D'Oeste,2655.0
+3888,Rancho Queimado,2878.0
+3889,Raposa,30761.0
+3890,Raposos,16354.0
+3891,Raul Soares,23762.0
+3892,Realeza,16922.0
+3893,Rebouças,14899.0
+3894,Recife,1645727.0
+3895,Recreio,10517.0
+3896,Recursolândia,4293.0
+3897,Redentora,11549.0
+3898,Redenção,84787.0
+3899,Redenção da Serra,3851.0
+3900,Redenção do Gurguéia,8778.0
+3901,Reduto,7154.0
+3902,Regeneração,17978.0
+3903,Regente Feijó,20261.0
+3904,Reginópolis,9621.0
+3905,Registro,56322.0
+3906,Relvado,2090.0
+3907,Remanso,41008.0
+3908,Remígio,19621.0
+3909,Renascença,6802.0
+3910,Reriutaba,18491.0
+3911,Resende,131341.0
+3912,Resende Costa,11500.0
+3913,Reserva,26715.0
+3914,Reserva do Cabaçal,2732.0
+3915,Reserva do Iguaçu,8010.0
+3916,Resplendor,17397.0
+3917,Ressaquinha,4808.0
+3918,Restinga,7593.0
+3919,Restinga Sêca,15789.0
+3920,Retirolândia,14396.0
+3921,Riachinho,8136.0
+3922,Riacho Frio,4312.0
+3923,Riacho da Cruz,3579.0
+3924,Riacho das Almas,20546.0
+3925,Riacho de Santana,35421.0
+3926,Riacho de Santo Antônio,1948.0
+3927,Riacho dos Cavalos,8526.0
+3928,Riacho dos Machados,9481.0
+3929,Riachuelo,10213.0
+3930,Riachão,20195.0
+3931,Riachão das Neves,22339.0
+3932,Riachão do Bacamarte,4521.0
+3933,Riachão do Dantas,19805.0
+3934,Riachão do Jacuípe,33436.0
+3935,Riachão do Poço,4509.0
+3936,Rialma,10918.0
+3937,Rianápolis,4801.0
+3938,Ribamar Fiquene,7791.0
+3939,Ribas do Rio Pardo,24615.0
+3940,Ribeira,3340.0
+3941,Ribeira do Amparo,14592.0
+3942,Ribeira do Piauí,4477.0
+3943,Ribeira do Pombal,53807.0
+3944,Ribeiro Gonçalves,7341.0
+3945,Ribeirão,47415.0
+3946,Ribeirão Bonito,13219.0
+3947,Ribeirão Branco,16444.0
+3948,Ribeirão Cascalheira,10206.0
+3949,Ribeirão Claro,10668.0
+3950,Ribeirão Corrente,4718.0
+3951,Ribeirão Grande,7673.0
+3952,Ribeirão Pires,123393.0
+3953,Ribeirão Preto,703293.0
+3954,Ribeirão Vermelho,4033.0
+3955,Ribeirão das Neves,334858.0
+3956,Ribeirão do Largo,5812.0
+3957,Ribeirão do Pinhal,13029.0
+3958,Ribeirão do Sul,4541.0
+3959,Ribeirão dos Índios,2225.0
+3960,Ribeirãozinho,2405.0
+3961,Ribeirópolis,18652.0
+3962,Rifaina,3629.0
+3963,Rincão,10799.0
+3964,Rinópolis,9981.0
+3965,Rio Acima,10312.0
+3966,Rio Azul,15236.0
+3967,Rio Bananal,19141.0
+3968,Rio Bom,3203.0
+3969,Rio Bonito,60201.0
+3970,Rio Bonito do Iguaçu,13269.0
+3971,Rio Branco,407319.0
+3972,Rio Branco do Ivaí,4096.0
+3973,Rio Branco do Sul,32397.0
+3974,Rio Brilhante,37514.0
+3975,Rio Casca,13564.0
+3976,Rio Claro,206424.0
+3977,Rio Crespo,3764.0
+3978,Rio Doce,2610.0
+3979,Rio Espera,5474.0
+3980,Rio Formoso,23535.0
+3981,Rio Fortuna,4611.0
+3982,Rio Grande,211005.0
+3983,Rio Grande da Serra,50846.0
+3984,Rio Grande do Piauí,6432.0
+3985,Rio Largo,75120.0
+3986,Rio Manso,5832.0
+3987,Rio Maria,18193.0
+3988,Rio Negrinho,42302.0
+3989,Rio Negro,34170.0
+3990,Rio Novo,8949.0
+3991,Rio Novo do Sul,11622.0
+3992,Rio Paranaíba,12313.0
+3993,Rio Pardo,38275.0
+3994,Rio Pardo de Minas,30914.0
+3995,Rio Piracicaba,14339.0
+3996,Rio Pomba,17910.0
+3997,Rio Preto,5476.0
+3998,Rio Preto da Eva,33347.0
+3999,Rio Quente,4493.0
+4000,Rio Real,40732.0
+4001,Rio Rufino,2483.0
+4002,Rio Sono,6478.0
+4003,Rio Tinto,24176.0
+4004,Rio Verde,235647.0
+4005,Rio Verde de Mato Grosso,19746.0
+4006,Rio Vermelho,12846.0
+4007,Rio da Conceição,2130.0
+4008,Rio das Antas,6205.0
+4009,Rio das Flores,9284.0
+4010,Rio das Ostras,150674.0
+4011,Rio das Pedras,35228.0
+4012,Rio de Contas,12989.0
+4013,Rio de Janeiro,6718903.0
+4014,Rio do Antônio,15371.0
+4015,Rio do Campo,5940.0
+4016,Rio do Fogo,10848.0
+4017,Rio do Oeste,7489.0
+4018,Rio do Pires,11655.0
+4019,Rio do Prado,5150.0
+4020,Rio do Sul,71061.0
+4021,Rio dos Bois,2834.0
+4022,Rio dos Cedros,11676.0
+4023,Rio dos Índios,2752.0
+4024,Riolândia,12518.0
+4025,Riozinho,4653.0
+4026,Riqueza,4598.0
+4027,Ritápolis,4604.0
+4028,Riversul,5524.0
+4029,Roca Sales,11393.0
+4030,Rochedo,5499.0
+4031,Rochedo de Minas,2305.0
+4032,Rodeio,11551.0
+4033,Rodeio Bonito,5867.0
+4034,Rodeiro,8109.0
+4035,Rodelas,9331.0
+4036,Rodolfo Fernandes,4467.0
+4037,Rodrigues Alves,18930.0
+4038,Rolador,2323.0
+4039,Rolante,21349.0
+4040,Rolim de Moura,55058.0
+4041,Rolândia,66580.0
+4042,Romaria,3533.0
+4043,Romelândia,4786.0
+4044,Roncador,9849.0
+4045,Ronda Alta,10601.0
+4046,Rondinha,5130.0
+4047,Rondolândia,4001.0
+4048,Rondon,9579.0
+4049,Rondon do Pará,52357.0
+4050,Rondonópolis,232491.0
+4051,Roque Gonzales,6847.0
+4052,Rorainópolis,30163.0
+4053,Rosana,16643.0
+4054,Roseira,10712.0
+4055,Rosário,42740.0
+4056,Rosário Oeste,17151.0
+4057,Rosário da Limeira,4594.0
+4058,Rosário do Catete,10855.0
+4059,Rosário do Ivaí,4786.0
+4060,Rosário do Sul,39422.0
+4061,Roteiro,6664.0
+4062,Rubelita,5995.0
+4063,Rubiataba,19882.0
+4064,Rubim,10241.0
+4065,Rubinéia,3148.0
+4066,Rubiácea,3128.0
+4067,Rurópolis,50510.0
+4068,Russas,78194.0
+4069,Ruy Barbosa,30814.0
+4070,Sabará,136344.0
+4071,Sabino,5590.0
+4072,Sabinópolis,15470.0
+4073,Saboeiro,15819.0
+4074,Sabáudia,6827.0
+4075,Sacramento,26185.0
+4076,Sagrada Família,2609.0
+4077,Sagres,2432.0
+4078,Sairé,9932.0
+4079,Saldanha Marinho,2650.0
+4080,Sales,6331.0
+4081,Sales Oliveira,11890.0
+4082,Salesópolis,17139.0
+4083,Salete,7642.0
+4084,Salgadinho,10919.0
+4085,Salgado,19998.0
+4086,Salgado Filho,3580.0
+4087,Salgado de São Félix,12140.0
+4088,Salgueiro,60930.0
+4089,Salinas,41527.0
+4090,Salinas da Margarida,15667.0
+4091,Salinópolis,40675.0
+4092,Salitre,16554.0
+4093,Salmourão,5300.0
+4094,Saloá,15843.0
+4095,Saltinho,8286.0
+4096,Salto,118663.0
+4097,Salto Grande,9331.0
+4098,Salto Veloso,4718.0
+4099,Salto da Divisa,7009.0
+4100,Salto de Pirapora,45422.0
+4101,Salto do Céu,3365.0
+4102,Salto do Itararé,4935.0
+4103,Salto do Jacuí,12449.0
+4104,Salto do Lontra,14785.0
+4105,Salvador,2872347.0
+4106,Salvador das Missões,2733.0
+4107,Salvador do Sul,7799.0
+4108,Salvaterra,23752.0
+4109,Sambaíba,5671.0
+4110,Sampaio,4711.0
+4111,Sananduva,16270.0
+4112,Sanclerlândia,7637.0
+4113,Sandolândia,3375.0
+4114,Sandovalina,4302.0
+4115,Sangão,12678.0
+4116,Sanharó,26462.0
+4117,Sant'Ana do Livramento,77027.0
+4118,Santa Adélia,15480.0
+4119,Santa Albertina,6008.0
+4120,Santa Amélia,3324.0
+4121,Santa Branca,14788.0
+4122,Santa Brígida,14213.0
+4123,Santa Bárbara,31324.0
+4124,Santa Bárbara d'Oeste,193475.0
+4125,Santa Bárbara de Goiás,6560.0
+4126,Santa Bárbara do Leste,8147.0
+4127,Santa Bárbara do Monte Verde,3150.0
+4128,Santa Bárbara do Pará,21079.0
+4129,Santa Bárbara do Sul,7994.0
+4130,Santa Bárbara do Tugúrio,4430.0
+4131,Santa Carmem,4525.0
+4132,Santa Cecília,16830.0
+4133,Santa Cecília do Pavão,3334.0
+4134,Santa Cecília do Sul,1639.0
+4135,Santa Clara d'Oeste,2115.0
+4136,Santa Clara do Sul,6603.0
+4137,Santa Cruz,39674.0
+4138,Santa Cruz Cabrália,27778.0
+4139,Santa Cruz da Baixa Verde,12592.0
+4140,Santa Cruz da Conceição,4503.0
+4141,Santa Cruz da Esperança,2139.0
+4142,Santa Cruz da Vitória,6315.0
+4143,Santa Cruz das Palmeiras,34361.0
+4144,Santa Cruz de Goiás,2855.0
+4145,Santa Cruz de Minas,8604.0
+4146,Santa Cruz de Monte Castelo,7800.0
+4147,Santa Cruz de Salinas,4142.0
+4148,Santa Cruz do Arari,10128.0
+4149,Santa Cruz do Capibaribe,107937.0
+4150,Santa Cruz do Escalvado,4758.0
+4151,Santa Cruz do Piauí,6240.0
+4152,Santa Cruz do Rio Pardo,47673.0
+4153,Santa Cruz do Sul,130416.0
+4154,Santa Cruz do Xingu,2564.0
+4155,Santa Cruz dos Milagres,4019.0
+4156,Santa Efigênia de Minas,4409.0
+4157,Santa Ernestina,5599.0
+4158,Santa Filomena,14477.0
+4159,Santa Filomena do Maranhão,7773.0
+4160,Santa Fé,12037.0
+4161,Santa Fé de Goiás,5459.0
+4162,Santa Fé de Minas,3846.0
+4163,Santa Fé do Araguaia,7512.0
+4164,Santa Fé do Sul,32322.0
+4165,Santa Gertrudes,26898.0
+4166,Santa Helena,42130.0
+4167,Santa Helena de Goiás,38648.0
+4168,Santa Helena de Minas,6366.0
+4169,Santa Inês,89044.0
+4170,Santa Isabel,57386.0
+4171,Santa Isabel do Ivaí,8562.0
+4172,Santa Isabel do Rio Negro,25156.0
+4173,Santa Izabel do Oeste,14659.0
+4174,Santa Izabel do Pará,70801.0
+4175,Santa Juliana,14003.0
+4176,Santa Leopoldina,12224.0
+4177,Santa Luz,5860.0
+4178,Santa Luzia,219134.0
+4179,Santa Luzia D'Oeste,6495.0
+4180,Santa Luzia do Itanhy,14035.0
+4181,Santa Luzia do Norte,7296.0
+4182,Santa Luzia do Paruá,25254.0
+4183,Santa Luzia do Pará,19848.0
+4184,Santa Lúcia,8817.0
+4185,Santa Margarida,16208.0
+4186,Santa Margarida do Sul,2562.0
+4187,Santa Maria,282123.0
+4188,Santa Maria Madalena,10404.0
+4189,Santa Maria da Boa Vista,41931.0
+4190,Santa Maria da Serra,6173.0
+4191,Santa Maria da Vitória,39845.0
+4192,Santa Maria das Barreiras,21449.0
+4193,Santa Maria de Itabira,10847.0
+4194,Santa Maria de Jetibá,40431.0
+4195,Santa Maria do Cambucá,14137.0
+4196,Santa Maria do Herval,6331.0
+4197,Santa Maria do Oeste,9615.0
+4198,Santa Maria do Pará,24861.0
+4199,Santa Maria do Salto,5232.0
+4200,Santa Maria do Suaçuí,14615.0
+4201,Santa Maria do Tocantins,3434.0
+4202,Santa Mariana,11724.0
+4203,Santa Mercedes,2939.0
+4204,Santa Mônica,3981.0
+4205,Santa Quitéria,43703.0
+4206,Santa Quitéria do Maranhão,25642.0
+4207,Santa Rita,136586.0
+4208,Santa Rita d'Oeste,2498.0
+4209,Santa Rita de Caldas,8949.0
+4210,Santa Rita de Cássia,28338.0
+4211,Santa Rita de Ibitipoca,3425.0
+4212,Santa Rita de Jacutinga,4884.0
+4213,Santa Rita de Minas,7212.0
+4214,Santa Rita do Araguaia,8756.0
+4215,Santa Rita do Itueto,5489.0
+4216,Santa Rita do Novo Destino,3343.0
+4217,Santa Rita do Pardo,7851.0
+4218,Santa Rita do Passa Quatro,27557.0
+4219,Santa Rita do Sapucaí,43260.0
+4220,Santa Rita do Tocantins,2365.0
+4221,Santa Rita do Trivelato,3429.0
+4222,Santa Rosa,73254.0
+4223,Santa Rosa da Serra,3350.0
+4224,Santa Rosa de Goiás,2319.0
+4225,Santa Rosa de Lima,3913.0
+4226,Santa Rosa de Viterbo,26540.0
+4227,Santa Rosa do Piauí,5257.0
+4228,Santa Rosa do Purus,6540.0
+4229,Santa Rosa do Sul,8358.0
+4230,Santa Rosa do Tocantins,4829.0
+4231,Santa Salete,1545.0
+4232,Santa Teresa,23590.0
+4233,Santa Teresinha,4573.0
+4234,Santa Tereza,1729.0
+4235,Santa Tereza de Goiás,3355.0
+4236,Santa Tereza do Oeste,10139.0
+4237,Santa Tereza do Tocantins,2866.0
+4238,Santa Terezinha,11815.0
+4239,Santa Terezinha de Goiás,8744.0
+4240,Santa Terezinha de Itaipu,23465.0
+4241,Santa Terezinha do Progresso,2428.0
+4242,Santa Terezinha do Tocantins,2529.0
+4243,Santa Vitória,19742.0
+4244,Santa Vitória do Palmar,29676.0
+4245,Santaluz,37348.0
+4246,Santana,121364.0
+4247,Santana da Boa Vista,8098.0
+4248,Santana da Ponte Pensa,1487.0
+4249,Santana da Vargem,7100.0
+4250,Santana de Cataguases,3872.0
+4251,Santana de Mangueira,5162.0
+4252,Santana de Parnaíba,139447.0
+4253,Santana de Pirapama,7642.0
+4254,Santana do Acaraú,32452.0
+4255,Santana do Araguaia,72817.0
+4256,Santana do Cariri,17700.0
+4257,Santana do Deserto,3976.0
+4258,Santana do Garambéu,2458.0
+4259,Santana do Ipanema,47654.0
+4260,Santana do Itararé,4992.0
+4261,Santana do Jacaré,4821.0
+4262,Santana do Manhuaçu,8674.0
+4263,Santana do Maranhão,13386.0
+4264,Santana do Matos,12791.0
+4265,Santana do Mundaú,10740.0
+4266,Santana do Paraíso,34663.0
+4267,Santana do Piauí,4634.0
+4268,Santana do Riacho,4295.0
+4269,Santana do Seridó,2680.0
+4270,Santana do São Francisco,7780.0
+4271,Santana dos Garrotes,7031.0
+4272,Santana dos Montes,3777.0
+4273,Santanópolis,8943.0
+4274,Santarém,304589.0
+4275,Santarém Novo,6709.0
+4276,Santiago,49425.0
+4277,Santiago do Sul,1260.0
+4278,Santo Afonso,3146.0
+4279,Santo Amaro,60069.0
+4280,Santo Amaro da Imperatriz,23245.0
+4281,Santo Amaro das Brotas,12102.0
+4282,Santo Amaro do Maranhão,15846.0
+4283,Santo Anastácio,20878.0
+4284,Santo André,718773.0
+4285,Santo Antônio,24136.0
+4286,Santo Antônio da Alegria,6929.0
+4287,Santo Antônio da Barra,4821.0
+4288,Santo Antônio da Patrulha,42894.0
+4289,Santo Antônio da Platina,45993.0
+4290,Santo Antônio das Missões,10175.0
+4291,Santo Antônio de Goiás,6283.0
+4292,Santo Antônio de Jesus,101512.0
+4293,Santo Antônio de Lisboa,6415.0
+4294,Santo Antônio de Posse,23310.0
+4295,Santo Antônio de Pádua,42479.0
+4296,Santo Antônio do Amparo,18525.0
+4297,Santo Antônio do Aracanguá,8420.0
+4298,Santo Antônio do Aventureiro,3602.0
+4299,Santo Antônio do Caiuá,2641.0
+4300,Santo Antônio do Descoberto,74744.0
+4301,Santo Antônio do Grama,3911.0
+4302,Santo Antônio do Itambé,3838.0
+4303,Santo Antônio do Içá,21602.0
+4304,Santo Antônio do Jacinto,11640.0
+4305,Santo Antônio do Jardim,5954.0
+4306,Santo Antônio do Leste,5174.0
+4307,Santo Antônio do Leverger,16628.0
+4308,Santo Antônio do Monte,28243.0
+4309,Santo Antônio do Palma,2128.0
+4310,Santo Antônio do Paraíso,2106.0
+4311,Santo Antônio do Pinhal,6811.0
+4312,Santo Antônio do Planalto,2019.0
+4313,Santo Antônio do Retiro,7277.0
+4314,Santo Antônio do Rio Abaixo,1765.0
+4315,Santo Antônio do Sudoeste,20166.0
+4316,Santo Antônio do Tauá,31482.0
+4317,Santo Antônio dos Lopes,14528.0
+4318,Santo Antônio dos Milagres,2161.0
+4319,Santo Augusto,13885.0
+4320,Santo Cristo,14257.0
+4321,Santo Estêvão,52850.0
+4322,Santo Expedito,3111.0
+4323,Santo Expedito do Sul,2324.0
+4324,Santo Hipólito,3087.0
+4325,Santo Inácio,5438.0
+4326,Santo Inácio do Piauí,3798.0
+4327,Santo Ângelo,77593.0
+4328,Santos,433311.0
+4329,Santos Dumont,46487.0
+4330,Santópolis do Aguapeí,4777.0
+4331,Sapeaçu,17398.0
+4332,Sapezal,25881.0
+4333,Sapiranga,81734.0
+4334,Sapopema,6736.0
+4335,Sapucaia,18228.0
+4336,Sapucaia do Sul,141075.0
+4337,Sapucaí-Mirim,6930.0
+4338,Sapé,52625.0
+4339,Saquarema,89170.0
+4340,Sarandi,96688.0
+4341,Sarapuí,10285.0
+4342,Sardoá,6300.0
+4343,Sarutaiá,3638.0
+4344,Sarzedo,32752.0
+4345,Satuba,13828.0
+4346,Satubinha,13914.0
+4347,Saubara,12043.0
+4348,Saudade do Iguaçu,5500.0
+4349,Saudades,9745.0
+4350,Saúde,12913.0
+4351,Schroeder,21365.0
+4352,Seabra,44091.0
+4353,Seara,17541.0
+4354,Sebastianópolis do Sul,3513.0
+4355,Sebastião Barros,3469.0
+4356,Sebastião Laranjeiras,11434.0
+4357,Sebastião Leal,4294.0
+4358,Seberi,10750.0
+4359,Sede Nova,2907.0
+4360,Segredo,7421.0
+4361,Selbach,5100.0
+4362,Selvíria,6529.0
+4363,Sem-Peixe,2633.0
+4364,Sena Madureira,45848.0
+4365,Senador Alexandre Costa,11141.0
+4366,Senador Amaral,5356.0
+4367,Senador Canedo,115371.0
+4368,Senador Cortes,2005.0
+4369,Senador Elói de Souza,6086.0
+4370,Senador Firmino,7812.0
+4371,Senador Georgino Avelino,4440.0
+4372,Senador Guiomard,23024.0
+4373,Senador José Bento,1502.0
+4374,Senador José Porfírio,11658.0
+4375,Senador La Rocque,14293.0
+4376,Senador Modestino Gonçalves,4156.0
+4377,Senador Pompeu,25496.0
+4378,Senador Rui Palmeira,13870.0
+4379,Senador Salgado Filho,2779.0
+4380,Senador Sá,7623.0
+4381,Sengés,19327.0
+4382,Senhor do Bonfim,79015.0
+4383,Senhora de Oliveira,5786.0
+4384,Senhora do Porto,3523.0
+4385,Senhora dos Remédios,10459.0
+4386,Sentinela do Sul,5581.0
+4387,Sento Sé,40684.0
+4388,Serafina Corrêa,17502.0
+4389,Sericita,7326.0
+4390,Seringueiras,11856.0
+4391,Seritinga,1851.0
+4392,Seropédica,82312.0
+4393,Serra,517510.0
+4394,Serra Alta,3263.0
+4395,Serra Azul,14662.0
+4396,Serra Azul de Minas,4293.0
+4397,Serra Branca,13699.0
+4398,Serra Caiada,10395.0
+4399,Serra Dourada,17386.0
+4400,Serra Grande,2909.0
+4401,Serra Negra,29229.0
+4402,Serra Negra do Norte,8078.0
+4403,Serra Nova Dourada,1650.0
+4404,Serra Preta,14878.0
+4405,Serra Redonda,7041.0
+4406,Serra Talhada,86350.0
+4407,Serra da Raiz,3148.0
+4408,Serra da Saudade,781.0
+4409,Serra de São Bento,5762.0
+4410,Serra do Mel,11938.0
+4411,Serra do Navio,5397.0
+4412,Serra do Ramalho,31472.0
+4413,Serra do Salitre,11582.0
+4414,Serra dos Aimorés,8699.0
+4415,Serrana,45107.0
+4416,Serrania,7669.0
+4417,Serrano do Maranhão,10253.0
+4418,Serranos,1963.0
+4419,Serranópolis,8544.0
+4420,Serranópolis de Minas,4781.0
+4421,Serranópolis do Iguaçu,4495.0
+4422,Serraria,6099.0
+4423,Serrinha,80861.0
+4424,Serrinha dos Pintos,4800.0
+4425,Serrita,19165.0
+4426,Serro,20966.0
+4427,Serrolândia,13397.0
+4428,Sertaneja,5284.0
+4429,Sertanópolis,16369.0
+4430,Sertânia,35907.0
+4431,Sertão,5415.0
+4432,Sertão Santana,6486.0
+4433,Sertãozinho,125815.0
+4434,Sete Barras,12832.0
+4435,Sete Lagoas,239639.0
+4436,Sete Quedas,10791.0
+4437,Sete de Setembro,1970.0
+4438,Setubinha,12258.0
+4439,Severiano Melo,2440.0
+4440,Severiano de Almeida,3657.0
+4441,Severínia,17496.0
+4442,Siderópolis,14007.0
+4443,Sidrolândia,57665.0
+4444,Sigefredo Pacheco,10041.0
+4445,Silva Jardim,21774.0
+4446,Silvanópolis,5403.0
+4447,Silveira Martins,2384.0
+4448,Silveiras,6302.0
+4449,Silveirânia,2261.0
+4450,Silves,9171.0
+4451,Silvianópolis,6238.0
+4452,Silvânia,20695.0
+4453,Simolândia,6856.0
+4454,Simonésia,19633.0
+4455,Simplício Mendes,12711.0
+4456,Simão Dias,40484.0
+4457,Simão Pereira,2615.0
+4458,Simões,14633.0
+4459,Simões Filho,134377.0
+4460,Sinimbu,10172.0
+4461,Sinop,142996.0
+4462,Siqueira Campos,21016.0
+4463,Sirinhaém,45865.0
+4464,Siriri,8893.0
+4465,Sobradinho,23191.0
+4466,Sobrado,7783.0
+4467,Sobral,208935.0
+4468,Sobrália,5553.0
+4469,Socorro,41005.0
+4470,Socorro do Piauí,4569.0
+4471,Soledade,31002.0
+4472,Soledade de Minas,6151.0
+4473,Solidão,6007.0
+4474,Solonópole,18324.0
+4475,Solânea,26407.0
+4476,Sombrio,30374.0
+4477,Sonora,19274.0
+4478,Sooretama,30070.0
+4479,Sorocaba,679378.0
+4480,Sorriso,90313.0
+4481,Sossêgo,3555.0
+4482,Soure,25374.0
+4483,Sousa,69444.0
+4484,Souto Soares,16979.0
+4485,Sucupira,1966.0
+4486,Sucupira do Norte,10636.0
+4487,Sucupira do Riachão,5660.0
+4488,Sud Mennucci,7718.0
+4489,Sul Brasil,2461.0
+4490,Sulina,2981.0
+4491,Sumaré,282441.0
+4492,Sumidouro,15623.0
+4493,Sumé,16966.0
+4494,Surubim,65089.0
+4495,Sussuapara,6730.0
+4496,Suzano,297637.0
+4497,Suzanápolis,3963.0
+4498,Sátiro Dias,17273.0
+4499,São Benedito,47903.0
+4500,São Benedito do Rio Preto,18663.0
+4501,São Benedito do Sul,15895.0
+4502,São Bentinho,4529.0
+4503,São Bento,45211.0
+4504,São Bento Abade,5286.0
+4505,São Bento do Norte,2747.0
+4506,São Bento do Sapucaí,10878.0
+4507,São Bento do Sul,84507.0
+4508,São Bento do Tocantins,5324.0
+4509,São Bento do Trairí,4449.0
+4510,São Bento do Una,59504.0
+4511,São Bernardino,2336.0
+4512,São Bernardo,28507.0
+4513,São Bernardo do Campo,838936.0
+4514,São Bonifácio,2838.0
+4515,São Borja,60282.0
+4516,São Braz do Piauí,4448.0
+4517,São Brás,6961.0
+4518,São Brás do Suaçuí,3738.0
+4519,São Caetano de Odivelas,18050.0
+4520,São Caetano do Sul,161127.0
+4521,São Caitano,37245.0
+4522,São Carlos,251983.0
+4523,São Carlos do Ivaí,6878.0
+4524,São Cristóvão,90072.0
+4525,São Cristóvão do Sul,5549.0
+4526,São Desidério,33742.0
+4527,São Domingos,12949.0
+4528,São Domingos das Dores,5644.0
+4529,São Domingos do Araguaia,25557.0
+4530,São Domingos do Azeitão,7392.0
+4531,São Domingos do Capim,31989.0
+4532,São Domingos do Cariri,2615.0
+4533,São Domingos do Maranhão,34376.0
+4534,São Domingos do Norte,8638.0
+4535,São Domingos do Prata,17359.0
+4536,São Domingos do Sul,3074.0
+4537,São Felipe,21074.0
+4538,São Felipe D'Oeste,5172.0
+4539,São Fernando,3584.0
+4540,São Fidélis,38669.0
+4541,São Francisco,56323.0
+4542,São Francisco de Assis,18335.0
+4543,São Francisco de Assis do Piauí,5755.0
+4544,São Francisco de Goiás,6264.0
+4545,São Francisco de Itabapoana,42205.0
+4546,São Francisco de Paula,21710.0
+4547,São Francisco de Sales,6238.0
+4548,São Francisco do Brejão,11798.0
+4549,São Francisco do Conde,39802.0
+4550,São Francisco do Glória,4844.0
+4551,São Francisco do Guaporé,20266.0
+4552,São Francisco do Maranhão,12210.0
+4553,São Francisco do Oeste,4228.0
+4554,São Francisco do Pará,15882.0
+4555,São Francisco do Piauí,6423.0
+4556,São Francisco do Sul,52721.0
+4557,São Félix,14740.0
+4558,São Félix de Balsas,4585.0
+4559,São Félix de Minas,3369.0
+4560,São Félix do Araguaia,11708.0
+4561,São Félix do Coribe,15391.0
+4562,São Félix do Piauí,2942.0
+4563,São Félix do Tocantins,1585.0
+4564,São Félix do Xingu,128481.0
+4565,São Gabriel,62105.0
+4566,São Gabriel da Cachoeira,45564.0
+4567,São Gabriel da Palha,37947.0
+4568,São Gabriel do Oeste,26771.0
+4569,São Geraldo,12366.0
+4570,São Geraldo da Piedade,3962.0
+4571,São Geraldo do Araguaia,24847.0
+4572,São Geraldo do Baixio,4012.0
+4573,São Gonçalo,1084839.0
+4574,São Gonçalo do Abaeté,8389.0
+4575,São Gonçalo do Amarante,102400.0
+4576,São Gonçalo do Gurguéia,3041.0
+4577,São Gonçalo do Pará,12411.0
+4578,São Gonçalo do Piauí,5015.0
+4579,São Gonçalo do Rio Abaixo,10920.0
+4580,São Gonçalo do Rio Preto,3167.0
+4581,São Gonçalo do Sapucaí,25449.0
+4582,São Gonçalo dos Campos,37550.0
+4583,São Gotardo,35469.0
+4584,São Jerônimo,24248.0
+4585,São Jerônimo da Serra,11170.0
+4586,São Joaquim,26952.0
+4587,São Joaquim da Barra,51888.0
+4588,São Joaquim de Bicas,31578.0
+4589,São Joaquim do Monte,21356.0
+4590,São Jorge,2824.0
+4591,São Jorge d'Oeste,9050.0
+4592,São Jorge do Ivaí,5551.0
+4593,São Jorge do Patrocínio,5641.0
+4594,São José,246586.0
+4595,São José da Barra,7426.0
+4596,São José da Bela Vista,8928.0
+4597,São José da Boa Vista,6206.0
+4598,São José da Coroa Grande,21298.0
+4599,São José da Lagoa Tapada,7630.0
+4600,São José da Laje,23927.0
+4601,São José da Lapa,23766.0
+4602,São José da Safira,4268.0
+4603,São José da Tapera,32260.0
+4604,São José da Varginha,5004.0
+4605,São José da Vitória,5657.0
+4606,São José das Missões,2537.0
+4607,São José das Palmeiras,3654.0
+4608,São José de Caiana,6359.0
+4609,São José de Espinharas,4682.0
+4610,São José de Mipibu,43899.0
+4611,São José de Piranhas,20251.0
+4612,São José de Princesa,4003.0
+4613,São José de Ribamar,177687.0
+4614,São José de Ubá,7171.0
+4615,São José do Alegre,4196.0
+4616,São José do Barreiro,4147.0
+4617,São José do Belmonte,33959.0
+4618,São José do Bonfim,3557.0
+4619,São José do Brejo do Cruz,1801.0
+4620,São José do Calçado,10556.0
+4621,São José do Campestre,12856.0
+4622,São José do Cedro,13829.0
+4623,São José do Cerrito,8295.0
+4624,São José do Divino,5346.0
+4625,São José do Egito,33951.0
+4626,São José do Goiabal,5420.0
+4627,São José do Herval,1971.0
+4628,São José do Hortêncio,4804.0
+4629,São José do Inhacorá,2073.0
+4630,São José do Jacuri,6453.0
+4631,São José do Jacuípe,10462.0
+4632,São José do Mantimento,2791.0
+4633,São José do Norte,27568.0
+4634,São José do Ouro,6933.0
+4635,São José do Peixe,3745.0
+4636,São José do Piauí,6705.0
+4637,São José do Povo,4063.0
+4638,São José do Rio Claro,20664.0
+4639,São José do Rio Pardo,54946.0
+4640,São José do Rio Preto,460671.0
+4641,São José do Sabugi,4141.0
+4642,São José do Seridó,4634.0
+4643,São José do Sul,2408.0
+4644,São José do Vale do Rio Preto,21795.0
+4645,São José do Xingu,5595.0
+4646,São José dos Ausentes,3527.0
+4647,São José dos Basílios,7641.0
+4648,São José dos Campos,721944.0
+4649,São José dos Cordeiros,3628.0
+4650,São José dos Pinhais,323340.0
+4651,São José dos Quatro Marcos,18906.0
+4652,São José dos Ramos,5957.0
+4653,São João,22793.0
+4654,São João Batista,37424.0
+4655,São João Batista do Glória,7453.0
+4656,São João Evangelista,15774.0
+4657,São João Nepomuceno,26361.0
+4658,São João d'Aliança,13740.0
+4659,São João da Baliza,8201.0
+4660,São João da Barra,36102.0
+4661,São João da Boa Vista,91211.0
+4662,São João da Canabrava,4608.0
+4663,São João da Fronteira,6042.0
+4664,São João da Lagoa,4915.0
+4665,São João da Mata,2749.0
+4666,São João da Paraúna,1381.0
+4667,São João da Ponta,6139.0
+4668,São João da Ponte,25165.0
+4669,São João da Serra,6139.0
+4670,São João da Urtiga,4657.0
+4671,São João da Varjota,4840.0
+4672,São João das Duas Pontes,2568.0
+4673,São João das Missões,13014.0
+4674,São João de Iracema,1922.0
+4675,São João de Meriti,472406.0
+4676,São João de Pirabas,23045.0
+4677,São João del Rei,90082.0
+4678,São João do Araguaia,13996.0
+4679,São João do Arraial,7989.0
+4680,São João do Caiuá,5855.0
+4681,São João do Cariri,4199.0
+4682,São João do Carú,15808.0
+4683,São João do Itaperiú,3733.0
+4684,São João do Ivaí,10219.0
+4685,São João do Jaguaribe,7645.0
+4686,São João do Manhuaçu,11559.0
+4687,São João do Manteninha,5859.0
+4688,São João do Oeste,6381.0
+4689,São João do Oriente,7498.0
+4690,São João do Pacuí,4419.0
+4691,São João do Paraíso,23618.0
+4692,São João do Pau d'Alho,2105.0
+4693,São João do Piauí,20601.0
+4694,São João do Polêsine,2552.0
+4695,São João do Rio do Peixe,18034.0
+4696,São João do Sabugi,6193.0
+4697,São João do Soter,18543.0
+4698,São João do Sul,7297.0
+4699,São João do Tigre,4422.0
+4700,São João do Triunfo,15120.0
+4701,São João dos Patos,25929.0
+4702,São Julião,6363.0
+4703,São Leopoldo,236835.0
+4704,São Lourenço,45851.0
+4705,São Lourenço da Mata,113230.0
+4706,São Lourenço da Serra,15825.0
+4707,São Lourenço do Oeste,24076.0
+4708,São Lourenço do Piauí,4573.0
+4709,São Lourenço do Sul,43582.0
+4710,São Ludgero,13410.0
+4711,São Luis do Piauí,2644.0
+4712,São Luiz,7986.0
+4713,São Luiz Gonzaga,33468.0
+4714,São Luiz do Norte,5167.0
+4715,São Luiz do Paraitinga,10687.0
+4716,São Luís,1101884.0
+4717,São Luís Gonzaga do Maranhão,18856.0
+4718,São Luís de Montes Belos,33817.0
+4719,São Luís do Curu,13000.0
+4720,São Luís do Quitunde,34555.0
+4721,São Mamede,7724.0
+4722,São Manoel do Paraná,2160.0
+4723,São Manuel,40954.0
+4724,São Marcos,21556.0
+4725,São Martinho,5426.0
+4726,São Martinho da Serra,3234.0
+4727,São Mateus,130611.0
+4728,São Mateus do Maranhão,41529.0
+4729,São Mateus do Sul,46261.0
+4730,São Miguel,23519.0
+4731,São Miguel Arcanjo,32931.0
+4732,São Miguel da Baixa Grande,2452.0
+4733,São Miguel da Boa Vista,1820.0
+4734,São Miguel das Matas,11675.0
+4735,São Miguel das Missões,7673.0
+4736,São Miguel de Taipu,7368.0
+4737,São Miguel do Aleixo,3930.0
+4738,São Miguel do Anta,6938.0
+4739,São Miguel do Araguaia,21993.0
+4740,São Miguel do Fidalgo,3039.0
+4741,São Miguel do Gostoso,10282.0
+4742,São Miguel do Guamá,58986.0
+4743,São Miguel do Guaporé,23005.0
+4744,São Miguel do Iguaçu,27452.0
+4745,São Miguel do Oeste,40482.0
+4746,São Miguel do Passa Quatro,4057.0
+4747,São Miguel do Tapuio,17662.0
+4748,São Miguel do Tocantins,12139.0
+4749,São Miguel dos Campos,61251.0
+4750,São Miguel dos Milagres,7951.0
+4751,São Nicolau,5265.0
+4752,São Patrício,2036.0
+4753,São Paulo,12252023.0
+4754,São Paulo das Missões,5790.0
+4755,São Paulo de Olivença,39299.0
+4756,São Paulo do Potengi,17579.0
+4757,São Pedro,35653.0
+4758,São Pedro da Aldeia,104476.0
+4759,São Pedro da Cipa,4727.0
+4760,São Pedro da Serra,3801.0
+4761,São Pedro da União,4659.0
+4762,São Pedro da Água Branca,12690.0
+4763,São Pedro das Missões,2009.0
+4764,São Pedro de Alcântara,5823.0
+4765,São Pedro do Butiá,2947.0
+4766,São Pedro do Iguaçu,5897.0
+4767,São Pedro do Ivaí,10981.0
+4768,São Pedro do Paraná,2313.0
+4769,São Pedro do Piauí,14291.0
+4770,São Pedro do Suaçuí,5246.0
+4771,São Pedro do Sul,16198.0
+4772,São Pedro do Turvo,7666.0
+4773,São Pedro dos Crentes,4668.0
+4774,São Pedro dos Ferros,7781.0
+4775,São Rafael,8202.0
+4776,São Raimundo Nonato,34710.0
+4777,São Raimundo das Mangabeiras,18868.0
+4778,São Raimundo do Doca Bezerra,5237.0
+4779,São Roberto,6719.0
+4780,São Romão,12337.0
+4781,São Roque,91016.0
+4782,São Roque de Minas,7051.0
+4783,São Roque do Canaã,12415.0
+4784,São Salvador do Tocantins,3082.0
+4785,São Sebastião,88980.0
+4786,São Sebastião da Amoreira,8853.0
+4787,São Sebastião da Bela Vista,5504.0
+4788,São Sebastião da Boa Vista,26640.0
+4789,São Sebastião da Grama,12182.0
+4790,São Sebastião da Vargem Alegre,3007.0
+4791,São Sebastião de Lagoa de Roça,11661.0
+4792,São Sebastião do Alto,9357.0
+4793,São Sebastião do Anta,6555.0
+4794,São Sebastião do Caí,25685.0
+4795,São Sebastião do Maranhão,10044.0
+4796,São Sebastião do Oeste,6775.0
+4797,São Sebastião do Paraíso,70956.0
+4798,São Sebastião do Passé,44300.0
+4799,São Sebastião do Rio Preto,1506.0
+4800,São Sebastião do Rio Verde,2241.0
+4801,São Sebastião do Tocantins,4805.0
+4802,São Sebastião do Uatumã,14020.0
+4803,São Sebastião do Umbuzeiro,3489.0
+4804,São Sepé,23621.0
+4805,São Simão,20645.0
+4806,São Tiago,10941.0
+4807,São Tomás de Aquino,7021.0
+4808,São Tomé,11055.0
+4809,São Tomé das Letras,7089.0
+4810,São Valentim,3299.0
+4811,São Valentim do Sul,2242.0
+4812,São Valério,3960.0
+4813,São Valério do Sul,2727.0
+4814,São Vendelino,2243.0
+4815,São Vicente,365798.0
+4816,São Vicente Ferrer,22247.0
+4817,São Vicente Férrer,18018.0
+4818,São Vicente de Minas,7753.0
+4819,São Vicente do Seridó,10775.0
+4820,São Vicente do Sul,8721.0
+4821,Sério,1962.0
+4822,Sítio Novo,18081.0
+4823,Sítio Novo do Tocantins,9029.0
+4824,Sítio d'Abadia,2989.0
+4825,Sítio do Mato,13012.0
+4826,Sítio do Quinto,9986.0
+4827,Tabaporã,9489.0
+4828,Tabapuã,12407.0
+4829,Tabatinga,65844.0
+4830,Tabaí,4719.0
+4831,Tabira,28534.0
+4832,Tabocas do Brejo Velho,12518.0
+4833,Tabocão,2589.0
+4834,Taboleiro Grande,2566.0
+4835,Taboão da Serra,289664.0
+4836,Tabuleiro,3750.0
+4837,Tabuleiro do Norte,30697.0
+4838,Tacaimbó,12874.0
+4839,Tacaratu,25765.0
+4840,Taciba,6285.0
+4841,Tacima,10911.0
+4842,Tacuru,11552.0
+4843,Taguatinga,16683.0
+4844,Taguaí,13859.0
+4845,Taiaçu,6295.0
+4846,Tailândia,106339.0
+4847,Taiobeiras,34132.0
+4848,Taipas do Tocantins,2148.0
+4849,Taipu,12279.0
+4850,Taió,18395.0
+4851,Taiúva,5566.0
+4852,Talismã,2793.0
+4853,Tamandaré,23388.0
+4854,Tamarana,14797.0
+4855,Tambaú,23207.0
+4856,Tamboara,5120.0
+4857,Tamboril,26251.0
+4858,Tamboril do Piauí,2919.0
+4859,Tanabi,25967.0
+4860,Tangará,15727.0
+4861,Tangará da Serra,103750.0
+4862,Tanguá,34309.0
+4863,Tanhaçu,20403.0
+4864,Tanque Novo,17366.0
+4865,Tanque d'Arca,6162.0
+4866,Tanque do Piauí,2765.0
+4867,Tanquinho,7918.0
+4868,Taparuba,3110.0
+4869,Tapauá,17156.0
+4870,Tapejara,24111.0
+4871,Tapera,10584.0
+4872,Taperoá,21074.0
+4873,Tapes,17300.0
+4874,Tapira,5539.0
+4875,Tapiramutá,17010.0
+4876,Tapiratiba,12960.0
+4877,Tapiraí,7807.0
+4878,Tapurah,13705.0
+4879,Taquara,57466.0
+4880,Taquaral,2811.0
+4881,Taquaral de Goiás,3529.0
+4882,Taquarana,19980.0
+4883,Taquaraçu de Minas,4077.0
+4884,Taquari,26862.0
+4885,Taquaritinga,57177.0
+4886,Taquaritinga do Norte,28775.0
+4887,Taquarituba,23218.0
+4888,Taquarivaí,5852.0
+4889,Taquarussu,3588.0
+4890,Taquaruçu do Sul,3072.0
+4891,Tarabai,7468.0
+4892,Tarauacá,42567.0
+4893,Tarrafas,8592.0
+4894,Tartarugalzinho,17315.0
+4895,Tarumirim,14326.0
+4896,Tarumã,15000.0
+4897,Tasso Fragoso,8521.0
+4898,Tatuí,121766.0
+4899,Taubaté,314924.0
+4900,Tauá,58859.0
+4901,Tavares,14726.0
+4902,Tefé,59849.0
+4903,Teixeira,15161.0
+4904,Teixeira Soares,12367.0
+4905,Teixeira de Freitas,160487.0
+4906,Teixeiras,11661.0
+4907,Teixeirópolis,4308.0
+4908,Tejupá,4532.0
+4909,Tejuçuoca,19187.0
+4910,Telha,3227.0
+4911,Telêmaco Borba,78974.0
+4912,Tenente Ananias,10786.0
+4913,Tenente Laurentino Cruz,5952.0
+4914,Tenente Portela,13485.0
+4915,Tenório,3058.0
+4916,Teodoro Sampaio,23148.0
+4917,Teofilândia,22518.0
+4918,Teolândia,14943.0
+4919,Teotônio Vilela,44169.0
+4920,Terenos,21806.0
+4921,Teresina,864845.0
+4922,Teresina de Goiás,3458.0
+4923,Teresópolis,182594.0
+4924,Terezinha,7169.0
+4925,Terezópolis de Goiás,8043.0
+4926,Terra Alta,11720.0
+4927,Terra Boa,17094.0
+4928,Terra Nova,13033.0
+4929,Terra Nova do Norte,9667.0
+4930,Terra Rica,16789.0
+4931,Terra Roxa,17481.0
+4932,Terra Santa,18769.0
+4933,Terra de Areia,11204.0
+4934,Tesouro,3805.0
+4935,Teutônia,33232.0
+4936,Teófilo Otoni,140592.0
+4937,Theobroma,10444.0
+4938,Tianguá,75946.0
+4939,Tibagi,20522.0
+4940,Tibau,4106.0
+4941,Tibau do Sul,14180.0
+4942,Tietê,42076.0
+4943,Tigrinhos,1633.0
+4944,Tijucas,38407.0
+4945,Tijucas do Sul,16868.0
+4946,Timbaúba,53022.0
+4947,Timbaúba dos Batistas,2414.0
+4948,Timbiras,29124.0
+4949,Timburi,2658.0
+4950,Timbé do Sul,5348.0
+4951,Timbó,44238.0
+4952,Timbó Grande,7877.0
+4953,Timon,169107.0
+4954,Timóteo,89842.0
+4955,Tio Hugo,3030.0
+4956,Tiradentes,7981.0
+4957,Tiradentes do Sul,5704.0
+4958,Tiros,6480.0
+4959,Tobias Barreto,52191.0
+4960,Tocantins,16659.0
+4961,Tocantinópolis,22870.0
+4962,Tocantínia,7545.0
+4963,Tocos do Moji,4101.0
+4964,Toledo,140635.0
+4965,Tomar do Geru,13536.0
+4966,Tomazina,7918.0
+4967,Tombos,8022.0
+4968,Tomé-Açu,63447.0
+4969,Tonantins,18755.0
+4970,Toritama,45219.0
+4971,Torixoréu,3609.0
+4972,Toropi,2806.0
+4973,Torre de Pedra,2412.0
+4974,Torres,38732.0
+4975,Torrinha,10010.0
+4976,Touros,33287.0
+4977,Trabiju,1724.0
+4978,Tracuateua,30959.0
+4979,Tracunhaém,13769.0
+4980,Traipu,27715.0
+4981,Trairi,55918.0
+4982,Trairão,18989.0
+4983,Trajano de Moraes,10626.0
+4984,Tramandaí,51715.0
+4985,Travesseiro,2336.0
+4986,Tremedal,16394.0
+4987,Tremembé,47185.0
+4988,Treviso,3929.0
+4989,Treze Tílias,7840.0
+4990,Treze de Maio,7081.0
+4991,Trindade,127599.0
+4992,Trindade do Sul,5802.0
+4993,Triunfo,29538.0
+4994,Triunfo Potiguar,3237.0
+4995,Trizidela do Vale,21998.0
+4996,Trombas,3500.0
+4997,Trombudo Central,7360.0
+4998,Três Arroios,2668.0
+4999,Três Barras,19275.0
+5000,Três Barras do Paraná,12040.0
+5001,Três Cachoeiras,11053.0
+5002,Três Corações,79482.0
+5003,Três Coroas,28220.0
+5004,Três Forquilhas,2697.0
+5005,Três Fronteiras,5807.0
+5006,Três Lagoas,121388.0
+5007,Três Marias,32356.0
+5008,Três Palmeiras,4271.0
+5009,Três Passos,23906.0
+5010,Três Pontas,56746.0
+5011,Três Ranchos,2833.0
+5012,Três Rios,81804.0
+5013,Três de Maio,23906.0
+5014,Tubarão,105686.0
+5015,Tucano,50687.0
+5016,Tucumã,39602.0
+5017,Tucunduva,5678.0
+5018,Tucuruí,113659.0
+5019,Tufilândia,5840.0
+5020,Tuiuti,6894.0
+5021,Tumiritinga,6732.0
+5022,Tunas,4569.0
+5023,Tunas do Paraná,8769.0
+5024,Tuneiras do Oeste,8566.0
+5025,Tuntum,41832.0
+5026,Tunápolis,4543.0
+5027,Tupaciguara,25327.0
+5028,Tupanatinga,27304.0
+5029,Tupanci do Sul,1472.0
+5030,Tupanciretã,23948.0
+5031,Tupandi,4855.0
+5032,Tuparendi,7893.0
+5033,Tuparetama,8202.0
+5034,Tupi Paulista,15495.0
+5035,Tupirama,1891.0
+5036,Tupiratins,2671.0
+5037,Tupã,65524.0
+5038,Tupãssi,8124.0
+5039,Turiaçu,35604.0
+5040,Turilândia,25619.0
+5041,Turiúba,2016.0
+5042,Turmalina,19964.0
+5043,Tururu,16271.0
+5044,Turuçu,3438.0
+5045,Turvelândia,5281.0
+5046,Turvo,13215.0
+5047,Turvolândia,5040.0
+5048,Turvânia,4598.0
+5049,Tutóia,58860.0
+5050,Uarini,13540.0
+5051,Uauá,24240.0
+5052,Ubaitaba,19056.0
+5053,Ubajara,34792.0
+5054,Ubaporanga,12471.0
+5055,Ubarana,6309.0
+5056,Ubatuba,90799.0
+5057,Ubatã,27035.0
+5058,Ubaí,12533.0
+5059,Ubaíra,19895.0
+5060,Uberaba,333783.0
+5061,Uberlândia,691305.0
+5062,Ubirajara,4780.0
+5063,Ubiratã,21013.0
+5064,Ubiretama,2015.0
+5065,Ubá,115552.0
+5066,Uchoa,10110.0
+5067,Uibaí,13887.0
+5068,Uiramutã,10559.0
+5069,Uirapuru,2854.0
+5070,Uiraúna,15242.0
+5071,Ulianópolis,59210.0
+5072,Umari,7733.0
+5073,Umarizal,10555.0
+5074,Umbaúba,25294.0
+5075,Umburanas,19222.0
+5076,Umburatiba,2611.0
+5077,Umbuzeiro,9907.0
+5078,Umirim,19825.0
+5079,Umuarama,111557.0
+5080,Una,19002.0
+5081,Unaí,84378.0
+5082,Uniflor,2605.0
+5083,Unistalda,2338.0
+5084,União,44485.0
+5085,União Paulista,1844.0
+5086,União da Serra,1154.0
+5087,União da Vitória,57517.0
+5088,União de Minas,4304.0
+5089,União do Oeste,2464.0
+5090,União do Sul,3525.0
+5091,União dos Palmares,65611.0
+5092,Upanema,14659.0
+5093,Urandi,16658.0
+5094,Uraí,11314.0
+5095,Urbano Santos,33122.0
+5096,Uru,1165.0
+5097,Uruana,13843.0
+5098,Uruana de Minas,3264.0
+5099,Uruará,45476.0
+5100,Uruaçu,40532.0
+5101,Urubici,11235.0
+5102,Uruburetama,21850.0
+5103,Urucará,16256.0
+5104,Urucuia,16865.0
+5105,Urucurituba,23065.0
+5106,Urucânia,10358.0
+5107,Uruguaiana,126970.0
+5108,Uruoca,13840.0
+5109,Urupema,2465.0
+5110,Urupá,11467.0
+5111,Urupês,13809.0
+5112,Urussanga,21268.0
+5113,Urutaí,3072.0
+5114,Uruçuca,20519.0
+5115,Uruçuí,21558.0
+5116,Urânia,9114.0
+5117,Utinga,19178.0
+5118,Vacaria,66218.0
+5119,Vale Real,5913.0
+5120,Vale Verde,3497.0
+5121,Vale de São Domingos,3127.0
+5122,Vale do Anari,11204.0
+5123,Vale do Paraíso,6825.0
+5124,Vale do Sol,11781.0
+5125,Valente,28473.0
+5126,Valentim Gentil,13326.0
+5127,Valença,96562.0
+5128,Valença do Piauí,20918.0
+5129,Valinhos,129193.0
+5130,Valparaíso,26480.0
+5131,Valparaíso de Goiás,168468.0
+5132,Vanini,2113.0
+5133,Vargem,10537.0
+5134,Vargem Alegre,6480.0
+5135,Vargem Alta,21402.0
+5136,Vargem Bonita,4492.0
+5137,Vargem Grande,56510.0
+5138,Vargem Grande Paulista,52597.0
+5139,Vargem Grande do Rio Pardo,5007.0
+5140,Vargem Grande do Sul,42845.0
+5141,Vargeão,3573.0
+5142,Varginha,135558.0
+5143,Varjota,18420.0
+5144,Varjão,3827.0
+5145,Varjão de Minas,7036.0
+5146,Varre-Sai,11000.0
+5147,Varzedo,8838.0
+5148,Varzelândia,19320.0
+5149,Vassouras,36896.0
+5150,Vazante,20590.0
+5151,Venda Nova do Imigrante,25277.0
+5152,Venha-Ver,4177.0
+5153,Ventania,11892.0
+5154,Venturosa,18482.0
+5155,Venâncio Aires,71554.0
+5156,Vera,11309.0
+5157,Vera Cruz,43223.0
+5158,Vera Cruz do Oeste,8521.0
+5159,Vera Mendes,3077.0
+5160,Veranópolis,26241.0
+5161,Verdejante,9534.0
+5162,Verdelândia,9355.0
+5163,Vereda,6205.0
+5164,Veredinha,5720.0
+5165,Vermelho Novo,4839.0
+5166,Vertente do Lério,7618.0
+5167,Vertentes,20731.0
+5168,Verê,7257.0
+5169,Veríssimo,3999.0
+5170,Vespasiano,127601.0
+5171,Vespasiano Corrêa,1815.0
+5172,Viadutos,4756.0
+5173,Viamão,255224.0
+5174,Viana,78239.0
+5175,Vianópolis,13863.0
+5176,Vicente Dutra,4670.0
+5177,Vicentina,6102.0
+5178,Vicentinópolis,8743.0
+5179,Victor Graeff,2882.0
+5180,Vicência,32643.0
+5181,Vidal Ramos,6338.0
+5182,Videira,53065.0
+5183,Vieiras,3608.0
+5184,Vieirópolis,5348.0
+5185,Vigia,53686.0
+5186,Vila Bela da Santíssima Trindade,16128.0
+5187,Vila Boa,6171.0
+5188,Vila Flor,3170.0
+5189,Vila Flores,3385.0
+5190,Vila Lângaro,2091.0
+5191,Vila Maria,4358.0
+5192,Vila Nova do Piauí,2971.0
+5193,Vila Nova do Sul,4280.0
+5194,Vila Nova dos Martírios,13392.0
+5195,Vila Pavão,9208.0
+5196,Vila Propício,5821.0
+5197,Vila Rica,26037.0
+5198,Vila Valério,14080.0
+5199,Vila Velha,493838.0
+5200,Vilhena,99854.0
+5201,Vinhedo,78728.0
+5202,Viradouro,18898.0
+5203,Virgem da Lapa,13752.0
+5204,Virginópolis,10510.0
+5205,Virgolândia,5380.0
+5206,Virgínia,8674.0
+5207,Virmond,4023.0
+5208,Visconde do Rio Branco,42564.0
+5209,Viseu,61403.0
+5210,Vista Alegre,2752.0
+5211,Vista Alegre do Alto,8810.0
+5212,Vista Alegre do Prata,1561.0
+5213,Vista Gaúcha,2851.0
+5214,Vista Serrana,3798.0
+5215,Vitor Meireles,4979.0
+5216,Vitorino,6838.0
+5217,Vitorino Freire,31523.0
+5218,Vitória,362097.0
+5219,Vitória Brasil,1840.0
+5220,Vitória da Conquista,338480.0
+5221,Vitória das Missões,3133.0
+5222,Vitória de Santo Antão,138757.0
+5223,Vitória do Jari,15931.0
+5224,Vitória do Mearim,32764.0
+5225,Vitória do Xingu,15134.0
+5226,Viçosa,78846.0
+5227,Viçosa do Ceará,60889.0
+5228,Volta Grande,5252.0
+5229,Volta Redonda,273012.0
+5230,Votorantim,122480.0
+5231,Votuporanga,94547.0
+5232,Várzea,5500.0
+5233,Várzea Alegre,40721.0
+5234,Várzea Branca,4947.0
+5235,Várzea Grande,284971.0
+5236,Várzea Nova,12697.0
+5237,Várzea Paulista,121838.0
+5238,Várzea da Palma,39493.0
+5239,Várzea da Roça,14104.0
+5240,Várzea do Poço,9170.0
+5241,Wagner,9345.0
+5242,Wall Ferraz,4462.0
+5243,Wanderley,12238.0
+5244,Wanderlândia,11683.0
+5245,Wenceslau Braz,19414.0
+5246,Wenceslau Guimarães,21101.0
+5247,Westfália,3014.0
+5248,Witmarsum,3965.0
+5249,Xambioá,11540.0
+5250,Xambrê,5679.0
+5251,Xangri-lá,16408.0
+5252,Xanxerê,50982.0
+5253,Xapuri,19323.0
+5254,Xavantina,3933.0
+5255,Xaxim,28706.0
+5256,Xexéu,14725.0
+5257,Xinguara,44751.0
+5258,Xique-Xique,46483.0
+5259,Zabelê,2240.0
+5260,Zacarias,2718.0
+5261,Zortéa,3363.0
+5262,Zé Doca,51714.0
+5263,Água Azul do Norte,27430.0
+5264,Água Boa,25721.0
+5265,Água Branca,20196.0
+5266,Água Clara,15522.0
+5267,Água Comprida,1999.0
+5268,Água Doce,7145.0
+5269,Água Doce do Maranhão,12571.0
+5270,Água Doce do Norte,11019.0
+5271,Água Fria,16970.0
+5272,Água Fria de Goiás,5735.0
+5273,Água Limpa,1850.0
+5274,Água Nova,3252.0
+5275,Água Preta,36771.0
+5276,Água Santa,3748.0
+5277,Águas Belas,43443.0
+5278,Águas Formosas,19207.0
+5279,Águas Frias,2366.0
+5280,Águas Lindas de Goiás,212440.0
+5281,Águas Mornas,6469.0
+5282,Águas Vermelhas,13539.0
+5283,Águas da Prata,8180.0
+5284,Águas de Chapecó,6486.0
+5285,Águas de Lindóia,18705.0
+5286,Águas de Santa Bárbara,6075.0
+5287,Águas de São Pedro,3451.0
+5288,Águia Branca,9642.0
+5289,Álvares Florence,3679.0
+5290,Álvares Machado,24915.0
+5291,Álvaro de Carvalho,5227.0
+5292,Áurea,3554.0
+5293,Ângulo,2928.0
+5294,Érico Cardoso,10610.0
+5295,Óbidos,52137.0
+5296,Óleo,2496.0
