@@ -16,6 +16,7 @@ df_principal.drop(columns='Unnamed: 0',
                   inplace=True)
 df_principal.data = pd.to_datetime(df_principal.data)
 
+df_principal = df_principal[df_principal.data < '2023-01-01']
 
 df_populacao = pd.read_csv(funcoes.pegaarquivo_pasta('populacao.csv'))
 
